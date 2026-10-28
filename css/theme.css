@@ -1,0 +1,58 @@
+/* ==========================================================
+   SIDEKOM | Theme
+   Colors are taken from the SK Agency logo: deep navy and golden yellow.
+   Change a value here and it changes everywhere on the site.
+   ========================================================== */
+
+:root {
+  /* Brand colors */
+  --navy-950: #001237;
+  --navy-900: #001a4a;
+  --navy-800: #00225a;
+  --navy-700: #002865;
+  --navy-600: #0a3d8c;
+  --navy-200: #c9d6ec;
+  --navy-100: #e4ebf6;
+  --navy-50: #f3f6fb;
+
+  --gold-500: #f2ae05;
+  --gold-600: #e09a00;
+  --gold-300: #f8d57a;
+  --gold-100: #fdf1d0;
+
+  /* Text and lines */
+  --ink: #0b1b3a;
+  --text: #243350;
+  --muted: #56657f;
+  --line: #dde5f1;
+  --white: #ffffff;
+
+  /* Feedback */
+  --success: #1b7a46;
+  --danger: #b3261e;
+
+  /* Shape and depth */
+  --radius-sm: 10px;
+  --radius: 18px;
+  --radius-lg: 28px;
+  --shadow-sm: 0 2px 10px rgba(0, 26, 74, 0.06);
+  --shadow: 0 18px 40px -20px rgba(0, 26, 74, 0.3);
+  --shadow-lg: 0 30px 60px -24px rgba(0, 26, 74, 0.4);
+
+  /* Layout */
+  --container: 1180px;
+  --gutter: clamp(20px, 4vw, 40px);
+  --header-height: 80px;
+
+  /* Fonts */
+  --font-body: "Montserrat", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+}
+
+/* Arabic reads better in Cairo */
+html[lang="ar"] {
+  --font-body: "Cairo", "Segoe UI", Tahoma, Arial, sans-serif;
+}
+
+@media (max-width: 1060px) {
+  :root { --header-height: 72px; }
+}

@@ -1,0 +1,22 @@
+/* ==========================================================
+   SIDEKOM | Scroll animations
+   Elements marked class="reveal" fade in as they enter the screen.
+   Only active when JavaScript runs (html.js), so nothing is ever hidden without it.
+   ========================================================== */
+
+html.js .reveal {
+  opacity: 0;
+  transform: translateY(18px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+html.js .reveal.is-visible { opacity: 1; transform: none; }
+
+/* Gentle stagger for items that sit side by side */
+html.js .reveal:nth-child(2) { transition-delay: 0.08s; }
+html.js .reveal:nth-child(3) { transition-delay: 0.16s; }
+html.js .reveal:nth-child(4) { transition-delay: 0.24s; }
+
+@media (prefers-reduced-motion: reduce) {
+  html.js .reveal { opacity: 1; transform: none; transition: none; }
+  * { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
+}

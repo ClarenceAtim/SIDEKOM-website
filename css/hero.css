@@ -1,0 +1,107 @@
+/* ==========================================================
+   SIDEKOM | Home page hero and the "support cycle" card
+   ========================================================== */
+
+.hero {
+  position: relative;
+  overflow: hidden;
+  padding-block: clamp(48px, 8vw, 104px) clamp(56px, 8vw, 112px);
+  background:
+    radial-gradient(900px 480px at 88% -10%, rgba(242, 174, 5, 0.18), transparent 60%),
+    radial-gradient(800px 500px at -10% 110%, rgba(0, 40, 101, 0.08), transparent 60%),
+    linear-gradient(180deg, var(--white), var(--navy-50));
+}
+
+.hero__grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.15fr) minmax(0, 0.85fr);
+  align-items: center;
+  gap: clamp(32px, 5vw, 72px);
+}
+
+.hero h1 { margin-bottom: 22px; }
+/* The highlighted part of the headline gets a gold marker underline */
+.hero h1 em {
+  font-style: normal;
+  background: linear-gradient(transparent 66%, rgba(242, 174, 5, 0.55) 0);
+}
+.hero .lead { max-width: 580px; margin-bottom: 32px; }
+.hero__points { display: grid; gap: 10px; margin-top: 32px; }
+.hero__points li { font-weight: 600; color: var(--navy-700); }
+
+/* ---------- The 5-step cycle card ---------- */
+
+.cycle-card {
+  position: relative;
+  overflow: hidden;
+  padding: clamp(26px, 3.2vw, 38px);
+  border-radius: var(--radius-lg);
+  color: var(--white);
+  background: linear-gradient(160deg, var(--navy-700), var(--navy-950));
+  box-shadow: var(--shadow-lg);
+}
+.cycle-card::before {
+  content: "";
+  position: absolute;
+  inset-inline-end: -70px;
+  top: -70px;
+  width: 230px;
+  height: 230px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(242, 174, 5, 0.5), transparent 68%);
+}
+.cycle-card__title {
+  position: relative;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--gold-300);
+}
+.cycle-card__list {
+  position: relative;
+  counter-reset: step;
+  margin-top: 18px;
+}
+.cycle-card__list li {
+  counter-increment: step;
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding-block: 14px;
+  font-size: 1.05rem;
+  font-weight: 700;
+}
+.cycle-card__list li::before {
+  content: counter(step);
+  flex: none;
+  display: grid;
+  place-items: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 1.5px solid rgba(255, 255, 255, 0.32);
+  background: rgba(255, 255, 255, 0.1);
+  font-size: 0.95rem;
+}
+/* Thin line joining one step to the next */
+.cycle-card__list li:not(:last-child)::after {
+  content: "";
+  position: absolute;
+  inset-inline-start: 19px;
+  top: 54px;
+  height: calc(100% - 40px);
+  width: 2px;
+  background: rgba(255, 255, 255, 0.2);
+}
+.cycle-card__list li:last-child::before {
+  border-color: var(--gold-500);
+  background: var(--gold-500);
+  color: var(--navy-900);
+}
+
+@media (max-width: 900px) {
+  .hero__grid { grid-template-columns: minmax(0, 1fr); }
+  .cycle-card { max-width: 560px; }
+}

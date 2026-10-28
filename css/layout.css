@@ -1,0 +1,91 @@
+/* ==========================================================
+   SIDEKOM | Layout
+   Page sections, headings, grids and the call-to-action band.
+   ========================================================== */
+
+.section {
+  padding-block: clamp(60px, 8vw, 110px);
+}
+.section--alt { background: var(--navy-50); }
+
+.section--dark {
+  position: relative;
+  overflow: hidden;
+  color: var(--navy-200);
+  background: linear-gradient(160deg, var(--navy-700), var(--navy-950));
+}
+.section--dark h2,
+.section--dark h3 { color: var(--white); }
+.section--dark .eyebrow { color: var(--gold-300); }
+.section--dark .lead { color: var(--navy-200); }
+
+/* Centered heading used at the top of most sections */
+.section-heading {
+  max-width: 760px;
+  margin: 0 auto clamp(36px, 5vw, 60px);
+  text-align: center;
+}
+.section-heading .eyebrow { justify-content: center; }
+.section-heading h2 { margin-bottom: 16px; }
+
+/* Title block at the top of every inner page */
+.page-header {
+  position: relative;
+  overflow: hidden;
+  padding-block: clamp(48px, 7vw, 92px);
+  background:
+    radial-gradient(700px 380px at 90% -20%, rgba(242, 174, 5, 0.18), transparent 60%),
+    linear-gradient(180deg, var(--white), var(--navy-50));
+  border-bottom: 1px solid var(--line);
+}
+.page-header__inner { max-width: 780px; }
+.page-header h1 { margin-bottom: 18px; }
+
+/* Grids */
+.grid { display: grid; gap: 24px; }
+.grid--2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.grid--3 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.grid--4 { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+
+@media (max-width: 1100px) {
+  .grid--4 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 900px) {
+  .grid--3 { grid-template-columns: minmax(0, 1fr); max-width: 560px; margin-inline: auto; }
+}
+@media (max-width: 680px) {
+  .grid--2,
+  .grid--4 { grid-template-columns: minmax(0, 1fr); }
+}
+
+/* Call-to-action band that closes most pages */
+.cta-band {
+  position: relative;
+  overflow: hidden;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 32px;
+  padding: clamp(32px, 5vw, 56px);
+  border-radius: var(--radius-lg);
+  color: var(--navy-200);
+  background: linear-gradient(135deg, var(--navy-700), var(--navy-950));
+  box-shadow: var(--shadow-lg);
+}
+.cta-band::before {
+  content: "";
+  position: absolute;
+  inset-inline-end: -80px;
+  top: -80px;
+  width: 280px;
+  height: 280px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(242, 174, 5, 0.5), transparent 68%);
+}
+.cta-band > * { position: relative; }
+.cta-band h2 { margin-bottom: 10px; color: var(--white); font-size: clamp(1.5rem, 3vw, 2.2rem); }
+.cta-band p { max-width: 560px; }
+
+@media (max-width: 800px) {
+  .cta-band { grid-template-columns: minmax(0, 1fr); }
+}

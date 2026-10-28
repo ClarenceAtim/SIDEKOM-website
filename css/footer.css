@@ -1,0 +1,67 @@
+/* ==========================================================
+   SIDEKOM | Footer and floating WhatsApp button
+   ========================================================== */
+
+.site-footer {
+  padding-top: clamp(48px, 6vw, 72px);
+  color: var(--navy-200);
+  background: var(--navy-950);
+}
+
+.site-footer__grid {
+  display: grid;
+  grid-template-columns: 1.3fr 1fr 1.2fr;
+  gap: clamp(28px, 5vw, 64px);
+  padding-bottom: 44px;
+}
+.site-footer .brand img { height: 94px; width: auto; }
+.site-footer__tagline {
+  margin-top: 18px;
+  max-width: 320px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--navy-200);
+}
+
+.site-footer__title {
+  margin-bottom: 16px;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--gold-300);
+}
+.site-footer__links { display: grid; gap: 10px; }
+.site-footer__links a { color: var(--white); font-weight: 500; transition: color 0.18s; }
+.site-footer__links a:hover { color: var(--gold-300); }
+.site-footer__note { font-size: 0.92rem; }
+
+.site-footer__bottom {
+  padding-block: 22px;
+  border-top: 1px solid rgba(255, 255, 255, 0.12);
+  font-size: 0.86rem;
+}
+
+@media (max-width: 860px) {
+  .site-footer__grid { grid-template-columns: minmax(0, 1fr); }
+}
+
+/* Floating WhatsApp button: only shown when a WhatsApp number is set in js/settings.js */
+.whatsapp-float {
+  position: fixed;
+  inset-inline-end: 20px;
+  bottom: 20px;
+  z-index: 90;
+  display: grid;
+  place-items: center;
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: #25d366;
+  color: var(--white);
+  box-shadow: 0 14px 30px -10px rgba(0, 0, 0, 0.5);
+  transition: transform 0.2s;
+}
+.whatsapp-float:hover { transform: scale(1.08); }

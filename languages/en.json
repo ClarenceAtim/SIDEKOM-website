@@ -1,0 +1,333 @@
+{
+  "meta": {
+    "home": {
+      "title": "SIDEKOM | Communication, community management and events agency",
+      "description": "SIDEKOM supports businesses with external and internal communication, community management, digital communication, events and conferences, and business development."
+    },
+    "services": {
+      "title": "Our communication services | SIDEKOM",
+      "description": "External and internal communication, digital communication, business development and conversion: discover SIDEKOM's four areas of expertise."
+    },
+    "events": {
+      "title": "Events and conferences | SIDEKOM",
+      "description": "SIDEKOM designs, promotes and runs your conferences, seminars and corporate events, from preparation to follow-up."
+    },
+    "packs": {
+      "title": "Our packs | SIDEKOM",
+      "description": "Three 3-month packs to structure your digital presence, attract customers and automate your business."
+    },
+    "about": {
+      "title": "About us | SIDEKOM",
+      "description": "One point of contact, communication connected to performance and a network of selected experts: discover the SIDEKOM model."
+    },
+    "contact": {
+      "title": "Contact | SIDEKOM",
+      "description": "Tell us about your project by form, email or WhatsApp. Our team replies during office hours."
+    },
+    "notFound": {
+      "title": "Page not found | SIDEKOM"
+    }
+  },
+  "a11y": {
+    "skip": "Skip to content",
+    "language": "Choose language",
+    "menuOpen": "Open menu",
+    "menuClose": "Close menu",
+    "mainNav": "Main navigation",
+    "backToTop": "Back to top"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "events": "Events",
+    "packs": "Packs",
+    "about": "About",
+    "contact": "Talk about my project"
+  },
+  "common": {
+    "learnMore": "Learn more",
+    "seeDetails": "See details"
+  },
+  "hero": {
+    "eyebrow": "Communication and marketing agency",
+    "title": "Bring your brand to life, shine on the web, <em>turn your contacts into customers.</em>",
+    "text": "SIDEKOM supports businesses with their overall communication, visibility, events and business development.",
+    "primary": "Book a call",
+    "secondary": "Discover our services",
+    "points": [
+      "One single point of contact",
+      "Results tracked and measured",
+      "A network of carefully selected experts"
+    ],
+    "cycleTitle": "Our support cycle",
+    "cycle": [
+      "Communicate",
+      "Grow visibility",
+      "Attract",
+      "Convert",
+      "Retain"
+    ]
+  },
+  "services": {
+    "eyebrow": "Our services",
+    "title": "Four areas of expertise to cover every need of your business",
+    "text": "From message to sale, each area follows the same logic: connecting communication to performance.",
+    "external": {
+      "title": "External communication",
+      "text": "Build, strengthen and protect your company's image with its audiences.",
+      "list": [
+        "Corporate and institutional communication",
+        "Product launches and commercial promotion",
+        "Brand image and awareness",
+        "Public relations and events",
+        "Campaigns and communication materials"
+      ]
+    },
+    "internal": {
+      "title": "Internal communication",
+      "text": "Keep information flowing, engage your employees and build your company culture.",
+      "list": [
+        "Dialogue between management and staff",
+        "Newsletters, notes and internal materials",
+        "Change support and crisis management",
+        "Internal events and team building",
+        "Employer brand and HR communication"
+      ]
+    },
+    "digital": {
+      "title": "Digital communication",
+      "text": "Grow your online presence and turn that visibility into real customer acquisition.",
+      "list": [
+        "Digital strategy and community management",
+        "WhatsApp Business and online reputation",
+        "Logos, brand guidelines and materials",
+        "Photo, video and editing",
+        "Showcase websites and landing pages"
+      ]
+    },
+    "commercial": {
+      "title": "Business development and conversion",
+      "text": "Turn your visibility into tangible business results.",
+      "list": [
+        "Prospecting and qualified lead generation",
+        "Sales scripts and pitches",
+        "Conversion techniques",
+        "Sales team training",
+        "Customer journey optimization"
+      ]
+    }
+  },
+  "method": {
+    "eyebrow": "Our method",
+    "title": "A simple path, from the first conversation to results",
+    "text": "Three clear steps, with one point of contact from start to finish.",
+    "step1": {
+      "title": "Discussion and diagnosis",
+      "text": "We understand your business, your goals and your audience."
+    },
+    "step2": {
+      "title": "Strategy and setup",
+      "text": "We define the action plan and start producing content."
+    },
+    "step3": {
+      "title": "Follow-up and optimization",
+      "text": "We measure growth, engagement and the contacts you gain, then we adjust."
+    }
+  },
+  "events": {
+    "eyebrow": "Events and conferences",
+    "title": "Events that get people talking about you, before, during and after",
+    "text": "SIDEKOM designs and runs your conferences, launches, seminars and corporate events, then extends their impact online.",
+    "before": {
+      "label": "Before",
+      "title": "Design and preparation",
+      "list": [
+        "Concept, programme and speakers",
+        "Venue, logistics and suppliers",
+        "Invitations, registrations and promotion"
+      ]
+    },
+    "during": {
+      "label": "During",
+      "title": "The big day",
+      "list": [
+        "On-site welcome and coordination",
+        "Hosting and moderation",
+        "Photo, video and live social media coverage"
+      ]
+    },
+    "after": {
+      "label": "After",
+      "title": "Extending the impact",
+      "list": [
+        "Content and summaries to share",
+        "Thank-you messages and follow-ups",
+        "Results measurement and new contacts"
+      ]
+    },
+    "cta": "Talk about my event"
+  },
+  "packs": {
+    "eyebrow": "Our packs",
+    "title": "Three 3-month plans, from structuring to automation",
+    "text": "Choose the level of support that matches your ambition.",
+    "currency": "FCFA",
+    "duration": "/ 3 months",
+    "badge": "Recommended",
+    "choose": "Choose this pack",
+    "adNote": "Advertising budget not included.",
+    "essential": {
+      "name": "Essential Pack",
+      "tagline": "Your digital presence, structured and optimized",
+      "features": [
+        "Digital audit and strategy",
+        "Digital communication plan",
+        "Management of 2 social networks",
+        "12 pieces of content per month",
+        "Community management",
+        "Local SEO and Google optimization",
+        "Automation",
+        "Performance tracking and reporting"
+      ]
+    },
+    "growth": {
+      "name": "Growth Pack",
+      "tagline": "Turn your digital presence into an acquisition channel",
+      "features": [
+        "Digital audit, strategy and communication plan",
+        "Management of 3 social networks",
+        "12 to 16 pieces of content per month",
+        "Short video content production",
+        "Community management",
+        "Showcase website creation and optimization (up to 5 pages)",
+        "On-page SEO and local SEO",
+        "Advertising campaign and lead generation",
+        "Tracking and performance optimization",
+        "Reporting and lead follow-up"
+      ]
+    },
+    "premium": {
+      "name": "Premium Pack",
+      "tagline": "Grow, convert and automate your business",
+      "features": [
+        "Digital audit, strategy and communication plan",
+        "Multi-network social media management",
+        "16 to 20 pieces of content per month",
+        "Short video content production",
+        "Community management and continuous optimization",
+        "Advertising campaign management and optimization",
+        "Premium website or conversion funnel",
+        "Advanced SEO and local SEO",
+        "Automation and tool integration",
+        "AI and conversion workflows",
+        "Tracking, data and performance management",
+        "Reporting and strategic recommendations"
+      ]
+    }
+  },
+  "why": {
+    "eyebrow": "Our difference",
+    "title": "Why work with SIDEKOM?",
+    "text": "Many agencies stop at aesthetics. A beautiful visual is useless if it is not part of a conversion strategy.",
+    "one": {
+      "title": "One single point of contact",
+      "text": "One contact person manages your project, even when several experts are involved."
+    },
+    "two": {
+      "title": "Communication connected to performance",
+      "text": "Every action is part of a conversion strategy, whether it is to motivate your teams, attract the public or win over a prospect."
+    },
+    "three": {
+      "title": "A network of selected experts",
+      "text": "Technical delivery is handled by carefully chosen partners, under SIDEKOM's supervision."
+    },
+    "insideTitle": "At the heart of the agency",
+    "inside": [
+      "Strategy and consulting",
+      "Design of offers and campaigns",
+      "Client relationship and management",
+      "Project coordination",
+      "Quality control and results analysis"
+    ],
+    "partnersTitle": "Our partner network",
+    "partners": [
+      "Photographers",
+      "Videographers",
+      "Specialist graphic designers",
+      "Web developers",
+      "Printers"
+    ]
+  },
+  "faq": {
+    "eyebrow": "Frequently asked questions",
+    "title": "Your questions, our answers",
+    "q1": {
+      "question": "Who are your services for?",
+      "answer": "Businesses of all sizes, especially small and medium businesses that want structured communication and measurable results."
+    },
+    "q2": {
+      "question": "Is the advertising budget included?",
+      "answer": "No. For the Growth and Premium packs, the advertising budget is paid separately and added to the price of the pack. We create, manage and optimize your campaigns."
+    },
+    "q3": {
+      "question": "Who produces the photos, videos and websites?",
+      "answer": "Our network of selected partners handles technical production under SIDEKOM's supervision. You keep a single point of contact."
+    },
+    "q4": {
+      "question": "Do you organize conferences and events?",
+      "answer": "Yes. We take care of the design, promotion, coordination, live coverage and follow-up after the event."
+    },
+    "q5": {
+      "question": "How do we get started?",
+      "answer": "Write to us or book a call. We make a first diagnosis of your situation, then suggest the pack or programme that suits you best."
+    },
+    "q6": {
+      "question": "When are you available?",
+      "answer": "Our team works during office hours, Monday to Friday. We reply to every message as soon as possible."
+    }
+  },
+  "cta": {
+    "title": "Ready to make your brand shine?",
+    "text": "Let's talk about your goals and build the right action plan together.",
+    "button": "Book a call"
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Let's talk about your project",
+    "text": "Tell us about your situation and we will get back to you quickly.",
+    "hours": "Our team works during office hours, Monday to Friday.",
+    "book": "Book a time slot",
+    "whatsapp": "Write on WhatsApp",
+    "email": "Send an email"
+  },
+  "form": {
+    "name": "Full name",
+    "email": "Email address",
+    "company": "Company",
+    "need": "What do you need?",
+    "choose": "Choose…",
+    "needEvents": "Events and conferences",
+    "needGlobal": "Full support",
+    "pack": "Preferred pack (optional)",
+    "packNone": "I don't know yet",
+    "message": "Message",
+    "send": "Send my request",
+    "sending": "Sending…",
+    "success": "Thank you, your request has been sent. We will get back to you shortly.",
+    "error": "Sending failed. Please try again in a moment.",
+    "required": "Please fill in all required fields.",
+    "invalidEmail": "Please enter a valid email address.",
+    "notConfigured": "The form is not active yet. Please try again soon."
+  },
+  "footer": {
+    "tagline": "Brand strategy • Digital creation • Performance",
+    "menuTitle": "Navigation",
+    "contactTitle": "Contact",
+    "rights": "All rights reserved."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "text": "The page you are looking for does not exist or has been moved.",
+    "button": "Back to home"
+  }
+}

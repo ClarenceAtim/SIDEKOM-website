@@ -1,0 +1,333 @@
+{
+  "meta": {
+    "home": {
+      "title": "SIDEKOM | Agence de communication, community management et événements",
+      "description": "SIDEKOM accompagne les entreprises : communication externe et interne, community management, communication digitale, événements et conférences, développement commercial."
+    },
+    "services": {
+      "title": "Nos services de communication | SIDEKOM",
+      "description": "Communication externe et interne, communication digitale, développement commercial et conversion : découvrez les quatre pôles d'expertise de SIDEKOM."
+    },
+    "events": {
+      "title": "Événements et conférences | SIDEKOM",
+      "description": "SIDEKOM conçoit, promeut et anime vos conférences, séminaires et événements d'entreprise, de la préparation au suivi après l'événement."
+    },
+    "packs": {
+      "title": "Nos packs | SIDEKOM",
+      "description": "Trois packs de 3 mois pour structurer votre présence digitale, attirer des clients et automatiser votre activité."
+    },
+    "about": {
+      "title": "À propos | SIDEKOM",
+      "description": "Un interlocuteur unique, une communication reliée à la performance et un réseau d'experts sélectionnés : découvrez le modèle SIDEKOM."
+    },
+    "contact": {
+      "title": "Contact | SIDEKOM",
+      "description": "Parlez-nous de votre projet : formulaire, e-mail ou WhatsApp. Notre équipe vous répond pendant les heures de bureau."
+    },
+    "notFound": {
+      "title": "Page introuvable | SIDEKOM"
+    }
+  },
+  "a11y": {
+    "skip": "Aller au contenu",
+    "language": "Choisir la langue",
+    "menuOpen": "Ouvrir le menu",
+    "menuClose": "Fermer le menu",
+    "mainNav": "Navigation principale",
+    "backToTop": "Retour en haut"
+  },
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "events": "Événements",
+    "packs": "Packs",
+    "about": "À propos",
+    "contact": "Parler de mon projet"
+  },
+  "common": {
+    "learnMore": "En savoir plus",
+    "seeDetails": "Voir le détail"
+  },
+  "hero": {
+    "eyebrow": "Agence de communication et de marketing",
+    "title": "Donner vie à votre marque, rayonner sur le web, <em>transformer vos contacts en clients.</em>",
+    "text": "SIDEKOM accompagne les entreprises dans leur communication globale, leur visibilité, leurs événements et leur développement commercial.",
+    "primary": "Réserver un échange",
+    "secondary": "Découvrir nos services",
+    "points": [
+      "Un interlocuteur unique",
+      "Des résultats suivis et mesurés",
+      "Un réseau d'experts sélectionnés"
+    ],
+    "cycleTitle": "Notre cycle d'accompagnement",
+    "cycle": [
+      "Communiquer",
+      "Développer la visibilité",
+      "Attirer",
+      "Convertir",
+      "Fidéliser"
+    ]
+  },
+  "services": {
+    "eyebrow": "Nos services",
+    "title": "Quatre pôles pour répondre à l'ensemble des besoins de votre entreprise",
+    "text": "Du message à la vente, chaque pôle s'appuie sur la même logique : relier la communication à la performance.",
+    "external": {
+      "title": "Communication externe",
+      "text": "Construire, renforcer et protéger l'image de votre entreprise auprès de ses publics.",
+      "list": [
+        "Communication corporate et institutionnelle",
+        "Lancement et promotion commerciale",
+        "Image et notoriété de marque",
+        "Relations publiques et événementiel",
+        "Campagnes et supports de communication"
+      ]
+    },
+    "internal": {
+      "title": "Communication interne",
+      "text": "Faire circuler l'information, engager vos collaborateurs et structurer votre culture d'entreprise.",
+      "list": [
+        "Échanges direction et collaborateurs",
+        "Newsletters, notes et supports internes",
+        "Accompagnement du changement et gestion de crise",
+        "Événementiel interne et team building",
+        "Marque employeur et communication RH"
+      ]
+    },
+    "digital": {
+      "title": "Communication digitale",
+      "text": "Développer votre présence en ligne et transformer cette visibilité en acquisition concrète.",
+      "list": [
+        "Stratégie digitale et community management",
+        "WhatsApp Business et réputation en ligne",
+        "Logos, chartes graphiques et supports",
+        "Photo, vidéo et montage",
+        "Sites vitrines et landing pages"
+      ]
+    },
+    "commercial": {
+      "title": "Développement commercial et conversion",
+      "text": "Transformer votre visibilité en résultats commerciaux tangibles.",
+      "list": [
+        "Prospection et génération de contacts qualifiés",
+        "Scripts commerciaux et argumentaires de vente",
+        "Techniques de conversion",
+        "Formation des équipes commerciales",
+        "Optimisation du parcours client"
+      ]
+    }
+  },
+  "method": {
+    "eyebrow": "Notre méthode",
+    "title": "Un parcours simple, du premier échange aux résultats",
+    "text": "Trois étapes claires, avec un seul interlocuteur du début à la fin.",
+    "step1": {
+      "title": "Échange et diagnostic",
+      "text": "Nous comprenons votre activité, vos objectifs et votre audience."
+    },
+    "step2": {
+      "title": "Stratégie et mise en place",
+      "text": "Nous définissons le plan d'action et lançons la production de contenus."
+    },
+    "step3": {
+      "title": "Suivi et optimisation",
+      "text": "Nous mesurons la croissance, l'engagement et les contacts obtenus, puis nous ajustons."
+    }
+  },
+  "events": {
+    "eyebrow": "Événements et conférences",
+    "title": "Des événements qui font parler de vous, avant, pendant et après",
+    "text": "SIDEKOM conçoit et organise vos conférences, lancements, séminaires et événements d'entreprise, puis prolonge leur impact en ligne.",
+    "before": {
+      "label": "Avant",
+      "title": "Conception et préparation",
+      "list": [
+        "Concept, programme et intervenants",
+        "Lieu, logistique et prestataires",
+        "Invitations, inscriptions et promotion"
+      ]
+    },
+    "during": {
+      "label": "Pendant",
+      "title": "Le jour J",
+      "list": [
+        "Accueil et coordination sur place",
+        "Animation et modération",
+        "Photo, vidéo et direct sur les réseaux"
+      ]
+    },
+    "after": {
+      "label": "Après",
+      "title": "Prolonger l'impact",
+      "list": [
+        "Contenus et résumés à partager",
+        "Remerciements et relances",
+        "Mesure des résultats et nouveaux contacts"
+      ]
+    },
+    "cta": "Parler de mon événement"
+  },
+  "packs": {
+    "eyebrow": "Nos packs",
+    "title": "Trois formules sur 3 mois, de la structuration à l'automatisation",
+    "text": "Choisissez le niveau d'accompagnement qui correspond à votre ambition.",
+    "currency": "FCFA",
+    "duration": "/ 3 mois",
+    "badge": "Recommandé",
+    "choose": "Choisir ce pack",
+    "adNote": "Budget publicitaire non inclus.",
+    "essential": {
+      "name": "Pack Essentiel",
+      "tagline": "Votre présence digitale, structurée et optimisée",
+      "features": [
+        "Audit et stratégie digitale",
+        "Plan de communication digital",
+        "Gestion de 2 réseaux sociaux",
+        "12 contenus par mois",
+        "Community management",
+        "Référencement local et optimisation Google",
+        "Automatisation",
+        "Suivi des performances et reporting"
+      ]
+    },
+    "growth": {
+      "name": "Pack Growth",
+      "tagline": "Transformez votre présence digitale en canal d'acquisition",
+      "features": [
+        "Audit digital, stratégie et plan de communication",
+        "Gestion de 3 réseaux sociaux",
+        "12 à 16 contenus par mois",
+        "Production de contenus vidéo courts",
+        "Community management",
+        "Création et optimisation d'un site vitrine (jusqu'à 5 pages)",
+        "SEO on-page et référencement local",
+        "Campagne publicitaire et génération de leads",
+        "Tracking et optimisation des performances",
+        "Reporting et suivi des leads"
+      ]
+    },
+    "premium": {
+      "name": "Pack Premium",
+      "tagline": "Développez, convertissez et automatisez votre activité",
+      "features": [
+        "Audit digital, stratégie et plan de communication",
+        "Gestion multi-réseaux sociaux",
+        "16 à 20 contenus par mois",
+        "Production de contenus vidéo courts",
+        "Community management et optimisation continue",
+        "Gestion et optimisation des campagnes publicitaires",
+        "Site web premium ou tunnel de conversion",
+        "SEO avancé et référencement local",
+        "Automatisation et intégration d'outils",
+        "IA et workflows de conversion",
+        "Tracking, data et pilotage de la performance",
+        "Reporting et recommandations stratégiques"
+      ]
+    }
+  },
+  "why": {
+    "eyebrow": "Notre différence",
+    "title": "Pourquoi travailler avec SIDEKOM ?",
+    "text": "Beaucoup d'agences s'arrêtent à l'esthétique. Un beau visuel ne sert à rien s'il ne s'intègre pas dans une stratégie de conversion.",
+    "one": {
+      "title": "Un interlocuteur unique",
+      "text": "Un seul point de contact pilote votre projet, même quand plusieurs experts interviennent."
+    },
+    "two": {
+      "title": "La communication reliée à la performance",
+      "text": "Chaque action s'inscrit dans une stratégie de conversion, pour motiver vos équipes, attirer le grand public ou convaincre un prospect."
+    },
+    "three": {
+      "title": "Un réseau d'experts sélectionnés",
+      "text": "L'exécution technique est confiée à des prestataires rigoureusement choisis, sous la supervision de SIDEKOM."
+    },
+    "insideTitle": "Au cœur de l'agence",
+    "inside": [
+      "Stratégie et conseil",
+      "Conception des offres et des campagnes",
+      "Relation et pilotage client",
+      "Coordination des projets",
+      "Contrôle qualité et analyse des résultats"
+    ],
+    "partnersTitle": "Notre réseau de partenaires",
+    "partners": [
+      "Photographes",
+      "Vidéastes",
+      "Graphistes spécialisés",
+      "Développeurs web",
+      "Imprimeurs"
+    ]
+  },
+  "faq": {
+    "eyebrow": "Questions fréquentes",
+    "title": "Vos questions, nos réponses",
+    "q1": {
+      "question": "À qui s'adressent vos services ?",
+      "answer": "Aux entreprises de toutes tailles, en particulier aux PME qui veulent une communication structurée et des résultats mesurables."
+    },
+    "q2": {
+      "question": "Le budget publicitaire est-il inclus ?",
+      "answer": "Non. Pour les packs Growth et Premium, le budget publicitaire reste à votre charge et s'ajoute au prix du pack. Nous créons, gérons et optimisons vos campagnes."
+    },
+    "q3": {
+      "question": "Qui réalise les photos, les vidéos et les sites web ?",
+      "answer": "Notre réseau de partenaires sélectionnés assure la production technique sous la supervision de SIDEKOM. Vous gardez un interlocuteur unique."
+    },
+    "q4": {
+      "question": "Organisez-vous des conférences et des événements ?",
+      "answer": "Oui. Nous nous occupons de la conception, de la promotion, de la coordination, de la couverture en direct et du suivi après l'événement."
+    },
+    "q5": {
+      "question": "Comment démarrer ?",
+      "answer": "Écrivez-nous ou réservez un échange. Nous faisons un premier diagnostic de votre situation, puis nous vous proposons le pack ou le programme le plus adapté."
+    },
+    "q6": {
+      "question": "Quand êtes-vous disponibles ?",
+      "answer": "Notre équipe travaille pendant les heures de bureau, du lundi au vendredi. Nous répondons à chaque message dans les meilleurs délais."
+    }
+  },
+  "cta": {
+    "title": "Prêt à faire rayonner votre marque ?",
+    "text": "Parlons de vos objectifs et construisons ensemble le bon plan d'action.",
+    "button": "Réserver un échange"
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Parlons de votre projet",
+    "text": "Décrivez-nous votre situation, nous revenons vers vous rapidement.",
+    "hours": "Notre équipe travaille pendant les heures de bureau, du lundi au vendredi.",
+    "book": "Réserver un créneau",
+    "whatsapp": "Écrire sur WhatsApp",
+    "email": "Envoyer un e-mail"
+  },
+  "form": {
+    "name": "Nom complet",
+    "email": "Adresse e-mail",
+    "company": "Entreprise",
+    "need": "Votre besoin",
+    "choose": "Choisir…",
+    "needEvents": "Événements et conférences",
+    "needGlobal": "Accompagnement global",
+    "pack": "Pack souhaité (facultatif)",
+    "packNone": "Je ne sais pas encore",
+    "message": "Message",
+    "send": "Envoyer ma demande",
+    "sending": "Envoi en cours…",
+    "success": "Merci, votre demande a bien été envoyée. Nous revenons vers vous rapidement.",
+    "error": "L'envoi a échoué. Merci de réessayer dans un instant.",
+    "required": "Merci de remplir tous les champs obligatoires.",
+    "invalidEmail": "Merci d'indiquer une adresse e-mail valide.",
+    "notConfigured": "Le formulaire n'est pas encore activé. Merci de réessayer bientôt."
+  },
+  "footer": {
+    "tagline": "Stratégie de marque • Création digitale • Performance",
+    "menuTitle": "Navigation",
+    "contactTitle": "Contact",
+    "rights": "Tous droits réservés."
+  },
+  "notFound": {
+    "title": "Page introuvable",
+    "text": "La page que vous cherchez n'existe pas ou a été déplacée.",
+    "button": "Retour à l'accueil"
+  }
+}

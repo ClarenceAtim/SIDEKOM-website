@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr">
+<head>
+  <!-- shared:head -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#002865">
+<meta name="google" content="notranslate">
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="SIDEKOM">
+<!-- Replace with the full web address once the domain is live (social networks need a full URL) -->
+<meta property="og:image" content="https://votre-domaine.com/images/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicons/favicon-32.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/images/favicons/favicon-192.png">
+<link rel="apple-touch-icon" href="/images/favicons/apple-touch-icon.png">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;800&family=Montserrat:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="/css/theme.css">
+<link rel="stylesheet" href="/css/base.css">
+<link rel="stylesheet" href="/css/layout.css">
+<link rel="stylesheet" href="/css/buttons.css">
+<link rel="stylesheet" href="/css/header.css">
+<link rel="stylesheet" href="/css/hero.css">
+<link rel="stylesheet" href="/css/cards.css">
+<link rel="stylesheet" href="/css/packs.css">
+<link rel="stylesheet" href="/css/faq.css">
+<link rel="stylesheet" href="/css/forms.css">
+<link rel="stylesheet" href="/css/footer.css">
+<link rel="stylesheet" href="/css/animations.css">
+<link rel="stylesheet" href="/css/rtl.css">
+
+<!-- Runs before the page is drawn: picks the visitor's language so the page opens in the right
+     language and direction (no flash of French). Keep this list in line with js/settings.js. -->
+<script>
+  (function () {
+    var root = document.documentElement;
+    root.classList.add("js");
+    try {
+      var supported = ["fr", "en", "es", "pt", "ar"];
+      var asked = new URLSearchParams(location.search).get("lang");
+      var saved = localStorage.getItem("sidekom-language");
+      var browser = (navigator.language || "").slice(0, 2).toLowerCase();
+      var language = [asked, saved, browser].filter(function (code) {
+        return supported.indexOf(code) > -1;
+      })[0] || "fr";
+      root.lang = language;
+      root.dir = language === "ar" ? "rtl" : "ltr";
+      if (language !== "fr") root.classList.add("is-translating");
+    } catch (error) { /* storage blocked: stay in French */ }
+  })();
+</script>
+
+<!-- Visitor statistics (optional): uncomment and put your domain. Plausible is paid but simple and cookie-free. -->
+<!-- <script defer data-domain="votre-domaine.com" src="https://plausible.io/js/script.js"></script> -->
+<!-- /shared:head -->
+
+  <title data-i18n="meta.packs.title">Nos packs | SIDEKOM</title>
+  <meta name="description" content="Trois packs de 3 mois pour structurer votre présence digitale, attirer des clients et automatiser votre activité." data-i18n-content="meta.packs.description">
+  <meta property="og:title" content="Nos packs | SIDEKOM" data-i18n-content="meta.packs.title">
+  <meta property="og:description" content="Trois packs de 3 mois pour structurer votre présence digitale, attirer des clients et automatiser votre activité." data-i18n-content="meta.packs.description">
+</head>
+<body>
+  <!-- shared:icons -->
+<svg class="icon-sprite" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+  <symbol id="icon-check" viewBox="0 0 24 24"><path d="M20 6 9 17l-5-5"/></symbol>
+  <symbol id="icon-chevron" viewBox="0 0 24 24"><path d="m6 9 6 6 6-6"/></symbol>
+  <symbol id="icon-arrow" viewBox="0 0 24 24"><path d="M5 12h14"/><path d="m13 6 6 6-6 6"/></symbol>
+  <symbol id="icon-plus" viewBox="0 0 24 24"><path d="M12 5v14"/><path d="M5 12h14"/></symbol>
+  <symbol id="icon-globe" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M2 12h20"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></symbol>
+  <symbol id="icon-megaphone" viewBox="0 0 24 24"><path d="m3 11 18-5v12L3 14v-3z"/><path d="M11.6 16.8a3 3 0 1 1-5.8-1.6"/></symbol>
+  <symbol id="icon-users" viewBox="0 0 24 24"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></symbol>
+  <symbol id="icon-monitor" viewBox="0 0 24 24"><rect width="20" height="14" x="2" y="3" rx="2"/><path d="M8 21h8"/><path d="M12 17v4"/></symbol>
+  <symbol id="icon-trending" viewBox="0 0 24 24"><path d="m22 7-8.5 8.5-5-5L2 17"/><path d="M16 7h6v6"/></symbol>
+  <symbol id="icon-calendar" viewBox="0 0 24 24"><path d="M8 2v4"/><path d="M16 2v4"/><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M3 10h18"/></symbol>
+  <symbol id="icon-mail" viewBox="0 0 24 24"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></symbol>
+  <symbol id="icon-chat" viewBox="0 0 24 24"><path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z"/></symbol>
+  <symbol id="icon-clock" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></symbol>
+  <symbol id="icon-sparkle" viewBox="0 0 24 24"><path d="m12 3 1.9 5.1L19 10l-5.1 1.9L12 17l-1.9-5.1L5 10l5.1-1.9z"/></symbol>
+</svg>
+<!-- /shared:icons -->
+  <!-- shared:header -->
+<a class="skip-link" href="#main" data-i18n="a11y.skip">Aller au contenu</a>
+
+<header class="site-header" data-site-header>
+  <div class="container site-header__bar">
+    <a class="brand" href="/" aria-label="SIDEKOM">
+      <img src="/images/sidekom-logo.png" alt="SIDEKOM, SK Agency" width="62" height="56">
+    </a>
+
+    <nav class="site-nav" id="site-nav" aria-label="Navigation principale" data-i18n-aria="a11y.mainNav" data-site-nav>
+      <ul class="site-nav__list">
+        <li><a href="/" data-nav="home" data-i18n="nav.home">Accueil</a></li>
+        <li><a href="/services.html" data-nav="services" data-i18n="nav.services">Services</a></li>
+        <li><a href="/events.html" data-nav="events" data-i18n="nav.events">Événements</a></li>
+        <li><a href="/packs.html" data-nav="packs" data-i18n="nav.packs">Packs</a></li>
+        <li><a href="/about.html" data-nav="about" data-i18n="nav.about">À propos</a></li>
+      </ul>
+      <a class="button button--primary site-nav__cta" href="/contact.html" data-nav="contact" data-i18n="nav.contact">Parler de mon projet</a>
+    </nav>
+
+    <div class="site-header__tools">
+      <div class="language-picker" data-language-picker>
+        <button type="button" class="language-picker__button" aria-haspopup="listbox" aria-expanded="false" aria-controls="language-list" aria-label="Choisir la langue" data-i18n-aria="a11y.language" data-language-button>
+          <svg class="icon" aria-hidden="true"><use href="#icon-globe"/></svg>
+          <span data-language-current>FR</span>
+          <svg class="icon icon--small language-picker__chevron" aria-hidden="true"><use href="#icon-chevron"/></svg>
+        </button>
+        <ul class="language-picker__list" id="language-list" role="listbox" tabindex="-1" aria-label="Choisir la langue" data-i18n-aria="a11y.language" hidden data-language-list></ul>
+      </div>
+
+      <button type="button" class="menu-toggle" aria-expanded="false" aria-controls="site-nav" aria-label="Ouvrir le menu" data-menu-toggle>
+        <span class="menu-toggle__bars" aria-hidden="true"></span>
+      </button>
+    </div>
+  </div>
+</header>
+<!-- /shared:header -->
+
+  <main id="main">
+
+    <section class="page-header">
+      <div class="container page-header__inner">
+        <p class="eyebrow" data-i18n="packs.eyebrow">Nos packs</p>
+        <h1 data-i18n="packs.title">Trois formules sur 3 mois, de la structuration à l'automatisation</h1>
+        <p class="lead" data-i18n="packs.text">Choisissez le niveau d'accompagnement qui correspond à votre ambition.</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="packs">
+
+          <article class="pack reveal">
+            <h3 data-i18n="packs.essential.name">Pack Essentiel</h3>
+            <p class="pack__tagline" data-i18n="packs.essential.tagline">Votre présence digitale, structurée et optimisée</p>
+            <p class="pack__price">
+              <span class="pack__amount" data-price="250000">250 000</span>
+              <span class="pack__currency" data-i18n="packs.currency">FCFA</span>
+              <span class="pack__duration" data-i18n="packs.duration">/ 3 mois</span>
+            </p>
+            <ul class="check-list" data-i18n-list="packs.essential.features"><li>Audit et stratégie digitale</li><li>Plan de communication digital</li><li>Gestion de 2 réseaux sociaux</li><li>12 contenus par mois</li><li>Community management</li><li>Référencement local et optimisation Google</li><li>Automatisation</li><li>Suivi des performances et reporting</li></ul>
+            <a class="button button--outline button--block" href="/contact.html?pack=essential" data-i18n="packs.choose">Choisir ce pack</a>
+          </article>
+
+          <article class="pack pack--featured reveal">
+            <span class="pack__badge" data-i18n="packs.badge">Recommandé</span>
+            <h3 data-i18n="packs.growth.name">Pack Growth</h3>
+            <p class="pack__tagline" data-i18n="packs.growth.tagline">Transformez votre présence digitale en canal d'acquisition</p>
+            <p class="pack__price">
+              <span class="pack__amount" data-price="450000">450 000</span>
+              <span class="pack__currency" data-i18n="packs.currency">FCFA</span>
+              <span class="pack__duration" data-i18n="packs.duration">/ 3 mois</span>
+            </p>
+            <ul class="check-list" data-i18n-list="packs.growth.features"><li>Audit digital, stratégie et plan de communication</li><li>Gestion de 3 réseaux sociaux</li><li>12 à 16 contenus par mois</li><li>Production de contenus vidéo courts</li><li>Community management</li><li>Création et optimisation d'un site vitrine (jusqu'à 5 pages)</li><li>SEO on-page et référencement local</li><li>Campagne publicitaire et génération de leads</li><li>Tracking et optimisation des performances</li><li>Reporting et suivi des leads</li></ul>
+            <p class="pack__note" data-i18n="packs.adNote">Budget publicitaire non inclus.</p>
+            <a class="button button--primary button--block" href="/contact.html?pack=growth" data-i18n="packs.choose">Choisir ce pack</a>
+          </article>
+
+          <article class="pack reveal">
+            <h3 data-i18n="packs.premium.name">Pack Premium</h3>
+            <p class="pack__tagline" data-i18n="packs.premium.tagline">Développez, convertissez et automatisez votre activité</p>
+            <p class="pack__price">
+              <span class="pack__amount" data-price="600000">600 000</span>
+              <span class="pack__currency" data-i18n="packs.currency">FCFA</span>
+              <span class="pack__duration" data-i18n="packs.duration">/ 3 mois</span>
+            </p>
+            <ul class="check-list" data-i18n-list="packs.premium.features"><li>Audit digital, stratégie et plan de communication</li><li>Gestion multi-réseaux sociaux</li><li>16 à 20 contenus par mois</li><li>Production de contenus vidéo courts</li><li>Community management et optimisation continue</li><li>Gestion et optimisation des campagnes publicitaires</li><li>Site web premium ou tunnel de conversion</li><li>SEO avancé et référencement local</li><li>Automatisation et intégration d'outils</li><li>IA et workflows de conversion</li><li>Tracking, data et pilotage de la performance</li><li>Reporting et recommandations stratégiques</li></ul>
+            <p class="pack__note" data-i18n="packs.adNote">Budget publicitaire non inclus.</p>
+            <a class="button button--outline button--block" href="/contact.html?pack=premium" data-i18n="packs.choose">Choisir ce pack</a>
+          </article>
+
+        </div>
+      </div>
+    </section>
+
+    <section class="section section--alt">
+      <div class="container">
+        <header class="section-heading">
+          <p class="eyebrow" data-i18n="faq.eyebrow">Questions fréquentes</p>
+          <h2 data-i18n="faq.title">Vos questions, nos réponses</h2>
+        </header>
+
+        <div class="faq">
+          <details class="faq__item" name="faq">
+            <summary class="faq__question">
+              <span data-i18n="faq.q1.question">À qui s'adressent vos services ?</span>
+              <svg class="icon" aria-hidden="true"><use href="#icon-plus"/></svg>
+            </summary>
+            <p class="faq__answer" data-i18n="faq.q1.answer">Aux entreprises de toutes tailles, en particulier aux PME qui veulent une communication structurée et des résultats mesurables.</p>
+          </details>
+
+          <details class="faq__item" name="faq">
+            <summary class="faq__question">
+              <span data-i18n="faq.q2.question">Le budget publicitaire est-il inclus ?</span>
+              <svg class="icon" aria-hidden="true"><use href="#icon-plus"/></svg>
+            </summary>
+            <p class="faq__answer" data-i18n="faq.q2.answer">Non. Pour les packs Growth et Premium, le budget publicitaire reste à votre charge et s'ajoute au prix du pack. Nous créons, gérons et optimisons vos campagnes.</p>
+          </details>
+
+          <details class="faq__item" name="faq">
+            <summary class="faq__question">
+              <span data-i18n="faq.q3.question">Qui réalise les photos, les vidéos et les sites web ?</span>
+              <svg class="icon" aria-hidden="true"><use href="#icon-plus"/></svg>
+            </summary>
+            <p class="faq__answer" data-i18n="faq.q3.answer">Notre réseau de partenaires sélectionnés assure la production technique sous la supervision de SIDEKOM. Vous gardez un interlocuteur unique.</p>
+          </details>
+
+          <details class="faq__item" name="faq">
+            <summary class="faq__question">
+              <span data-i18n="faq.q4.question">Organisez-vous des conférences et des événements ?</span>
+              <svg class="icon" aria-hidden="true"><use href="#icon-plus"/></svg>
+            </summary>
+            <p class="faq__answer" data-i18n="faq.q4.answer">Oui. Nous nous occupons de la conception, de la promotion, de la coordination, de la couverture en direct et du suivi après l'événement.</p>
+          </details>
+
+          <details class="faq__item" name="faq">
+            <summary class="faq__question">
+              <span data-i18n="faq.q5.question">Comment démarrer ?</span>
+              <svg class="icon" aria-hidden="true"><use href="#icon-plus"/></svg>
+            </summary>
+            <p class="faq__answer" data-i18n="faq.q5.answer">Écrivez-nous ou réservez un échange. Nous faisons un premier diagnostic de votre situation, puis nous vous proposons le pack ou le programme le plus adapté.</p>
+          </details>
+
+          <details class="faq__item" name="faq">
+            <summary class="faq__question">
+              <span data-i18n="faq.q6.question">Quand êtes-vous disponibles ?</span>
+              <svg class="icon" aria-hidden="true"><use href="#icon-plus"/></svg>
+            </summary>
+            <p class="faq__answer" data-i18n="faq.q6.answer">Notre équipe travaille pendant les heures de bureau, du lundi au vendredi. Nous répondons à chaque message dans les meilleurs délais.</p>
+          </details>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section--cta">
+      <div class="container">
+        <div class="cta-band reveal">
+          <div>
+            <h2 data-i18n="cta.title">Prêt à faire rayonner votre marque ?</h2>
+            <p data-i18n="cta.text">Parlons de vos objectifs et construisons ensemble le bon plan d'action.</p>
+          </div>
+          <a class="button button--primary" href="/contact.html">
+            <span data-i18n="cta.button">Réserver un échange</span>
+            <svg class="icon icon-flip" aria-hidden="true"><use href="#icon-arrow"/></svg>
+          </a>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- shared:footer -->
+<footer class="site-footer">
+  <div class="container">
+    <div class="site-footer__grid">
+      <div class="site-footer__brand">
+        <a class="brand" href="/" aria-label="SIDEKOM">
+          <img src="/images/sidekom-logo-white.png" alt="SIDEKOM, SK Agency" width="104" height="94" loading="lazy">
+        </a>
+        <p class="site-footer__tagline" data-i18n="footer.tagline">Stratégie de marque • Création digitale • Performance</p>
+      </div>
+
+      <nav class="site-footer__column" aria-label="Navigation" data-i18n-aria="footer.menuTitle">
+        <p class="site-footer__title" data-i18n="footer.menuTitle">Navigation</p>
+        <ul class="site-footer__links">
+          <li><a href="/" data-i18n="nav.home">Accueil</a></li>
+          <li><a href="/services.html" data-i18n="nav.services">Services</a></li>
+          <li><a href="/events.html" data-i18n="nav.events">Événements</a></li>
+          <li><a href="/packs.html" data-i18n="nav.packs">Packs</a></li>
+          <li><a href="/about.html" data-i18n="nav.about">À propos</a></li>
+          <li><a href="/contact.html" data-i18n="footer.contactTitle">Contact</a></li>
+        </ul>
+      </nav>
+
+      <div class="site-footer__column">
+        <p class="site-footer__title" data-i18n="footer.contactTitle">Contact</p>
+        <ul class="site-footer__links">
+          <li class="site-footer__note" data-i18n="contact.hours">Notre équipe travaille pendant les heures de bureau, du lundi au vendredi.</li>
+          <li><a data-link="email" data-show-value hidden></a></li>
+          <li><a data-link="whatsapp" data-i18n="contact.whatsapp" hidden>Écrire sur WhatsApp</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="site-footer__bottom">
+      <p>&copy; <span data-current-year>2026</span> SIDEKOM. <span data-i18n="footer.rights">Tous droits réservés.</span></p>
+    </div>
+  </div>
+</footer>
+
+<a class="whatsapp-float" data-link="whatsapp" aria-label="WhatsApp" hidden>
+  <svg class="icon icon--large" aria-hidden="true"><use href="#icon-chat"/></svg>
+</a>
+<!-- /shared:footer -->
+
+  <script type="module" src="/js/main.js"></script>
+</body>
+</html>

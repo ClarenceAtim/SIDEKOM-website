@@ -1,0 +1,25 @@
+/* ==========================================================
+   SIDEKOM | Right-to-left languages (Arabic)
+   Most of the site uses logical CSS properties, so it flips by itself.
+   This file only covers the few things that need a hand.
+   ========================================================== */
+
+/* Letter-spacing and capitals break Arabic letter joining, so turn them off */
+html[dir="rtl"] * {
+  letter-spacing: 0 !important;
+  text-transform: none !important;
+}
+
+/* Arrows should point the other way */
+html[dir="rtl"] .icon-flip { transform: scaleX(-1); }
+html[dir="rtl"] .text-link:hover .icon-flip { transform: scaleX(-1) translateX(4px); }
+
+/* Arabic text needs a little more room between lines */
+html[dir="rtl"] body { line-height: 1.85; }
+html[dir="rtl"] h1,
+html[dir="rtl"] h2,
+html[dir="rtl"] h3 { line-height: 1.35; }
+
+/* Prices stay left-to-right so "250,000 FCFA" reads naturally */
+html[dir="rtl"] .pack__price { direction: rtl; }
+html[dir="rtl"] .pack__amount { direction: ltr; unicode-bidi: isolate; }

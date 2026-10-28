@@ -1,0 +1,35 @@
+<a class="skip-link" href="#main" data-i18n="a11y.skip"></a>
+
+<header class="site-header" data-site-header>
+  <div class="container site-header__bar">
+    <a class="brand" href="/" aria-label="SIDEKOM">
+      <img src="/images/sidekom-logo.png" alt="SIDEKOM, SK Agency" width="62" height="56">
+    </a>
+
+    <nav class="site-nav" id="site-nav" aria-label="Navigation principale" data-i18n-aria="a11y.mainNav" data-site-nav>
+      <ul class="site-nav__list">
+        <li><a href="/" data-nav="home" data-i18n="nav.home"></a></li>
+        <li><a href="/services.html" data-nav="services" data-i18n="nav.services"></a></li>
+        <li><a href="/events.html" data-nav="events" data-i18n="nav.events"></a></li>
+        <li><a href="/packs.html" data-nav="packs" data-i18n="nav.packs"></a></li>
+        <li><a href="/about.html" data-nav="about" data-i18n="nav.about"></a></li>
+      </ul>
+      <a class="button button--primary site-nav__cta" href="/contact.html" data-nav="contact" data-i18n="nav.contact"></a>
+    </nav>
+
+    <div class="site-header__tools">
+      <div class="language-picker" data-language-picker>
+        <button type="button" class="language-picker__button" aria-haspopup="listbox" aria-expanded="false" aria-controls="language-list" aria-label="Choisir la langue" data-i18n-aria="a11y.language" data-language-button>
+          <svg class="icon" aria-hidden="true"><use href="#icon-globe"/></svg>
+          <span data-language-current>FR</span>
+          <svg class="icon icon--small language-picker__chevron" aria-hidden="true"><use href="#icon-chevron"/></svg>
+        </button>
+        <ul class="language-picker__list" id="language-list" role="listbox" tabindex="-1" aria-label="Choisir la langue" data-i18n-aria="a11y.language" hidden data-language-list></ul>
+      </div>
+
+      <button type="button" class="menu-toggle" aria-expanded="false" aria-controls="site-nav" aria-label="Ouvrir le menu" data-menu-toggle>
+        <span class="menu-toggle__bars" aria-hidden="true"></span>
+      </button>
+    </div>
+  </div>
+</header>

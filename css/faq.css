@@ -1,0 +1,31 @@
+/* ==========================================================
+   SIDEKOM | Frequently asked questions (accordion)
+   ========================================================== */
+
+.faq { display: grid; gap: 14px; max-width: 840px; margin-inline: auto; }
+
+.faq__item {
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--white);
+  box-shadow: var(--shadow-sm);
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+.faq__item[open] { border-color: var(--gold-300); box-shadow: var(--shadow); }
+
+.faq__question {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  padding: 22px 26px;
+  color: var(--ink);
+  font-weight: 700;
+  cursor: pointer;
+  list-style: none;
+}
+.faq__question::-webkit-details-marker { display: none; }
+.faq__question .icon { transition: transform 0.25s; color: var(--navy-600); }
+.faq__item[open] .faq__question .icon { transform: rotate(45deg); }
+
+.faq__answer { padding: 0 26px 24px; color: var(--muted); }
