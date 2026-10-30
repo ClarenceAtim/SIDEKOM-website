@@ -14,7 +14,8 @@
   gap: clamp(28px, 5vw, 64px);
   padding-bottom: 44px;
 }
-.site-footer .brand img { height: 94px; width: auto; }
+/* The logo is a wide wordmark: sized by its width */
+.site-footer .brand img { width: 220px; height: auto; }
 .site-footer__tagline {
   margin-top: 18px;
   max-width: 320px;
@@ -37,6 +38,8 @@
 .site-footer__links a { color: var(--white); font-weight: 500; transition: color 0.18s; }
 .site-footer__links a:hover { color: var(--gold-300); }
 .site-footer__note { font-size: 0.92rem; }
+.site-footer__phone { display: grid; gap: 2px; }
+.site-footer__label { font-size: 0.8rem; font-weight: 600; color: var(--navy-200); }
 
 .site-footer__bottom {
   padding-block: 22px;
@@ -47,6 +50,21 @@
 @media (max-width: 860px) {
   .site-footer__grid { grid-template-columns: minmax(0, 1fr); }
 }
+
+/* Social media icons in the footer */
+.social-links { display: flex; gap: 10px; margin-top: 18px; }
+.social-links a {
+  display: grid;
+  place-items: center;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  color: var(--white);
+  transition: background 0.2s, color 0.2s, border-color 0.2s;
+}
+.social-links a:hover { background: var(--gold-300); border-color: var(--gold-300); color: var(--navy-900); }
+.social-links a[hidden] { display: none; }
 
 /* Floating WhatsApp button: only shown when a WhatsApp number is set in js/settings.js */
 .whatsapp-float {

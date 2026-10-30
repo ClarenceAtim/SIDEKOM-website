@@ -84,8 +84,31 @@
 .pack--summary { padding-bottom: 28px; }
 .pack--summary .pack__price { margin-bottom: 24px; }
 
-@media (max-width: 960px) {
+@media (max-width: 900px) {
   .packs { grid-template-columns: minmax(0, 1fr); max-width: 560px; margin-inline: auto; }
   .pack--featured { transform: none; }
   .pack__tagline { min-height: 0; }
 }
+
+/* ---------- Packs page: comparison, compact cards and single pack (js/pack-details.js) ---------- */
+
+/* Extra buttons: "Book an appointment" only in the single-pack view, "See details" only on compact cards */
+.pack__book { margin-top: 12px; }
+.packs--compare:not(.is-single) .pack__book,
+.pack__more { display: none; }
+
+/* Phones and tablets: short cards (name, tagline, price, "See details") instead of three long lists */
+@media (max-width: 900px) {
+  html.js .packs--compare:not(.is-single) .check-list,
+  html.js .packs--compare:not(.is-single) .pack__note,
+  html.js .packs--compare:not(.is-single) .pack__choose { display: none; }
+  html.js .packs--compare:not(.is-single) .pack__more { display: inline-flex; }
+  html.js .packs--compare:not(.is-single) .pack__price { margin-bottom: 24px; }
+}
+
+/* ?pack=growth: one pack, centered */
+.packs.is-single { grid-template-columns: minmax(0, 1fr); max-width: 640px; margin-inline: auto; }
+.packs.is-single .pack--featured { transform: none; }
+.packs.is-single .pack__tagline { min-height: 0; }
+
+.packs-back { max-width: 640px; margin: 0 auto 28px; }

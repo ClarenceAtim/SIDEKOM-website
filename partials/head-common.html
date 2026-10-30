@@ -9,30 +9,46 @@
 <meta property="og:image" content="https://votre-domaine.com/images/og-image.png">
 <meta name="twitter:card" content="summary_large_image">
 
-<link rel="icon" type="image/png" sizes="32x32" href="/images/favicons/favicon-32.png">
-<link rel="icon" type="image/png" sizes="192x192" href="/images/favicons/favicon-192.png">
-<link rel="apple-touch-icon" href="/images/favicons/apple-touch-icon.png">
+<!-- The ?v=... after file names is written by tools/update-pages.mjs. It changes whenever a CSS, JS,
+     language or image file changes, so visitors get the new file even though browsers keep these files for a year. -->
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicons/favicon-32.png?v=4454694f">
+<link rel="icon" type="image/png" sizes="192x192" href="/images/favicons/favicon-192.png?v=4454694f">
+<link rel="apple-touch-icon" href="/images/favicons/apple-touch-icon.png?v=4454694f">
 
+<!-- Fonts load without holding up the page: text shows at once in a system font, then switches -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;800&family=Montserrat:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800&family=Montserrat:wght@400;500;600;700;800&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800&family=Montserrat:wght@400;500;600;700;800&display=swap" media="print" onload="this.media='all'">
+<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800&family=Montserrat:wght@400;500;600;700;800&display=swap"></noscript>
 
-<link rel="stylesheet" href="/css/theme.css">
-<link rel="stylesheet" href="/css/base.css">
-<link rel="stylesheet" href="/css/layout.css">
-<link rel="stylesheet" href="/css/buttons.css">
-<link rel="stylesheet" href="/css/header.css">
-<link rel="stylesheet" href="/css/hero.css">
-<link rel="stylesheet" href="/css/cards.css">
-<link rel="stylesheet" href="/css/packs.css">
-<link rel="stylesheet" href="/css/faq.css">
-<link rel="stylesheet" href="/css/forms.css">
-<link rel="stylesheet" href="/css/footer.css">
-<link rel="stylesheet" href="/css/animations.css">
-<link rel="stylesheet" href="/css/rtl.css">
+<link rel="stylesheet" href="/css/theme.css?v=4454694f">
+<link rel="stylesheet" href="/css/base.css?v=4454694f">
+<link rel="stylesheet" href="/css/layout.css?v=4454694f">
+<link rel="stylesheet" href="/css/buttons.css?v=4454694f">
+<link rel="stylesheet" href="/css/header.css?v=4454694f">
+<link rel="stylesheet" href="/css/hero.css?v=4454694f">
+<link rel="stylesheet" href="/css/cards.css?v=4454694f">
+<link rel="stylesheet" href="/css/packs.css?v=4454694f">
+<link rel="stylesheet" href="/css/faq.css?v=4454694f">
+<link rel="stylesheet" href="/css/forms.css?v=4454694f">
+<link rel="stylesheet" href="/css/blog.css?v=4454694f">
+<link rel="stylesheet" href="/css/footer.css?v=4454694f">
+<link rel="stylesheet" href="/css/animations.css?v=4454694f">
+<link rel="stylesheet" href="/css/rtl.css?v=4454694f">
+
+<!-- Scripts used on every page: download them now, in parallel, instead of one after the other -->
+<link rel="modulepreload" href="/js/main.js?v=4454694f">
+<link rel="modulepreload" href="/js/translator.js?v=4454694f">
+<link rel="modulepreload" href="/js/settings.js">
+<link rel="modulepreload" href="/js/language-picker.js?v=4454694f">
+<link rel="modulepreload" href="/js/mobile-menu.js?v=4454694f">
+<link rel="modulepreload" href="/js/scroll-effects.js?v=4454694f">
+<link rel="modulepreload" href="/js/site-links.js?v=4454694f">
 
 <!-- Runs before the page is drawn: picks the visitor's language so the page opens in the right
-     language and direction (no flash of French). Keep this list in line with js/settings.js. -->
+     language and direction (no flash of French), and starts downloading that language's text.
+     Keep this list in line with js/settings.js. -->
 <script>
   (function () {
     var root = document.documentElement;
@@ -48,6 +64,12 @@
       root.lang = language;
       root.dir = language === "ar" ? "rtl" : "ltr";
       if (language !== "fr") root.classList.add("is-translating");
+      var preload = document.createElement("link");
+      preload.rel = "preload";
+      preload.as = "fetch";
+      preload.crossOrigin = "anonymous";
+      preload.href = "/languages/" + language + ".json?v=4454694f";
+      document.head.appendChild(preload);
     } catch (error) { /* storage blocked: stay in French */ }
   })();
 </script>

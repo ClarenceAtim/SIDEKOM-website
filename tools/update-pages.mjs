@@ -1,14 +1,28 @@
 // Run with:  node tools/update-pages.mjs
 // 1. Copies the shared blocks (head, icons, header, footer) from /partials into every page.
 // 2. Writes the French text from languages/fr.json into the pages (good for Google and first display).
+// 3. Updates the version (?v=...) after CSS, JS, language and image addresses. Browsers keep these files
+//    for a year (see vercel.json); a new version makes them download the changed files.
 
 import { readFileSync, writeFileSync, readdirSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
+import { siteVersion, versionPattern } from "./version.mjs";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const french = JSON.parse(readFileSync(join(root, "languages", "fr.json"), "utf8"));
 const read = (path) => readFileSync(join(root, path), "utf8").trim();
+
+const version = siteVersion(root);
+const stamp = (text) => text.replace(versionPattern, `$1?v=${version}`);
+
+function stampFile(path) {
+  const before = readFileSync(path, "utf8");
+  const after = stamp(before);
+  if (after !== before) writeFileSync(path, after);
+}
+for (const file of readdirSync(join(root, "js")).filter((name) => name.endsWith(".js"))) stampFile(join(root, "js", file));
+for (const file of readdirSync(join(root, "partials")).filter((name) => name.endsWith(".html"))) stampFile(join(root, "partials", file));
 
 const partials = {
   head: read("partials/head-common.html"),
@@ -60,10 +74,11 @@ const pages = readdirSync(root).filter((file) => file.endsWith(".html"));
 for (const page of pages) {
   const path = join(root, page);
   const before = readFileSync(path, "utf8");
-  const after = fillFrench(injectPartials(before));
+  const after = stamp(fillFrench(injectPartials(before)));
   if (after !== before) writeFileSync(path, after);
   console.log(`updated ${page}`);
 }
+console.log(`version ${version}`);
 
 if (missing.length) {
   console.error("\nMissing French keys:\n  " + [...new Set(missing)].join("\n  "));

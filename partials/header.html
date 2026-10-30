@@ -3,7 +3,10 @@
 <header class="site-header" data-site-header>
   <div class="container site-header__bar">
     <a class="brand" href="/" aria-label="SIDEKOM">
-      <img src="/images/sidekom-logo.png" alt="SIDEKOM, SK Agency" width="62" height="56">
+      <picture>
+        <source srcset="/images/sidekom-logo.webp?v=4454694f" type="image/webp">
+        <img src="/images/sidekom-logo.png?v=4454694f" alt="SIDEKOM - Agence de marketing et de communication" width="206" height="48" fetchpriority="high">
+      </picture>
     </a>
 
     <nav class="site-nav" id="site-nav" aria-label="Navigation principale" data-i18n-aria="a11y.mainNav" data-site-nav>
@@ -12,9 +15,17 @@
         <li><a href="/services.html" data-nav="services" data-i18n="nav.services"></a></li>
         <li><a href="/events.html" data-nav="events" data-i18n="nav.events"></a></li>
         <li><a href="/packs.html" data-nav="packs" data-i18n="nav.packs"></a></li>
+        <li><a href="/blog.html" data-nav="blog" data-i18n="nav.blog"></a></li>
         <li><a href="/about.html" data-nav="about" data-i18n="nav.about"></a></li>
       </ul>
-      <a class="button button--primary site-nav__cta" href="/contact.html" data-nav="contact" data-i18n="nav.contact"></a>
+      <div class="site-nav__actions">
+        <!-- Shown only when bookingUrl is set in js/settings.js. On large screens only the calendar icon shows. -->
+        <a class="button button--outline site-nav__book" href="/contact.html#booking" data-booking-cta hidden>
+          <svg class="icon" aria-hidden="true"><use href="#icon-calendar"/></svg>
+          <span class="site-nav__book-label" data-i18n="common.bookCall"></span>
+        </a>
+        <a class="button button--primary site-nav__cta" href="/contact.html" data-nav="contact" data-i18n="nav.contact"></a>
+      </div>
     </nav>
 
     <div class="site-header__tools">

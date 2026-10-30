@@ -1,0 +1,419 @@
+[
+  {
+    "slug": "5-erreurs-gestion-communaute-en-ligne",
+    "date": "2026-10-27",
+    "category": "community-management",
+    "image": "",
+    "sample": true,
+    "translations": {
+      "fr": {
+        "title": "5 erreurs à éviter dans la gestion de votre communauté en ligne",
+        "excerpt": "Publier sans ligne directrice, ignorer les commentaires, tout miser sur la vente… Voici cinq erreurs fréquentes en community management, et comment les corriger.",
+        "content": [
+          { "type": "paragraph", "text": "Une communauté en ligne ne se construit pas en publiant de temps en temps. Elle demande de la régularité, de l'écoute et une vraie stratégie. Voici cinq erreurs que nous rencontrons souvent, et les bons réflexes pour les éviter." },
+          { "type": "heading", "text": "1. Publier sans objectif clair" },
+          { "type": "paragraph", "text": "Avant de publier, demandez-vous ce que vous attendez de chaque contenu : faire connaître une offre, créer de l'échange, rassurer vos clients ? Sans objectif, il est impossible de savoir ce qui fonctionne. Fixez deux ou trois priorités et choisissez vos contenus en conséquence." },
+          { "type": "heading", "text": "2. Ignorer les commentaires et les messages" },
+          { "type": "paragraph", "text": "Une question sans réponse donne l'image d'une entreprise absente. Répondez rapidement et avec courtoisie, y compris aux critiques. Une remarque négative bien traitée en public montre votre sérieux à tous ceux qui la lisent." },
+          { "type": "heading", "text": "3. Parler uniquement de vous" },
+          { "type": "paragraph", "text": "Si chaque publication est une annonce commerciale, votre audience décroche. Alternez les formats : conseils utiles, coulisses de votre activité, témoignages authentiques, questions à votre communauté. La vente vient plus naturellement quand la confiance est installée." },
+          { "type": "heading", "text": "4. Être présent partout, mais mal" },
+          { "type": "paragraph", "text": "Il vaut mieux animer deux réseaux sociaux avec soin que cinq de manière irrégulière. Choisissez les plateformes où se trouve réellement votre public et concentrez vos efforts sur celles-ci." },
+          { "type": "heading", "text": "5. Ne jamais mesurer les résultats" },
+          { "type": "paragraph", "text": "Les statistiques intégrées aux réseaux sociaux sont gratuites et riches d'enseignements. Chaque mois, regardez quels contenus suscitent le plus de réactions, de partages ou de messages, puis ajustez votre plan." },
+          { "type": "heading", "text": "En résumé" },
+          { "type": "list", "items": [
+            "Définissez un objectif pour chaque publication",
+            "Répondez à votre communauté avec régularité",
+            "Variez vos contenus et limitez la promotion",
+            "Concentrez-vous sur les bons réseaux",
+            "Analysez vos statistiques chaque mois"
+          ] },
+          { "type": "paragraph", "text": "Vous souhaitez être accompagné pour structurer votre présence sur les réseaux sociaux ? L'équipe SIDEKOM peut faire le point avec vous sur votre situation." }
+        ]
+      },
+      "en": {
+        "title": "5 mistakes to avoid when managing your online community",
+        "excerpt": "Posting without direction, ignoring comments, focusing only on sales… Here are five common community management mistakes, and how to fix them.",
+        "content": [
+          { "type": "paragraph", "text": "An online community is not built by posting every now and then. It takes consistency, listening and a real strategy. Here are five mistakes we often come across, and the right habits to avoid them." },
+          { "type": "heading", "text": "1. Posting without a clear goal" },
+          { "type": "paragraph", "text": "Before you post, ask yourself what you expect from each piece of content: promoting an offer, starting a conversation, reassuring your customers? Without a goal, it is impossible to know what works. Set two or three priorities and choose your content accordingly." },
+          { "type": "heading", "text": "2. Ignoring comments and messages" },
+          { "type": "paragraph", "text": "An unanswered question makes a business look absent. Reply quickly and politely, including to criticism. A negative comment handled well in public shows everyone who reads it that you take your customers seriously." },
+          { "type": "heading", "text": "3. Talking only about yourself" },
+          { "type": "paragraph", "text": "If every post is a sales announcement, your audience will tune out. Mix your formats: useful tips, behind the scenes of your business, genuine testimonials, questions for your community. Sales come more naturally once trust is in place." },
+          { "type": "heading", "text": "4. Being everywhere, but poorly" },
+          { "type": "paragraph", "text": "It is better to run two social networks carefully than five irregularly. Choose the platforms where your audience really is, and focus your efforts there." },
+          { "type": "heading", "text": "5. Never measuring results" },
+          { "type": "paragraph", "text": "The statistics built into social networks are free and full of lessons. Every month, look at which posts get the most reactions, shares or messages, then adjust your plan." },
+          { "type": "heading", "text": "In short" },
+          { "type": "list", "items": [
+            "Set a goal for every post",
+            "Reply to your community consistently",
+            "Vary your content and limit promotion",
+            "Focus on the right networks",
+            "Review your statistics every month"
+          ] },
+          { "type": "paragraph", "text": "Would you like support to structure your social media presence? The SIDEKOM team can review your situation with you." }
+        ]
+      },
+      "es": {
+        "title": "5 errores que debe evitar en la gestión de su comunidad en línea",
+        "excerpt": "Publicar sin rumbo, ignorar los comentarios, centrarlo todo en la venta… Estos son cinco errores frecuentes en la gestión de comunidades y cómo corregirlos.",
+        "content": [
+          { "type": "paragraph", "text": "Una comunidad en línea no se construye publicando de vez en cuando. Requiere constancia, escucha y una verdadera estrategia. Estos son cinco errores que encontramos a menudo y los buenos hábitos para evitarlos." },
+          { "type": "heading", "text": "1. Publicar sin un objetivo claro" },
+          { "type": "paragraph", "text": "Antes de publicar, pregúntese qué espera de cada contenido: dar a conocer una oferta, generar conversación, tranquilizar a sus clientes. Sin objetivo, es imposible saber qué funciona. Fije dos o tres prioridades y elija sus contenidos en consecuencia." },
+          { "type": "heading", "text": "2. Ignorar los comentarios y los mensajes" },
+          { "type": "paragraph", "text": "Una pregunta sin respuesta da la imagen de una empresa ausente. Responda con rapidez y cortesía, también a las críticas. Un comentario negativo bien gestionado en público demuestra su seriedad a todos los que lo leen." },
+          { "type": "heading", "text": "3. Hablar solo de usted" },
+          { "type": "paragraph", "text": "Si cada publicación es un anuncio comercial, su audiencia se desconecta. Alterne los formatos: consejos útiles, el día a día de su actividad, testimonios auténticos, preguntas a su comunidad. La venta llega de forma más natural cuando existe confianza." },
+          { "type": "heading", "text": "4. Estar en todas partes, pero mal" },
+          { "type": "paragraph", "text": "Es mejor animar dos redes sociales con cuidado que cinco de forma irregular. Elija las plataformas donde realmente está su público y concentre allí sus esfuerzos." },
+          { "type": "heading", "text": "5. No medir nunca los resultados" },
+          { "type": "paragraph", "text": "Las estadísticas integradas en las redes sociales son gratuitas y muy instructivas. Cada mes, observe qué contenidos generan más reacciones, veces compartidos o mensajes, y ajuste su plan." },
+          { "type": "heading", "text": "En resumen" },
+          { "type": "list", "items": [
+            "Defina un objetivo para cada publicación",
+            "Responda a su comunidad con regularidad",
+            "Varíe sus contenidos y limite la promoción",
+            "Concéntrese en las redes adecuadas",
+            "Analice sus estadísticas cada mes"
+          ] },
+          { "type": "paragraph", "text": "¿Desea acompañamiento para estructurar su presencia en redes sociales? El equipo de SIDEKOM puede analizar su situación con usted." }
+        ]
+      },
+      "pt": {
+        "title": "5 erros a evitar na gestão da sua comunidade online",
+        "excerpt": "Publicar sem rumo, ignorar os comentários, apostar tudo na venda… Eis cinco erros frequentes na gestão de comunidades e como corrigi-los.",
+        "content": [
+          { "type": "paragraph", "text": "Uma comunidade online não se constrói a publicar de vez em quando. Exige regularidade, escuta e uma verdadeira estratégia. Eis cinco erros que encontramos com frequência e os bons hábitos para os evitar." },
+          { "type": "heading", "text": "1. Publicar sem um objetivo claro" },
+          { "type": "paragraph", "text": "Antes de publicar, pergunte-se o que espera de cada conteúdo: dar a conhecer uma oferta, criar conversa, tranquilizar os seus clientes? Sem objetivo, é impossível saber o que funciona. Defina duas ou três prioridades e escolha os seus conteúdos em conformidade." },
+          { "type": "heading", "text": "2. Ignorar os comentários e as mensagens" },
+          { "type": "paragraph", "text": "Uma pergunta sem resposta dá a imagem de uma empresa ausente. Responda com rapidez e cortesia, incluindo às críticas. Um comentário negativo bem tratado em público mostra a sua seriedade a todos os que o leem." },
+          { "type": "heading", "text": "3. Falar apenas de si" },
+          { "type": "paragraph", "text": "Se cada publicação for um anúncio comercial, o seu público desliga. Alterne os formatos: conselhos úteis, bastidores da sua atividade, testemunhos autênticos, perguntas à sua comunidade. A venda surge com mais naturalidade quando a confiança está instalada." },
+          { "type": "heading", "text": "4. Estar em todo o lado, mas mal" },
+          { "type": "paragraph", "text": "Mais vale dinamizar duas redes sociais com cuidado do que cinco de forma irregular. Escolha as plataformas onde o seu público realmente está e concentre aí os seus esforços." },
+          { "type": "heading", "text": "5. Nunca medir os resultados" },
+          { "type": "paragraph", "text": "As estatísticas integradas nas redes sociais são gratuitas e muito úteis. Todos os meses, veja que conteúdos geram mais reações, partilhas ou mensagens e ajuste o seu plano." },
+          { "type": "heading", "text": "Em resumo" },
+          { "type": "list", "items": [
+            "Defina um objetivo para cada publicação",
+            "Responda à sua comunidade com regularidade",
+            "Varie os seus conteúdos e limite a promoção",
+            "Concentre-se nas redes certas",
+            "Analise as suas estatísticas todos os meses"
+          ] },
+          { "type": "paragraph", "text": "Gostaria de ser acompanhado para estruturar a sua presença nas redes sociais? A equipa SIDEKOM pode analisar a sua situação consigo." }
+        ]
+      },
+      "ar": {
+        "title": "5 أخطاء يجب تجنبها في إدارة مجتمعك على الإنترنت",
+        "excerpt": "النشر دون توجه واضح، وتجاهل التعليقات، والتركيز على البيع وحده… إليك خمسة أخطاء شائعة في إدارة المجتمعات وطرق تصحيحها.",
+        "content": [
+          { "type": "paragraph", "text": "لا يُبنى المجتمع على الإنترنت بالنشر من حين لآخر، بل يحتاج إلى الانتظام والإصغاء واستراتيجية حقيقية. إليك خمسة أخطاء نصادفها كثيرًا، والعادات الصحيحة لتجنبها." },
+          { "type": "heading", "text": "1. النشر دون هدف واضح" },
+          { "type": "paragraph", "text": "قبل النشر، اسأل نفسك عمّا تنتظره من كل محتوى: التعريف بعرض ما، أم فتح باب الحوار، أم طمأنة عملائك؟ بدون هدف يستحيل معرفة ما ينجح. حدّد أولويتين أو ثلاثًا واختر محتواك على أساسها." },
+          { "type": "heading", "text": "2. تجاهل التعليقات والرسائل" },
+          { "type": "paragraph", "text": "السؤال الذي يبقى بلا جواب يعطي صورة شركة غائبة. أجب بسرعة وبلباقة، حتى على الانتقادات. فالملاحظة السلبية التي تُعالَج جيدًا أمام الجميع تُظهر جديتك لكل من يقرؤها." },
+          { "type": "heading", "text": "3. الحديث عن نفسك فقط" },
+          { "type": "paragraph", "text": "إذا كان كل منشور إعلانًا تجاريًا، فسيفقد جمهورك اهتمامه. نوّع الأشكال: نصائح مفيدة، وكواليس نشاطك، وشهادات حقيقية، وأسئلة لمجتمعك. يأتي البيع بشكل أكثر طبيعية عندما تترسخ الثقة." },
+          { "type": "heading", "text": "4. الحضور في كل مكان ولكن بشكل ضعيف" },
+          { "type": "paragraph", "text": "من الأفضل إدارة شبكتين اجتماعيتين بعناية بدلًا من خمس شبكات بشكل غير منتظم. اختر المنصات التي يوجد عليها جمهورك فعلًا وركّز جهودك عليها." },
+          { "type": "heading", "text": "5. عدم قياس النتائج أبدًا" },
+          { "type": "paragraph", "text": "الإحصاءات المدمجة في الشبكات الاجتماعية مجانية وغنية بالدروس. راجع كل شهر المحتويات التي تحقق أكبر قدر من التفاعل والمشاركات والرسائل، ثم عدّل خطتك." },
+          { "type": "heading", "text": "باختصار" },
+          { "type": "list", "items": [
+            "حدّد هدفًا لكل منشور",
+            "تفاعل مع مجتمعك بانتظام",
+            "نوّع محتواك وقلّل من الترويج",
+            "ركّز على الشبكات المناسبة",
+            "حلّل إحصاءاتك كل شهر"
+          ] },
+          { "type": "paragraph", "text": "هل ترغب في مرافقة لتنظيم حضورك على الشبكات الاجتماعية؟ يمكن لفريق SIDEKOM دراسة وضعك معك." }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "preparer-evenement-reussi-6-etapes",
+    "date": "2026-10-20",
+    "category": "events",
+    "image": "",
+    "sample": true,
+    "translations": {
+      "fr": {
+        "title": "Comment préparer un événement réussi : le plan en 6 étapes",
+        "excerpt": "Conférence, lancement de produit ou séminaire : un événement réussi se prépare bien en amont. Voici un plan simple en six étapes pour ne rien oublier.",
+        "content": [
+          { "type": "paragraph", "text": "Un événement d'entreprise mobilise du temps, un budget et l'image de votre marque. Pour qu'il atteigne ses objectifs, la préparation compte autant que le jour J. Voici les six étapes que nous recommandons." },
+          { "type": "heading", "text": "1. Définir l'objectif et le public" },
+          { "type": "paragraph", "text": "Lancer un produit, réunir vos partenaires, motiver vos équipes : chaque objectif appelle un format différent. Précisez aussi qui vous voulez réunir et combien de personnes vous attendez." },
+          { "type": "heading", "text": "2. Fixer le budget et le calendrier" },
+          { "type": "paragraph", "text": "Listez tous les postes de dépenses : lieu, restauration, technique, communication, prestataires. Prévoyez une marge pour les imprévus et construisez un rétroplanning avec des dates limites claires." },
+          { "type": "heading", "text": "3. Choisir le lieu et les prestataires" },
+          { "type": "paragraph", "text": "Vérifiez l'accessibilité, la capacité, l'équipement technique et les conditions d'annulation. Demandez plusieurs devis et confirmez chaque engagement par écrit." },
+          { "type": "heading", "text": "4. Construire le programme" },
+          { "type": "paragraph", "text": "Un bon programme alterne temps forts, échanges et pauses. Briefez vos intervenants à l'avance sur la durée, le message attendu et le public présent." },
+          { "type": "heading", "text": "5. Communiquer avant l'événement" },
+          { "type": "paragraph", "text": "Annoncez l'événement suffisamment tôt, facilitez l'inscription et relancez vos invités à l'approche de la date. Les réseaux sociaux, l'e-mail et WhatsApp sont des canaux complémentaires." },
+          { "type": "heading", "text": "6. Prolonger l'impact après le jour J" },
+          { "type": "paragraph", "text": "Remerciez les participants, partagez photos, vidéos et moments clés, puis faites le bilan : participation, retours, nouveaux contacts. Ces enseignements serviront pour votre prochain événement." },
+          { "type": "heading", "text": "La check-list à garder sous la main" },
+          { "type": "list", "items": [
+            "Objectif et public définis",
+            "Budget validé, avec une marge",
+            "Lieu et prestataires confirmés par écrit",
+            "Programme établi et intervenants briefés",
+            "Communication prévue avant, pendant et après",
+            "Bilan rédigé dans la semaine qui suit"
+          ] },
+          { "type": "paragraph", "text": "Vous préparez une conférence, un séminaire ou un lancement ? SIDEKOM peut vous accompagner de la conception jusqu'au suivi." }
+        ]
+      },
+      "en": {
+        "title": "How to prepare a successful event: the 6-step plan",
+        "excerpt": "Conference, product launch or seminar: a successful event is prepared well in advance. Here is a simple six-step plan so you do not forget anything.",
+        "content": [
+          { "type": "paragraph", "text": "A corporate event takes time, budget and your brand image. For it to reach its goals, preparation matters as much as the day itself. Here are the six steps we recommend." },
+          { "type": "heading", "text": "1. Define the goal and the audience" },
+          { "type": "paragraph", "text": "Launching a product, bringing your partners together, motivating your teams: each goal calls for a different format. Also be clear about who you want to bring together and how many people you expect." },
+          { "type": "heading", "text": "2. Set the budget and the schedule" },
+          { "type": "paragraph", "text": "List every cost item: venue, catering, technical equipment, communication, suppliers. Keep a margin for the unexpected and build a backward schedule with clear deadlines." },
+          { "type": "heading", "text": "3. Choose the venue and suppliers" },
+          { "type": "paragraph", "text": "Check accessibility, capacity, technical equipment and cancellation terms. Ask for several quotes and confirm every commitment in writing." },
+          { "type": "heading", "text": "4. Build the programme" },
+          { "type": "paragraph", "text": "A good programme alternates highlights, discussions and breaks. Brief your speakers in advance on timing, the expected message and the audience." },
+          { "type": "heading", "text": "5. Communicate before the event" },
+          { "type": "paragraph", "text": "Announce the event early enough, make registration easy and remind your guests as the date approaches. Social networks, email and WhatsApp work well together." },
+          { "type": "heading", "text": "6. Extend the impact after the day" },
+          { "type": "paragraph", "text": "Thank the participants, share photos, videos and key moments, then review: attendance, feedback, new contacts. These lessons will help with your next event." },
+          { "type": "heading", "text": "The checklist to keep at hand" },
+          { "type": "list", "items": [
+            "Goal and audience defined",
+            "Budget approved, with a margin",
+            "Venue and suppliers confirmed in writing",
+            "Programme set and speakers briefed",
+            "Communication planned before, during and after",
+            "Review written within the following week"
+          ] },
+          { "type": "paragraph", "text": "Are you preparing a conference, a seminar or a launch? SIDEKOM can support you from the concept to the follow-up." }
+        ]
+      },
+      "es": {
+        "title": "Cómo preparar un evento exitoso: el plan en 6 pasos",
+        "excerpt": "Conferencia, lanzamiento de producto o seminario: un evento exitoso se prepara con antelación. Este es un plan sencillo en seis pasos para no olvidar nada.",
+        "content": [
+          { "type": "paragraph", "text": "Un evento de empresa moviliza tiempo, presupuesto y la imagen de su marca. Para que alcance sus objetivos, la preparación cuenta tanto como el propio día. Estos son los seis pasos que recomendamos." },
+          { "type": "heading", "text": "1. Definir el objetivo y el público" },
+          { "type": "paragraph", "text": "Lanzar un producto, reunir a sus socios, motivar a sus equipos: cada objetivo requiere un formato distinto. Precise también a quién quiere reunir y cuántas personas espera." },
+          { "type": "heading", "text": "2. Fijar el presupuesto y el calendario" },
+          { "type": "paragraph", "text": "Enumere todas las partidas de gasto: lugar, catering, técnica, comunicación, proveedores. Prevea un margen para imprevistos y elabore una planificación inversa con plazos claros." },
+          { "type": "heading", "text": "3. Elegir el lugar y los proveedores" },
+          { "type": "paragraph", "text": "Compruebe la accesibilidad, la capacidad, el equipamiento técnico y las condiciones de cancelación. Pida varios presupuestos y confirme cada compromiso por escrito." },
+          { "type": "heading", "text": "4. Construir el programa" },
+          { "type": "paragraph", "text": "Un buen programa alterna momentos clave, intercambios y pausas. Informe a sus ponentes con antelación sobre la duración, el mensaje esperado y el público asistente." },
+          { "type": "heading", "text": "5. Comunicar antes del evento" },
+          { "type": "paragraph", "text": "Anuncie el evento con suficiente antelación, facilite la inscripción y recuerde la cita a sus invitados a medida que se acerca la fecha. Las redes sociales, el correo electrónico y WhatsApp se complementan." },
+          { "type": "heading", "text": "6. Prolongar el impacto después del evento" },
+          { "type": "paragraph", "text": "Agradezca a los participantes, comparta fotos, vídeos y momentos clave, y haga balance: asistencia, opiniones, nuevos contactos. Estas lecciones le servirán para su próximo evento." },
+          { "type": "heading", "text": "La lista de control para tener a mano" },
+          { "type": "list", "items": [
+            "Objetivo y público definidos",
+            "Presupuesto aprobado, con un margen",
+            "Lugar y proveedores confirmados por escrito",
+            "Programa establecido y ponentes informados",
+            "Comunicación prevista antes, durante y después",
+            "Balance redactado en la semana siguiente"
+          ] },
+          { "type": "paragraph", "text": "¿Prepara una conferencia, un seminario o un lanzamiento? SIDEKOM puede acompañarle desde la concepción hasta el seguimiento." }
+        ]
+      },
+      "pt": {
+        "title": "Como preparar um evento de sucesso: o plano em 6 etapas",
+        "excerpt": "Conferência, lançamento de produto ou seminário: um evento de sucesso prepara-se com antecedência. Eis um plano simples em seis etapas para não esquecer nada.",
+        "content": [
+          { "type": "paragraph", "text": "Um evento empresarial mobiliza tempo, orçamento e a imagem da sua marca. Para que atinja os seus objetivos, a preparação conta tanto como o próprio dia. Eis as seis etapas que recomendamos." },
+          { "type": "heading", "text": "1. Definir o objetivo e o público" },
+          { "type": "paragraph", "text": "Lançar um produto, reunir os seus parceiros, motivar as suas equipas: cada objetivo pede um formato diferente. Defina também quem quer reunir e quantas pessoas espera." },
+          { "type": "heading", "text": "2. Fixar o orçamento e o calendário" },
+          { "type": "paragraph", "text": "Enumere todas as rubricas de despesa: local, catering, técnica, comunicação, fornecedores. Preveja uma margem para imprevistos e construa um planeamento regressivo com prazos claros." },
+          { "type": "heading", "text": "3. Escolher o local e os fornecedores" },
+          { "type": "paragraph", "text": "Verifique a acessibilidade, a capacidade, o equipamento técnico e as condições de cancelamento. Peça vários orçamentos e confirme cada compromisso por escrito." },
+          { "type": "heading", "text": "4. Construir o programa" },
+          { "type": "paragraph", "text": "Um bom programa alterna momentos fortes, trocas e pausas. Informe os seus oradores com antecedência sobre a duração, a mensagem pretendida e o público presente." },
+          { "type": "heading", "text": "5. Comunicar antes do evento" },
+          { "type": "paragraph", "text": "Anuncie o evento com antecedência suficiente, facilite a inscrição e relembre os seus convidados à medida que a data se aproxima. As redes sociais, o e-mail e o WhatsApp complementam-se." },
+          { "type": "heading", "text": "6. Prolongar o impacto depois do evento" },
+          { "type": "paragraph", "text": "Agradeça aos participantes, partilhe fotografias, vídeos e momentos-chave e faça o balanço: participação, opiniões, novos contactos. Estas lições serão úteis para o seu próximo evento." },
+          { "type": "heading", "text": "A lista de verificação a ter à mão" },
+          { "type": "list", "items": [
+            "Objetivo e público definidos",
+            "Orçamento aprovado, com uma margem",
+            "Local e fornecedores confirmados por escrito",
+            "Programa definido e oradores informados",
+            "Comunicação prevista antes, durante e depois",
+            "Balanço redigido na semana seguinte"
+          ] },
+          { "type": "paragraph", "text": "Está a preparar uma conferência, um seminário ou um lançamento? A SIDEKOM pode acompanhá-lo desde a conceção até ao acompanhamento final." }
+        ]
+      },
+      "ar": {
+        "title": "كيف تحضّر لفعالية ناجحة: خطة من 6 خطوات",
+        "excerpt": "مؤتمر أو إطلاق منتج أو ندوة: الفعالية الناجحة تُحضَّر مسبقًا. إليك خطة بسيطة من ست خطوات حتى لا تنسى شيئًا.",
+        "content": [
+          { "type": "paragraph", "text": "تتطلب فعالية الشركة وقتًا وميزانية، وتمسّ صورة علامتك التجارية. ولكي تحقق أهدافها، فإن التحضير لا يقل أهمية عن يوم الفعالية نفسه. إليك الخطوات الست التي ننصح بها." },
+          { "type": "heading", "text": "1. تحديد الهدف والجمهور" },
+          { "type": "paragraph", "text": "إطلاق منتج، أو جمع شركائك، أو تحفيز فرقك: لكل هدف شكل مختلف. حدّد أيضًا من تريد جمعهم وكم شخصًا تتوقع حضوره." },
+          { "type": "heading", "text": "2. تحديد الميزانية والجدول الزمني" },
+          { "type": "paragraph", "text": "اذكر جميع بنود الإنفاق: المكان، والضيافة، والتجهيزات التقنية، والتواصل، والمزودين. خصّص هامشًا للطوارئ وضع جدولًا زمنيًا عكسيًا بمواعيد نهائية واضحة." },
+          { "type": "heading", "text": "3. اختيار المكان والمزودين" },
+          { "type": "paragraph", "text": "تحقق من سهولة الوصول والسعة والتجهيزات التقنية وشروط الإلغاء. اطلب عدة عروض أسعار وأكّد كل التزام كتابيًا." },
+          { "type": "heading", "text": "4. إعداد البرنامج" },
+          { "type": "paragraph", "text": "البرنامج الجيد يوازن بين اللحظات المهمة والنقاشات وفترات الاستراحة. زوّد المتحدثين مسبقًا بالمعلومات حول المدة والرسالة المنتظرة والجمهور الحاضر." },
+          { "type": "heading", "text": "5. التواصل قبل الفعالية" },
+          { "type": "paragraph", "text": "أعلن عن الفعالية في وقت مبكر بما يكفي، وسهّل التسجيل، وذكّر ضيوفك مع اقتراب الموعد. الشبكات الاجتماعية والبريد الإلكتروني وواتساب قنوات تكمّل بعضها." },
+          { "type": "heading", "text": "6. إطالة الأثر بعد الفعالية" },
+          { "type": "paragraph", "text": "اشكر المشاركين، وشارك الصور ومقاطع الفيديو واللحظات البارزة، ثم قيّم النتائج: نسبة الحضور، والآراء، والعلاقات الجديدة. ستفيدك هذه الدروس في فعاليتك القادمة." },
+          { "type": "heading", "text": "قائمة التحقق التي يجب أن تبقى في متناولك" },
+          { "type": "list", "items": [
+            "الهدف والجمهور محددان",
+            "الميزانية معتمدة مع هامش للطوارئ",
+            "المكان والمزودون مؤكدون كتابيًا",
+            "البرنامج جاهز والمتحدثون على علم بكل التفاصيل",
+            "التواصل مخطط له قبل الفعالية وأثناءها وبعدها",
+            "التقييم مكتوب خلال الأسبوع التالي"
+          ] },
+          { "type": "paragraph", "text": "هل تحضّر لمؤتمر أو ندوة أو إطلاق منتج؟ يمكن لـ SIDEKOM مرافقتك من التصميم حتى المتابعة." }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "pourquoi-calendrier-editorial",
+    "date": "2026-10-13",
+    "category": "communication",
+    "image": "",
+    "sample": true,
+    "translations": {
+      "fr": {
+        "title": "Pourquoi votre entreprise a besoin d'un calendrier éditorial",
+        "excerpt": "Publier au dernier moment, oublier une date importante, manquer d'idées… Un calendrier éditorial règle ces problèmes. Voici pourquoi, et comment le mettre en place.",
+        "content": [
+          { "type": "paragraph", "text": "Beaucoup d'entreprises publient au gré de l'inspiration. Résultat : des semaines très actives, puis plus rien. Un calendrier éditorial permet de passer d'une communication improvisée à une communication organisée." },
+          { "type": "heading", "text": "Qu'est-ce qu'un calendrier éditorial ?" },
+          { "type": "paragraph", "text": "C'est un planning qui indique, pour chaque période, les sujets à traiter, les formats, les canaux de diffusion et les dates de publication. Un simple tableau partagé suffit pour commencer." },
+          { "type": "heading", "text": "Ce qu'il change pour votre entreprise" },
+          { "type": "list", "items": [
+            "De la régularité : votre audience sait quand vous retrouver",
+            "De la cohérence : vos messages suivent vos priorités commerciales",
+            "Du temps gagné : les contenus sont préparés à l'avance, pas dans l'urgence",
+            "Une meilleure anticipation des temps forts : fêtes, salons, lancements, saisons",
+            "Un travail d'équipe plus simple : chacun sait ce qui est prévu et qui s'en charge"
+          ] },
+          { "type": "heading", "text": "Comment le construire en quatre étapes" },
+          { "type": "paragraph", "text": "Commencez par lister les dates importantes de votre année : lancements, événements, périodes de forte activité. Définissez ensuite trois à cinq grandes thématiques, par exemple vos conseils, vos réalisations, votre équipe et vos offres." },
+          { "type": "paragraph", "text": "Choisissez un rythme réaliste que vous pourrez tenir dans la durée, plutôt qu'un objectif ambitieux abandonné au bout d'un mois. Enfin, répartissez vos sujets semaine par semaine et confiez chaque contenu à une personne responsable." },
+          { "type": "heading", "text": "Garder de la souplesse" },
+          { "type": "paragraph", "text": "Un calendrier éditorial n'est pas figé. Laissez de la place pour réagir à l'actualité, et faites le point chaque mois : quels sujets ont intéressé votre public, lesquels faut-il abandonner ou approfondir ?" },
+          { "type": "paragraph", "text": "Besoin d'aide pour bâtir votre premier calendrier éditorial ? Parlons-en : SIDEKOM vous aide à définir vos thématiques et votre rythme de publication." }
+        ]
+      },
+      "en": {
+        "title": "Why your business needs an editorial calendar",
+        "excerpt": "Posting at the last minute, forgetting an important date, running out of ideas… An editorial calendar solves these problems. Here is why, and how to set one up.",
+        "content": [
+          { "type": "paragraph", "text": "Many businesses post whenever inspiration strikes. The result: very busy weeks, then nothing at all. An editorial calendar takes you from improvised communication to organised communication." },
+          { "type": "heading", "text": "What is an editorial calendar?" },
+          { "type": "paragraph", "text": "It is a schedule that shows, for each period, the topics to cover, the formats, the channels and the publication dates. A simple shared spreadsheet is enough to get started." },
+          { "type": "heading", "text": "What it changes for your business" },
+          { "type": "list", "items": [
+            "Consistency: your audience knows when to find you",
+            "Coherence: your messages follow your business priorities",
+            "Time saved: content is prepared in advance, not in a rush",
+            "Better planning for key moments: holidays, trade fairs, launches, seasons",
+            "Easier teamwork: everyone knows what is planned and who is in charge"
+          ] },
+          { "type": "heading", "text": "How to build it in four steps" },
+          { "type": "paragraph", "text": "Start by listing the important dates of your year: launches, events, busy periods. Then define three to five main themes, for example your advice, your achievements, your team and your offers." },
+          { "type": "paragraph", "text": "Choose a realistic pace you can keep up over time, rather than an ambitious goal abandoned after a month. Finally, spread your topics week by week and give each piece of content to a person in charge." },
+          { "type": "heading", "text": "Stay flexible" },
+          { "type": "paragraph", "text": "An editorial calendar is not set in stone. Leave room to react to the news, and review it every month: which topics interested your audience, which ones should you drop or explore further?" },
+          { "type": "paragraph", "text": "Need help building your first editorial calendar? Let's talk: SIDEKOM helps you define your themes and your publishing pace." }
+        ]
+      },
+      "es": {
+        "title": "Por qué su empresa necesita un calendario editorial",
+        "excerpt": "Publicar a última hora, olvidar una fecha importante, quedarse sin ideas… Un calendario editorial resuelve estos problemas. Le explicamos por qué y cómo ponerlo en marcha.",
+        "content": [
+          { "type": "paragraph", "text": "Muchas empresas publican según la inspiración del momento. Resultado: semanas muy activas y después nada. Un calendario editorial permite pasar de una comunicación improvisada a una comunicación organizada." },
+          { "type": "heading", "text": "¿Qué es un calendario editorial?" },
+          { "type": "paragraph", "text": "Es una planificación que indica, para cada periodo, los temas que tratar, los formatos, los canales de difusión y las fechas de publicación. Para empezar basta con una sencilla hoja de cálculo compartida." },
+          { "type": "heading", "text": "Lo que cambia para su empresa" },
+          { "type": "list", "items": [
+            "Regularidad: su audiencia sabe cuándo encontrarle",
+            "Coherencia: sus mensajes siguen sus prioridades comerciales",
+            "Tiempo ganado: los contenidos se preparan con antelación, no con prisas",
+            "Mejor anticipación de los momentos clave: fiestas, ferias, lanzamientos, temporadas",
+            "Trabajo en equipo más sencillo: todos saben qué está previsto y quién se encarga"
+          ] },
+          { "type": "heading", "text": "Cómo construirlo en cuatro pasos" },
+          { "type": "paragraph", "text": "Empiece por enumerar las fechas importantes de su año: lanzamientos, eventos, periodos de mucha actividad. Defina después de tres a cinco grandes temas, por ejemplo sus consejos, sus proyectos realizados, su equipo y sus ofertas." },
+          { "type": "paragraph", "text": "Elija un ritmo realista que pueda mantener en el tiempo, en lugar de un objetivo ambicioso abandonado al cabo de un mes. Por último, reparta sus temas semana a semana y asigne cada contenido a una persona responsable." },
+          { "type": "heading", "text": "Mantener la flexibilidad" },
+          { "type": "paragraph", "text": "Un calendario editorial no es rígido. Deje espacio para reaccionar a la actualidad y haga balance cada mes: ¿qué temas han interesado a su público y cuáles conviene abandonar o profundizar?" },
+          { "type": "paragraph", "text": "¿Necesita ayuda para crear su primer calendario editorial? Hablemos: SIDEKOM le ayuda a definir sus temas y su ritmo de publicación." }
+        ]
+      },
+      "pt": {
+        "title": "Porque é que a sua empresa precisa de um calendário editorial",
+        "excerpt": "Publicar à última hora, esquecer uma data importante, ficar sem ideias… Um calendário editorial resolve estes problemas. Saiba porquê e como o pôr em prática.",
+        "content": [
+          { "type": "paragraph", "text": "Muitas empresas publicam ao sabor da inspiração. Resultado: semanas muito ativas e depois nada. Um calendário editorial permite passar de uma comunicação improvisada para uma comunicação organizada." },
+          { "type": "heading", "text": "O que é um calendário editorial?" },
+          { "type": "paragraph", "text": "É um planeamento que indica, para cada período, os temas a abordar, os formatos, os canais de divulgação e as datas de publicação. Para começar, basta uma simples folha de cálculo partilhada." },
+          { "type": "heading", "text": "O que muda para a sua empresa" },
+          { "type": "list", "items": [
+            "Regularidade: o seu público sabe quando o encontrar",
+            "Coerência: as suas mensagens seguem as suas prioridades comerciais",
+            "Tempo ganho: os conteúdos são preparados com antecedência, não à pressa",
+            "Melhor antecipação dos momentos fortes: festas, feiras, lançamentos, estações",
+            "Trabalho de equipa mais simples: todos sabem o que está previsto e quem é responsável"
+          ] },
+          { "type": "heading", "text": "Como o construir em quatro etapas" },
+          { "type": "paragraph", "text": "Comece por listar as datas importantes do seu ano: lançamentos, eventos, períodos de grande atividade. Defina depois três a cinco grandes temas, por exemplo os seus conselhos, os seus projetos, a sua equipa e as suas ofertas." },
+          { "type": "paragraph", "text": "Escolha um ritmo realista que consiga manter ao longo do tempo, em vez de um objetivo ambicioso abandonado ao fim de um mês. Por fim, distribua os seus temas semana a semana e atribua cada conteúdo a uma pessoa responsável." },
+          { "type": "heading", "text": "Manter a flexibilidade" },
+          { "type": "paragraph", "text": "Um calendário editorial não é rígido. Deixe espaço para reagir à atualidade e faça o balanço todos os meses: que temas interessaram ao seu público e quais deve abandonar ou aprofundar?" },
+          { "type": "paragraph", "text": "Precisa de ajuda para criar o seu primeiro calendário editorial? Falemos: a SIDEKOM ajuda-o a definir os seus temas e o seu ritmo de publicação." }
+        ]
+      },
+      "ar": {
+        "title": "لماذا تحتاج شركتك إلى تقويم تحريري",
+        "excerpt": "النشر في اللحظة الأخيرة، ونسيان موعد مهم، ونفاد الأفكار… التقويم التحريري يحل هذه المشكلات. إليك السبب وطريقة إعداده.",
+        "content": [
+          { "type": "paragraph", "text": "تنشر شركات كثيرة حسب ما يخطر لها. والنتيجة: أسابيع مليئة بالنشاط ثم لا شيء. يتيح لك التقويم التحريري الانتقال من تواصل مرتجل إلى تواصل منظم." },
+          { "type": "heading", "text": "ما هو التقويم التحريري؟" },
+          { "type": "paragraph", "text": "هو جدول يحدد لكل فترة المواضيع التي ستتناولها، والأشكال، وقنوات النشر، ومواعيد النشر. يكفي جدول بسيط مشترك للبدء." },
+          { "type": "heading", "text": "ما الذي يغيّره لشركتك" },
+          { "type": "list", "items": [
+            "الانتظام: يعرف جمهورك متى يجدك",
+            "الاتساق: تتبع رسائلك أولوياتك التجارية",
+            "توفير الوقت: يُحضَّر المحتوى مسبقًا وليس على عجل",
+            "استعداد أفضل للمناسبات المهمة: الأعياد والمعارض وعمليات الإطلاق والمواسم",
+            "عمل جماعي أسهل: يعرف الجميع ما هو مخطط له ومن المسؤول عنه"
+          ] },
+          { "type": "heading", "text": "كيف تبنيه في أربع خطوات" },
+          { "type": "paragraph", "text": "ابدأ بسرد التواريخ المهمة في سنتك: عمليات الإطلاق والفعاليات وفترات النشاط المكثف. ثم حدّد من ثلاثة إلى خمسة محاور رئيسية، مثل نصائحك وإنجازاتك وفريقك وعروضك." },
+          { "type": "paragraph", "text": "اختر وتيرة واقعية يمكنك الحفاظ عليها على المدى الطويل، بدلًا من هدف طموح تتخلى عنه بعد شهر. وأخيرًا، وزّع مواضيعك أسبوعًا بعد أسبوع وأسند كل محتوى إلى شخص مسؤول." },
+          { "type": "heading", "text": "الحفاظ على المرونة" },
+          { "type": "paragraph", "text": "التقويم التحريري ليس جامدًا. اترك مجالًا للتفاعل مع المستجدات، وراجعه كل شهر: ما المواضيع التي أثارت اهتمام جمهورك، وما التي ينبغي التخلي عنها أو التعمق فيها؟" },
+          { "type": "paragraph", "text": "هل تحتاج إلى مساعدة لإعداد أول تقويم تحريري لك؟ لنتحدث: تساعدك SIDEKOM على تحديد محاورك ووتيرة نشرك." }
+        ]
+      }
+    }
+  }
+]

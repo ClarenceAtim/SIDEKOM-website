@@ -33,8 +33,10 @@
   min-height: var(--header-height);
 }
 
-.brand { display: inline-flex; flex: none; }
-.site-header .brand img { height: 56px; width: auto; }
+/* The logo is a wide wordmark (about 4.3 : 1), so it is sized by its height */
+.brand { display: inline-flex; flex: 0 1 auto; min-width: 0; }
+.brand picture { display: contents; }
+.site-header .brand img { height: 46px; width: auto; max-width: 100%; object-fit: contain; }
 
 /* ---------- Main navigation ---------- */
 
@@ -65,7 +67,34 @@
   border-radius: 3px;
   background: var(--gold-500);
 }
+.site-nav__actions { display: flex; align-items: center; gap: 10px; }
 .site-nav__cta { padding: 12px 22px; font-size: 0.9rem; }
+
+/* "Book an appointment": a round calendar button on large screens (the text stays for screen readers),
+   a full button with text inside the mobile menu */
+.site-nav__book { width: 46px; height: 46px; padding: 0; }
+.site-nav__book-label {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+/* Medium desktops: tighten the menu so the wide logo, the links and the buttons fit on one line */
+@media (min-width: 1061px) and (max-width: 1280px) {
+  .site-header__bar { gap: 16px; }
+  .site-header .brand img { height: 44px; }
+  .site-nav { gap: 12px; }
+  .site-nav__list { gap: 0; }
+  .site-nav__list a { padding: 10px 9px; font-size: 0.88rem; }
+  .site-nav__list a[aria-current="page"]::after { inset-inline: 9px; }
+  .site-nav__actions { gap: 8px; }
+  .site-nav__cta { padding: 11px 16px; font-size: 0.85rem; }
+  .site-nav__book { width: 42px; height: 42px; }
+  .language-picker__button { padding: 9px 11px; gap: 6px; }
+}
 
 .site-header__tools { display: flex; align-items: center; gap: 10px; }
 
@@ -181,7 +210,22 @@
   }
   .site-nav__list a:hover { background: transparent; }
   .site-nav__list a[aria-current="page"]::after { inset-inline: 4px; bottom: -1px; }
+  .site-nav__actions { flex-direction: column; align-items: stretch; gap: 12px; }
   .site-nav__cta { padding: 16px 24px; font-size: 1rem; }
+  .site-nav__book { order: 1; width: auto; height: auto; padding: 14px 24px; font-size: 1rem; }
+  .site-nav__book-label { position: static; width: auto; height: auto; overflow: visible; clip-path: none; white-space: normal; }
+}
+
+/* Phones: smaller logo and a compact language button so everything fits from 320px wide */
+@media (max-width: 600px) {
+  .site-header__bar { gap: 12px; }
+  .site-header .brand img { height: 40px; }
+}
+@media (max-width: 420px) {
+  .site-header .brand img { height: 38px; }
+  .site-header__tools { gap: 8px; }
+  .language-picker__button { padding: 9px 10px; gap: 6px; }
+  .language-picker__chevron { display: none; }
 }
 
 body.menu-open { overflow: hidden; }

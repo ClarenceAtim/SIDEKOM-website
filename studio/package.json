@@ -1,0 +1,23 @@
+{
+  "name": "sidekom-studio",
+  "private": true,
+  "version": "1.0.0",
+  "description": "SIDEKOM - Administration (Sanity Studio). Separate from the website: never deployed to Vercel.",
+  "type": "module",
+  "main": "package.json",
+  "scripts": {
+    "dev": "sanity dev",
+    "build": "sanity build",
+    "deploy": "sanity deploy"
+  },
+  "dependencies": {
+    "@sanity/locale-fr-fr": "1.2.37",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "sanity": "6.18.0",
+    "styled-components": "6.5.3"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

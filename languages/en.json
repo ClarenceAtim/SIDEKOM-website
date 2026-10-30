@@ -22,7 +22,14 @@
     },
     "contact": {
       "title": "Contact | SIDEKOM",
-      "description": "Tell us about your project by form, email or WhatsApp. Our team replies during office hours."
+      "description": "Tell us about your project by form, email, phone or WhatsApp. Our team is available 24/7."
+    },
+    "blog": {
+      "title": "Blog | SIDEKOM",
+      "description": "Practical advice on communication, community management, events and digital marketing from the SIDEKOM team."
+    },
+    "article": {
+      "title": "Article | SIDEKOM"
     },
     "notFound": {
       "title": "Page not found | SIDEKOM"
@@ -42,11 +49,13 @@
     "events": "Events",
     "packs": "Packs",
     "about": "About",
+    "blog": "Blog",
     "contact": "Talk about my project"
   },
   "common": {
     "learnMore": "Learn more",
-    "seeDetails": "See details"
+    "seeDetails": "See details",
+    "bookCall": "Book an appointment"
   },
   "hero": {
     "eyebrow": "Communication and marketing agency",
@@ -167,8 +176,15 @@
     },
     "cta": "Talk about my event"
   },
+  "eventsList": {
+    "eyebrow": "Calendar",
+    "title": "Our events",
+    "upcoming": "Upcoming",
+    "past": "Past"
+  },
   "packs": {
     "eyebrow": "Our packs",
+    "homeEyebrow": "Our digital packs",
     "title": "Three 3-month plans, from structuring to automation",
     "text": "Choose the level of support that matches your ambition.",
     "currency": "FCFA",
@@ -176,6 +192,7 @@
     "badge": "Recommended",
     "choose": "Choose this pack",
     "adNote": "Advertising budget not included.",
+    "seeAll": "See all packs",
     "essential": {
       "name": "Essential Pack",
       "tagline": "Your digital presence, structured and optimized",
@@ -258,6 +275,10 @@
       "Printers"
     ]
   },
+  "testimonials": {
+    "eyebrow": "Testimonials",
+    "title": "What our clients say"
+  },
   "faq": {
     "eyebrow": "Frequently asked questions",
     "title": "Your questions, our answers",
@@ -283,7 +304,7 @@
     },
     "q6": {
       "question": "When are you available?",
-      "answer": "Our team works during office hours, Monday to Friday. We reply to every message as soon as possible."
+      "answer": "We work 24/7. We reply to every message as soon as possible."
     }
   },
   "cta": {
@@ -295,10 +316,15 @@
     "eyebrow": "Contact",
     "title": "Let's talk about your project",
     "text": "Tell us about your situation and we will get back to you quickly.",
-    "hours": "Our team works during office hours, Monday to Friday.",
+    "hours": "We work 24/7",
+    "phone": "Calls and WhatsApp",
     "book": "Book a time slot",
     "whatsapp": "Write on WhatsApp",
     "email": "Send an email"
+  },
+  "booking": {
+    "text": "Pick a date and a time: you will receive the Google Meet link by email.",
+    "open": "Open the calendar in a new tab"
   },
   "form": {
     "name": "Full name",
@@ -318,6 +344,30 @@
     "required": "Please fill in all required fields.",
     "invalidEmail": "Please enter a valid email address.",
     "notConfigured": "The form is not active yet. Please try again soon."
+  },
+  "blog": {
+    "eyebrow": "Blog",
+    "title": "Advice to help you communicate better",
+    "text": "Community management, communication, events and digital marketing: practical advice to move your business forward.",
+    "filterLabel": "Filter articles by category",
+    "all": "All",
+    "categories": {
+      "community-management": "Community management",
+      "communication": "Communication",
+      "events": "Events",
+      "digital-marketing": "Digital marketing"
+    },
+    "readMore": "Read more",
+    "empty": "No articles in this category yet.",
+    "error": "The articles could not be loaded. Please try again in a moment.",
+    "latestTitle": "Latest articles",
+    "seeAll": "See all articles",
+    "back": "Back to the blog",
+    "fallbackNote": "This article is available in French.",
+    "notFoundTitle": "Article not found",
+    "notFoundText": "This article does not exist or has been removed.",
+    "ctaTitle": "Planning a communication project or an event?",
+    "ctaText": "Let's talk about your goals and see together how SIDEKOM can support you."
   },
   "footer": {
     "tagline": "Brand strategy • Digital creation • Performance",

@@ -47,6 +47,10 @@
 .text-link .icon { transition: transform 0.2s; }
 .text-link:hover .icon { transform: translateX(4px); }
 
+/* Arrow pointing backwards ("Back to the blog", "See all packs") */
+.icon-back { transform: scaleX(-1); }
+.text-link:hover .icon-back { transform: scaleX(-1) translateX(4px); }
+
 /* ---------- Detailed service (services page) ---------- */
 
 .service-detail {

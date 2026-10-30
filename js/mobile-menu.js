@@ -1,6 +1,6 @@
 // Hamburger menu for small screens.
 
-import { translate } from "./translator.js";
+import { translate } from "./translator.js?v=4454694f";
 
 export function setupMobileMenu() {
   const toggle = document.querySelector("[data-menu-toggle]");

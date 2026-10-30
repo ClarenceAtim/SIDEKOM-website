@@ -22,7 +22,14 @@
     },
     "contact": {
       "title": "Contact | SIDEKOM",
-      "description": "Parlez-nous de votre projet : formulaire, e-mail ou WhatsApp. Notre équipe vous répond pendant les heures de bureau."
+      "description": "Parlez-nous de votre projet : formulaire, e-mail, téléphone ou WhatsApp. Notre équipe est disponible 24h/24 et 7j/7."
+    },
+    "blog": {
+      "title": "Blog | SIDEKOM",
+      "description": "Conseils pratiques en communication, community management, événementiel et marketing digital, par l'équipe SIDEKOM."
+    },
+    "article": {
+      "title": "Article | SIDEKOM"
     },
     "notFound": {
       "title": "Page introuvable | SIDEKOM"
@@ -42,11 +49,13 @@
     "events": "Événements",
     "packs": "Packs",
     "about": "À propos",
+    "blog": "Blog",
     "contact": "Parler de mon projet"
   },
   "common": {
     "learnMore": "En savoir plus",
-    "seeDetails": "Voir le détail"
+    "seeDetails": "Voir le détail",
+    "bookCall": "Prendre rendez-vous"
   },
   "hero": {
     "eyebrow": "Agence de communication et de marketing",
@@ -167,8 +176,15 @@
     },
     "cta": "Parler de mon événement"
   },
+  "eventsList": {
+    "eyebrow": "Agenda",
+    "title": "Nos événements",
+    "upcoming": "À venir",
+    "past": "Passé"
+  },
   "packs": {
     "eyebrow": "Nos packs",
+    "homeEyebrow": "Nos packs digitaux",
     "title": "Trois formules sur 3 mois, de la structuration à l'automatisation",
     "text": "Choisissez le niveau d'accompagnement qui correspond à votre ambition.",
     "currency": "FCFA",
@@ -176,6 +192,7 @@
     "badge": "Recommandé",
     "choose": "Choisir ce pack",
     "adNote": "Budget publicitaire non inclus.",
+    "seeAll": "Voir tous les packs",
     "essential": {
       "name": "Pack Essentiel",
       "tagline": "Votre présence digitale, structurée et optimisée",
@@ -258,6 +275,10 @@
       "Imprimeurs"
     ]
   },
+  "testimonials": {
+    "eyebrow": "Témoignages",
+    "title": "Ce que disent nos clients"
+  },
   "faq": {
     "eyebrow": "Questions fréquentes",
     "title": "Vos questions, nos réponses",
@@ -283,7 +304,7 @@
     },
     "q6": {
       "question": "Quand êtes-vous disponibles ?",
-      "answer": "Notre équipe travaille pendant les heures de bureau, du lundi au vendredi. Nous répondons à chaque message dans les meilleurs délais."
+      "answer": "Nous sommes disponibles 24h/24 et 7j/7. Nous répondons à chaque message dans les meilleurs délais."
     }
   },
   "cta": {
@@ -295,10 +316,15 @@
     "eyebrow": "Contact",
     "title": "Parlons de votre projet",
     "text": "Décrivez-nous votre situation, nous revenons vers vous rapidement.",
-    "hours": "Notre équipe travaille pendant les heures de bureau, du lundi au vendredi.",
+    "hours": "Nous sommes disponibles 24h/24 et 7j/7",
+    "phone": "Appels et WhatsApp",
     "book": "Réserver un créneau",
     "whatsapp": "Écrire sur WhatsApp",
     "email": "Envoyer un e-mail"
+  },
+  "booking": {
+    "text": "Choisissez une date et une heure : vous recevrez le lien Google Meet par e-mail.",
+    "open": "Ouvrir le calendrier dans un nouvel onglet"
   },
   "form": {
     "name": "Nom complet",
@@ -318,6 +344,30 @@
     "required": "Merci de remplir tous les champs obligatoires.",
     "invalidEmail": "Merci d'indiquer une adresse e-mail valide.",
     "notConfigured": "Le formulaire n'est pas encore activé. Merci de réessayer bientôt."
+  },
+  "blog": {
+    "eyebrow": "Blog",
+    "title": "Des conseils pour mieux communiquer",
+    "text": "Community management, communication, événements et marketing digital : des conseils pratiques pour faire avancer votre entreprise.",
+    "filterLabel": "Filtrer les articles par catégorie",
+    "all": "Tous",
+    "categories": {
+      "community-management": "Community management",
+      "communication": "Communication",
+      "events": "Événementiel",
+      "digital-marketing": "Marketing digital"
+    },
+    "readMore": "Lire la suite",
+    "empty": "Aucun article dans cette catégorie pour le moment.",
+    "error": "Les articles n'ont pas pu être chargés. Merci de réessayer dans un instant.",
+    "latestTitle": "Nos derniers articles",
+    "seeAll": "Voir tous les articles",
+    "back": "Retour au blog",
+    "fallbackNote": "Cet article est disponible en français.",
+    "notFoundTitle": "Article introuvable",
+    "notFoundText": "Cet article n'existe pas ou a été retiré.",
+    "ctaTitle": "Un projet de communication ou un événement en préparation ?",
+    "ctaText": "Parlons de vos objectifs et voyons ensemble comment SIDEKOM peut vous accompagner."
   },
   "footer": {
     "tagline": "Stratégie de marque • Création digitale • Performance",

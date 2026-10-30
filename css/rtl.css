@@ -13,12 +13,17 @@ html[dir="rtl"] * {
 /* Arrows should point the other way */
 html[dir="rtl"] .icon-flip { transform: scaleX(-1); }
 html[dir="rtl"] .text-link:hover .icon-flip { transform: scaleX(-1) translateX(4px); }
+html[dir="rtl"] .icon-back { transform: none; }
+html[dir="rtl"] .text-link:hover .icon-back { transform: translateX(4px); }
 
 /* Arabic text needs a little more room between lines */
 html[dir="rtl"] body { line-height: 1.85; }
 html[dir="rtl"] h1,
 html[dir="rtl"] h2,
 html[dir="rtl"] h3 { line-height: 1.35; }
+
+/* The phone number reads left-to-right but lines up on the right with its label */
+html[dir="rtl"] [data-phone-number] { text-align: right; }
 
 /* Prices stay left-to-right so "250,000 FCFA" reads naturally */
 html[dir="rtl"] .pack__price { direction: rtl; }
