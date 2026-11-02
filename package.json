@@ -8,5 +8,8 @@
     "start": "node tools/serve.mjs",
     "update": "node tools/update-pages.mjs",
     "check": "node tools/check-translations.mjs"
+  },
+  "dependencies": {
+    "nodemailer": "^6.10.1"
   }
 }
