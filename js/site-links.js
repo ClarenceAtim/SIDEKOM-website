@@ -26,6 +26,7 @@ export function setupSiteLinks() {
   });
 
   document.querySelectorAll("[data-phone-number]").forEach((el) => { el.textContent = formatPhone(settings.phone); });
+  document.querySelectorAll("[data-email-value]").forEach((el) => { el.textContent = settings.email || ""; });
 
   // "Book an appointment" buttons: they lead to the calendar on the contact page (#booking),
   // so they only appear once bookingUrl is set.
