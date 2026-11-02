@@ -1,12 +1,17 @@
 // POST /api/contact — receives the SIDEKOM contact form and emails it to the team.
 //
 // Runs as a Vercel Serverless Function (ESM, see package.json "type": "module").
-// Delivery goes through Resend's free tier. Required env var (set in Vercel
-// project settings, never in code): RESEND_API_KEY.
-// Optional env vars: CONTACT_TO_EMAIL (default Contact@sidekom.com),
-// CONTACT_FROM_EMAIL (default "SIDEKOM Website <onboarding@resend.dev>").
+// Delivery goes through the site's OWN Hostinger mailbox via SMTP — no third party.
+// Required env vars (set in Vercel project settings, never in code):
+//   SMTP_USER  (default Contact@sidekom.com)
+//   SMTP_PASS  (the mailbox password — the owner enters it in Vercel, it is never in code)
+// Optional env vars:
+//   SMTP_HOST (default smtp.hostinger.com), SMTP_PORT (default 465),
+//   CONTACT_TO_EMAIL (default Contact@sidekom.com).
 //
 // Frontend: js/contact-form.js POSTs JSON here when settings.formEndpoint = "/api/contact".
+
+import nodemailer from "nodemailer";
 
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 const MAX = { name: 120, email: 254, company: 160, need: 160, pack: 80, message: 5000, language: 12 };
@@ -55,14 +60,14 @@ export default async function handler(req, res) {
     return res.status(400).json({ ok: false, error: "invalid_email" });
   }
 
-  const apiKey = process.env.RESEND_API_KEY;
-  if (!apiKey) {
-    console.error("[contact] RESEND_API_KEY is not set");
+  const smtpUser = process.env.SMTP_USER || "Contact@sidekom.com";
+  const smtpPass = process.env.SMTP_PASS;
+  if (!smtpPass) {
+    console.error("[contact] SMTP_PASS is not set");
     return res.status(503).json({ ok: false, error: "email_not_configured" });
   }
 
   const to = process.env.CONTACT_TO_EMAIL || "Contact@sidekom.com";
-  const from = process.env.CONTACT_FROM_EMAIL || "SIDEKOM Website <onboarding@resend.dev>";
   const subject = clean(body._subject, 160) || "Nouvelle demande depuis le site SIDEKOM";
   const stamp = new Date().toISOString();
 
@@ -79,29 +84,21 @@ export default async function handler(req, res) {
   ].join("\n");
 
   try {
-    const r = await fetch("https://api.resend.com/emails", {
-      method: "POST",
-      headers: { Authorization: `Bearer ${apiKey}`, "Content-Type": "application/json" },
-      body: JSON.stringify({
-        from,
-        to: [to],
-        reply_to: data.email, // owner can reply to the visitor in one click
-        subject: `[SIDEKOM] ${subject}`,
-        text,
-      }),
+    const transporter = nodemailer.createTransport({
+      host: process.env.SMTP_HOST || "smtp.hostinger.com",
+      port: Number(process.env.SMTP_PORT || 465),
+      secure: true,
+      auth: { user: smtpUser, pass: smtpPass },
     });
-    if (!r.ok) {
-      let detail = "";
-      try {
-        detail = (await r.text()).slice(0, 500);
-      } catch {
-        detail = "";
-      }
-      console.error("[contact] resend error", r.status, detail);
-      return res.status(502).json({ ok: false, error: "email_send_failed" });
-    }
+    await transporter.sendMail({
+      from: `"SIDEKOM Website" <${smtpUser}>`,
+      to,
+      replyTo: data.email, // owner can reply to the visitor in one click
+      subject: `[SIDEKOM] ${subject}`,
+      text,
+    });
   } catch (err) {
-    console.error("[contact] resend exception", err && err.message ? err.message : err);
+    console.error("[contact] smtp error", err && err.message ? err.message : err);
     return res.status(502).json({ ok: false, error: "email_send_failed" });
   }
 
