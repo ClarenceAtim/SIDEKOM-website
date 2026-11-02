@@ -106,12 +106,23 @@
     "digital": {
       "title": "Comunicação digital",
       "text": "Desenvolver a sua presença online e transformar essa visibilidade em captação real de clientes.",
-      "list": [
-        "Estratégia digital e community management",
-        "WhatsApp Business e reputação online",
-        "Logótipos, manuais de identidade e materiais",
-        "Foto, vídeo e edição",
-        "Sites institucionais e landing pages"
+      "audienceLabel": "Audiência e conteúdo",
+      "audience": [
+        "Gestão de redes sociais — Facebook, Instagram, TikTok: calendário editorial, publicações, comentários e mensagens",
+        "Criação de conteúdo — posts, visuais, reels, legendas em francês e inglês",
+        "Anúncios Meta — campanhas de Facebook e Instagram, criação e otimização",
+        "Reputação online — avaliações do Google, perfil da empresa, WhatsApp Business",
+        "Logotipos, manuais de marca e materiais",
+        "Foto, vídeo e edição"
+      ],
+      "webLabel": "Web, dados e automação",
+      "web": [
+        "SEO — auditorias e otimização mensal para ser encontrado no Google",
+        "Websites — sites vitrine, landing pages e lojas online",
+        "Chatbot de WhatsApp e automação — respostas automáticas, catálogos, reservas",
+        "Limpeza de dados — seus arquivos desorganizados transformados em dados limpos e utilizáveis",
+        "Painéis de controle — suas vendas e estoque em um relance",
+        "Campanhas de e-mail e SMS — criação e automação"
       ]
     },
     "commercial": {
