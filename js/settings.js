@@ -14,13 +14,15 @@ export const settings = {
   storageKey: "sidekom-language",
 
   // Contact form.
-  // 1. Free option: create a form on https://formspree.io and paste its URL, e.g. "https://formspree.io/f/abcdwxyz"
-  // 2. Later: use your own endpoint, e.g. "/api/contact" (sent as JSON).
+  // Submissions POST as JSON to the Vercel serverless function in /api/contact.js,
+  // which emails them to CONTACT_TO_EMAIL via Resend (free tier).
+  // Needs RESEND_API_KEY set in Vercel env vars — see .env.example.
+  // Free alternative: create a form on https://formspree.io and paste its URL, e.g. "https://formspree.io/f/abcdwxyz"
   // While this stays empty, the form opens the visitor's email app instead (see `email` below).
-  formEndpoint: "",
+  formEndpoint: "/api/contact",
 
   // Contact details. Anything left empty is simply hidden on the site.
-  email: "",                       // e.g. "contact@sidekom.com"
+  email: "Contact@sidekom.com",      // shown in footer + contact page; receives form submissions
   phone: "+237655111495",          // with "+" and country code; shown on the site as +237 655 111 495
   whatsappNumber: "237655111495",  // digits only, with country code, no "+"
 
