@@ -106,12 +106,23 @@
     "digital": {
       "title": "Digital communication",
       "text": "Grow your online presence and turn that visibility into real customer acquisition.",
-      "list": [
-        "Digital strategy and community management",
-        "WhatsApp Business and online reputation",
+      "audienceLabel": "Audience & content",
+      "audience": [
+        "Social media management — Facebook, Instagram, TikTok: content calendar, posting, comments & DMs",
+        "Content creation — posts, visuals, reels, captions in French and English",
+        "Meta ads — Facebook & Instagram campaigns, setup and optimization",
+        "Online reputation — Google reviews, Business Profile, WhatsApp Business",
         "Logos, brand guidelines and materials",
-        "Photo, video and editing",
-        "Showcase websites and landing pages"
+        "Photo, video and editing"
+      ],
+      "webLabel": "Web, data & automation",
+      "web": [
+        "SEO — audits and monthly optimization to get found on Google",
+        "Websites — showcase sites, landing pages and e-commerce stores",
+        "WhatsApp chatbot & automation — auto-replies, catalogs, bookings",
+        "Data cleaning — messy files turned into clean, usable data",
+        "Business dashboards — your sales and stock at a glance",
+        "Email & SMS campaigns — setup and automation"
       ]
     },
     "commercial": {

@@ -74,6 +74,8 @@
 }
 .service-detail__list .check-list { gap: 14px; }
 .service-detail__list .check-list li { font-weight: 600; color: var(--ink); }
+.check-list__label { font-size: .78rem; font-weight: 800; text-transform: uppercase; letter-spacing: .07em; color: var(--muted); margin: 20px 0 4px; }
+.service-detail__list .check-list__label:first-child { margin-top: 0; }
 
 @media (max-width: 820px) {
   .service-detail { grid-template-columns: minmax(0, 1fr); }
