@@ -1,7 +1,7 @@
 // Contact form: validation, sending, and pre-selection from ?pack= and ?need= in the link.
 
 import { settings } from "./settings.js";
-import { getLanguage, translate } from "./translator.js?v=4454694f";
+import { getLanguage, translate } from "./translator.js?v=7f3a9c2e";
 
 export function setupContactForm() {
   const form = document.querySelector("[data-contact-form]");
