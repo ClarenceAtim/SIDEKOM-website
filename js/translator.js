@@ -21,7 +21,7 @@ export function pickInitialLanguage() {
 
 async function loadDictionary(code) {
   if (!cache[code]) {
-    const response = await fetch(`/languages/${code}.json?v=7f3a9c2e`);
+    const response = await fetch(`/languages/${code}.json?v=0dce298e`);
     if (!response.ok) throw new Error(`Missing language file: ${code}`);
     cache[code] = await response.json();
   }

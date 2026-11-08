@@ -4,7 +4,7 @@
 // Both give the same shape: { slug, date: "YYYY-MM-DD", category, image, translations: { fr: { title, excerpt, content }, ... } }.
 
 import { settings } from "./settings.js";
-import { sanityEnabled, sanityImage, sanityQuery } from "./sanity.js?v=7f3a9c2e";
+import { sanityEnabled, sanityImage, sanityQuery } from "./sanity.js?v=0dce298e";
 
 const FALLBACK_SOURCE = "/data/blog-posts.json";
 
