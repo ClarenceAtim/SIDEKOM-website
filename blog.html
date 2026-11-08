@@ -15,9 +15,9 @@
 
 <!-- The ?v=... after file names is written by tools/update-pages.mjs. It changes whenever a CSS, JS,
      language or image file changes, so visitors get the new file even though browsers keep these files for a year. -->
-<link rel="icon" type="image/png" sizes="32x32" href="/images/favicons/favicon-32.png?v=7f3a9c2e">
-<link rel="icon" type="image/png" sizes="192x192" href="/images/favicons/favicon-192.png?v=7f3a9c2e">
-<link rel="apple-touch-icon" href="/images/favicons/apple-touch-icon.png?v=7f3a9c2e">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicons/favicon-32.png?v=0dce298e">
+<link rel="icon" type="image/png" sizes="192x192" href="/images/favicons/favicon-192.png?v=0dce298e">
+<link rel="apple-touch-icon" href="/images/favicons/apple-touch-icon.png?v=0dce298e">
 
 <!-- Fonts load without holding up the page: text shows at once in a system font, then switches -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -26,29 +26,29 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800&family=Montserrat:wght@400;500;600;700;800&display=swap" media="print" onload="this.media='all'">
 <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800&family=Montserrat:wght@400;500;600;700;800&display=swap"></noscript>
 
-<link rel="stylesheet" href="/css/theme.css?v=7f3a9c2e">
-<link rel="stylesheet" href="/css/base.css?v=7f3a9c2e">
-<link rel="stylesheet" href="/css/layout.css?v=7f3a9c2e">
-<link rel="stylesheet" href="/css/buttons.css?v=7f3a9c2e">
-<link rel="stylesheet" href="/css/header.css?v=7f3a9c2e">
-<link rel="stylesheet" href="/css/hero.css?v=7f3a9c2e">
-<link rel="stylesheet" href="/css/cards.css?v=7f3a9c2e">
-<link rel="stylesheet" href="/css/packs.css?v=7f3a9c2e">
-<link rel="stylesheet" href="/css/faq.css?v=7f3a9c2e">
-<link rel="stylesheet" href="/css/forms.css?v=7f3a9c2e">
-<link rel="stylesheet" href="/css/blog.css?v=7f3a9c2e">
-<link rel="stylesheet" href="/css/footer.css?v=7f3a9c2e">
-<link rel="stylesheet" href="/css/animations.css?v=7f3a9c2e">
-<link rel="stylesheet" href="/css/rtl.css?v=7f3a9c2e">
+<link rel="stylesheet" href="/css/theme.css?v=0dce298e">
+<link rel="stylesheet" href="/css/base.css?v=0dce298e">
+<link rel="stylesheet" href="/css/layout.css?v=0dce298e">
+<link rel="stylesheet" href="/css/buttons.css?v=0dce298e">
+<link rel="stylesheet" href="/css/header.css?v=0dce298e">
+<link rel="stylesheet" href="/css/hero.css?v=0dce298e">
+<link rel="stylesheet" href="/css/cards.css?v=0dce298e">
+<link rel="stylesheet" href="/css/packs.css?v=0dce298e">
+<link rel="stylesheet" href="/css/faq.css?v=0dce298e">
+<link rel="stylesheet" href="/css/forms.css?v=0dce298e">
+<link rel="stylesheet" href="/css/blog.css?v=0dce298e">
+<link rel="stylesheet" href="/css/footer.css?v=0dce298e">
+<link rel="stylesheet" href="/css/animations.css?v=0dce298e">
+<link rel="stylesheet" href="/css/rtl.css?v=0dce298e">
 
 <!-- Scripts used on every page: download them now, in parallel, instead of one after the other -->
-<link rel="modulepreload" href="/js/main.js?v=7f3a9c2e">
-<link rel="modulepreload" href="/js/translator.js?v=7f3a9c2e">
+<link rel="modulepreload" href="/js/main.js?v=0dce298e">
+<link rel="modulepreload" href="/js/translator.js?v=0dce298e">
 <link rel="modulepreload" href="/js/settings.js">
-<link rel="modulepreload" href="/js/language-picker.js?v=7f3a9c2e">
-<link rel="modulepreload" href="/js/mobile-menu.js?v=7f3a9c2e">
-<link rel="modulepreload" href="/js/scroll-effects.js?v=7f3a9c2e">
-<link rel="modulepreload" href="/js/site-links.js?v=7f3a9c2e">
+<link rel="modulepreload" href="/js/language-picker.js?v=0dce298e">
+<link rel="modulepreload" href="/js/mobile-menu.js?v=0dce298e">
+<link rel="modulepreload" href="/js/scroll-effects.js?v=0dce298e">
+<link rel="modulepreload" href="/js/site-links.js?v=0dce298e">
 
 <!-- Runs before the page is drawn: picks the visitor's language so the page opens in the right
      language and direction (no flash of French), and starts downloading that language's text.
@@ -72,7 +72,7 @@
       preload.rel = "preload";
       preload.as = "fetch";
       preload.crossOrigin = "anonymous";
-      preload.href = "/languages/" + language + ".json?v=7f3a9c2e";
+      preload.href = "/languages/" + language + ".json?v=0dce298e";
       document.head.appendChild(preload);
     } catch (error) { /* storage blocked: stay in French */ }
   })();
@@ -80,6 +80,24 @@
 
 <!-- Visitor statistics (optional): uncomment and put your domain. Plausible is paid but simple and cookie-free. -->
 <!-- <script defer data-domain="votre-domaine.com" src="https://plausible.io/js/script.js"></script> -->
+
+<!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '2333192190769971');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=2333192190769971&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
 <!-- /shared:head -->
 
   <title data-i18n="meta.blog.title">Blog | SIDEKOM</title>
@@ -118,8 +136,8 @@
   <div class="container site-header__bar">
     <a class="brand" href="/" aria-label="SIDEKOM">
       <picture>
-        <source srcset="/images/sidekom-logo.webp?v=7f3a9c2e" type="image/webp">
-        <img src="/images/sidekom-logo.png?v=7f3a9c2e" alt="SIDEKOM - Agence de marketing et de communication" width="206" height="48" fetchpriority="high">
+        <source srcset="/images/sidekom-logo.webp?v=0dce298e" type="image/webp">
+        <img src="/images/sidekom-logo.png?v=0dce298e" alt="SIDEKOM - Agence de marketing et de communication" width="206" height="48" fetchpriority="high">
       </picture>
     </a>
 
@@ -216,8 +234,8 @@
       <div class="site-footer__brand">
         <a class="brand" href="/" aria-label="SIDEKOM">
           <picture>
-            <source srcset="/images/sidekom-logo-white.webp?v=7f3a9c2e" type="image/webp">
-            <img src="/images/sidekom-logo-white.png?v=7f3a9c2e" alt="SIDEKOM - Agence de marketing et de communication" width="220" height="51" loading="lazy" decoding="async">
+            <source srcset="/images/sidekom-logo-white.webp?v=0dce298e" type="image/webp">
+            <img src="/images/sidekom-logo-white.png?v=0dce298e" alt="SIDEKOM - Agence de marketing et de communication" width="220" height="51" loading="lazy" decoding="async">
           </picture>
         </a>
         <p class="site-footer__tagline" data-i18n="footer.tagline">Stratégie de marque • Création digitale • Performance</p>
@@ -268,6 +286,6 @@
 </a>
 <!-- /shared:footer -->
 
-  <script type="module" src="/js/main.js?v=7f3a9c2e"></script>
+  <script type="module" src="/js/main.js?v=0dce298e"></script>
 </body>
 </html>

@@ -2,7 +2,7 @@
 // No password or key here: only published content of a public dataset can be read this way.
 
 import { settings } from "./settings.js";
-import { getLanguage } from "./translator.js?v=7f3a9c2e";
+import { getLanguage } from "./translator.js?v=0dce298e";
 
 const config = settings.sanity || {};
 const TIMEOUT = 8000; // after 8 seconds without an answer, the site falls back to its own content
