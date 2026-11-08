@@ -1,1542 +1,1728 @@
 [
- {
-  "slug": "5-erreurs-gestion-communaute-en-ligne",
-  "date": "2026-10-27",
-  "category": "community-management",
-  "image": "",
-  "sample": true,
-  "translations": {
-   "fr": {
-    "title": "5 erreurs à éviter dans la gestion de votre communauté en ligne",
-    "excerpt": "Publier sans ligne directrice, ignorer les commentaires, tout miser sur la vente… Voici cinq erreurs fréquentes en community management, et comment les corriger.",
-    "content": [
-     {
-      "type": "paragraph",
-      "text": "Une communauté en ligne ne se construit pas en publiant de temps en temps. Elle demande de la régularité, de l'écoute et une vraie stratégie. Voici cinq erreurs que nous rencontrons souvent, et les bons réflexes pour les éviter."
-     },
-     {
-      "type": "heading",
-      "text": "1. Publier sans objectif clair"
-     },
-     {
-      "type": "paragraph",
-      "text": "Avant de publier, demandez-vous ce que vous attendez de chaque contenu : faire connaître une offre, créer de l'échange, rassurer vos clients ? Sans objectif, il est impossible de savoir ce qui fonctionne. Fixez deux ou trois priorités et choisissez vos contenus en conséquence."
-     },
-     {
-      "type": "heading",
-      "text": "2. Ignorer les commentaires et les messages"
-     },
-     {
-      "type": "paragraph",
-      "text": "Une question sans réponse donne l'image d'une entreprise absente. Répondez rapidement et avec courtoisie, y compris aux critiques. Une remarque négative bien traitée en public montre votre sérieux à tous ceux qui la lisent."
-     },
-     {
-      "type": "heading",
-      "text": "3. Parler uniquement de vous"
-     },
-     {
-      "type": "paragraph",
-      "text": "Si chaque publication est une annonce commerciale, votre audience décroche. Alternez les formats : conseils utiles, coulisses de votre activité, témoignages authentiques, questions à votre communauté. La vente vient plus naturellement quand la confiance est installée."
-     },
-     {
-      "type": "heading",
-      "text": "4. Être présent partout, mais mal"
-     },
-     {
-      "type": "paragraph",
-      "text": "Il vaut mieux animer deux réseaux sociaux avec soin que cinq de manière irrégulière. Choisissez les plateformes où se trouve réellement votre public et concentrez vos efforts sur celles-ci."
-     },
-     {
-      "type": "heading",
-      "text": "5. Ne jamais mesurer les résultats"
-     },
-     {
-      "type": "paragraph",
-      "text": "Les statistiques intégrées aux réseaux sociaux sont gratuites et riches d'enseignements. Chaque mois, regardez quels contenus suscitent le plus de réactions, de partages ou de messages, puis ajustez votre plan."
-     },
-     {
-      "type": "heading",
-      "text": "En résumé"
-     },
-     {
-      "type": "list",
-      "items": [
-       "Définissez un objectif pour chaque publication",
-       "Répondez à votre communauté avec régularité",
-       "Variez vos contenus et limitez la promotion",
-       "Concentrez-vous sur les bons réseaux",
-       "Analysez vos statistiques chaque mois"
-      ]
-     },
-     {
-      "type": "paragraph",
-      "text": "Vous souhaitez être accompagné pour structurer votre présence sur les réseaux sociaux ? L'équipe SIDEKOM peut faire le point avec vous sur votre situation."
-     }
-    ]
-   },
-   "en": {
-    "title": "5 mistakes to avoid when managing your online community",
-    "excerpt": "Posting without direction, ignoring comments, focusing only on sales… Here are five common community management mistakes, and how to fix them.",
-    "content": [
-     {
-      "type": "paragraph",
-      "text": "An online community is not built by posting every now and then. It takes consistency, listening and a real strategy. Here are five mistakes we often come across, and the right habits to avoid them."
-     },
-     {
-      "type": "heading",
-      "text": "1. Posting without a clear goal"
-     },
-     {
-      "type": "paragraph",
-      "text": "Before you post, ask yourself what you expect from each piece of content: promoting an offer, starting a conversation, reassuring your customers? Without a goal, it is impossible to know what works. Set two or three priorities and choose your content accordingly."
-     },
-     {
-      "type": "heading",
-      "text": "2. Ignoring comments and messages"
-     },
-     {
-      "type": "paragraph",
-      "text": "An unanswered question makes a business look absent. Reply quickly and politely, including to criticism. A negative comment handled well in public shows everyone who reads it that you take your customers seriously."
-     },
-     {
-      "type": "heading",
-      "text": "3. Talking only about yourself"
-     },
-     {
-      "type": "paragraph",
-      "text": "If every post is a sales announcement, your audience will tune out. Mix your formats: useful tips, behind the scenes of your business, genuine testimonials, questions for your community. Sales come more naturally once trust is in place."
-     },
-     {
-      "type": "heading",
-      "text": "4. Being everywhere, but poorly"
-     },
-     {
-      "type": "paragraph",
-      "text": "It is better to run two social networks carefully than five irregularly. Choose the platforms where your audience really is, and focus your efforts there."
-     },
-     {
-      "type": "heading",
-      "text": "5. Never measuring results"
-     },
-     {
-      "type": "paragraph",
-      "text": "The statistics built into social networks are free and full of lessons. Every month, look at which posts get the most reactions, shares or messages, then adjust your plan."
-     },
-     {
-      "type": "heading",
-      "text": "In short"
-     },
-     {
-      "type": "list",
-      "items": [
-       "Set a goal for every post",
-       "Reply to your community consistently",
-       "Vary your content and limit promotion",
-       "Focus on the right networks",
-       "Review your statistics every month"
-      ]
-     },
-     {
-      "type": "paragraph",
-      "text": "Would you like support to structure your social media presence? The SIDEKOM team can review your situation with you."
-     }
-    ]
-   },
-   "es": {
-    "title": "5 errores que debe evitar en la gestión de su comunidad en línea",
-    "excerpt": "Publicar sin rumbo, ignorar los comentarios, centrarlo todo en la venta… Estos son cinco errores frecuentes en la gestión de comunidades y cómo corregirlos.",
-    "content": [
-     {
-      "type": "paragraph",
-      "text": "Una comunidad en línea no se construye publicando de vez en cuando. Requiere constancia, escucha y una verdadera estrategia. Estos son cinco errores que encontramos a menudo y los buenos hábitos para evitarlos."
-     },
-     {
-      "type": "heading",
-      "text": "1. Publicar sin un objetivo claro"
-     },
-     {
-      "type": "paragraph",
-      "text": "Antes de publicar, pregúntese qué espera de cada contenido: dar a conocer una oferta, generar conversación, tranquilizar a sus clientes. Sin objetivo, es imposible saber qué funciona. Fije dos o tres prioridades y elija sus contenidos en consecuencia."
-     },
-     {
-      "type": "heading",
-      "text": "2. Ignorar los comentarios y los mensajes"
-     },
-     {
-      "type": "paragraph",
-      "text": "Una pregunta sin respuesta da la imagen de una empresa ausente. Responda con rapidez y cortesía, también a las críticas. Un comentario negativo bien gestionado en público demuestra su seriedad a todos los que lo leen."
-     },
-     {
-      "type": "heading",
-      "text": "3. Hablar solo de usted"
-     },
-     {
-      "type": "paragraph",
-      "text": "Si cada publicación es un anuncio comercial, su audiencia se desconecta. Alterne los formatos: consejos útiles, el día a día de su actividad, testimonios auténticos, preguntas a su comunidad. La venta llega de forma más natural cuando existe confianza."
-     },
-     {
-      "type": "heading",
-      "text": "4. Estar en todas partes, pero mal"
-     },
-     {
-      "type": "paragraph",
-      "text": "Es mejor animar dos redes sociales con cuidado que cinco de forma irregular. Elija las plataformas donde realmente está su público y concentre allí sus esfuerzos."
-     },
-     {
-      "type": "heading",
-      "text": "5. No medir nunca los resultados"
-     },
-     {
-      "type": "paragraph",
-      "text": "Las estadísticas integradas en las redes sociales son gratuitas y muy instructivas. Cada mes, observe qué contenidos generan más reacciones, veces compartidos o mensajes, y ajuste su plan."
-     },
-     {
-      "type": "heading",
-      "text": "En resumen"
-     },
-     {
-      "type": "list",
-      "items": [
-       "Defina un objetivo para cada publicación",
-       "Responda a su comunidad con regularidad",
-       "Varíe sus contenidos y limite la promoción",
-       "Concéntrese en las redes adecuadas",
-       "Analice sus estadísticas cada mes"
-      ]
-     },
-     {
-      "type": "paragraph",
-      "text": "¿Desea acompañamiento para estructurar su presencia en redes sociales? El equipo de SIDEKOM puede analizar su situación con usted."
-     }
-    ]
-   },
-   "pt": {
-    "title": "5 erros a evitar na gestão da sua comunidade online",
-    "excerpt": "Publicar sem rumo, ignorar os comentários, apostar tudo na venda… Eis cinco erros frequentes na gestão de comunidades e como corrigi-los.",
-    "content": [
-     {
-      "type": "paragraph",
-      "text": "Uma comunidade online não se constrói a publicar de vez em quando. Exige regularidade, escuta e uma verdadeira estratégia. Eis cinco erros que encontramos com frequência e os bons hábitos para os evitar."
-     },
-     {
-      "type": "heading",
-      "text": "1. Publicar sem um objetivo claro"
-     },
-     {
-      "type": "paragraph",
-      "text": "Antes de publicar, pergunte-se o que espera de cada conteúdo: dar a conhecer uma oferta, criar conversa, tranquilizar os seus clientes? Sem objetivo, é impossível saber o que funciona. Defina duas ou três prioridades e escolha os seus conteúdos em conformidade."
-     },
-     {
-      "type": "heading",
-      "text": "2. Ignorar os comentários e as mensagens"
-     },
-     {
-      "type": "paragraph",
-      "text": "Uma pergunta sem resposta dá a imagem de uma empresa ausente. Responda com rapidez e cortesia, incluindo às críticas. Um comentário negativo bem tratado em público mostra a sua seriedade a todos os que o leem."
-     },
-     {
-      "type": "heading",
-      "text": "3. Falar apenas de si"
-     },
-     {
-      "type": "paragraph",
-      "text": "Se cada publicação for um anúncio comercial, o seu público desliga. Alterne os formatos: conselhos úteis, bastidores da sua atividade, testemunhos autênticos, perguntas à sua comunidade. A venda surge com mais naturalidade quando a confiança está instalada."
-     },
-     {
-      "type": "heading",
-      "text": "4. Estar em todo o lado, mas mal"
-     },
-     {
-      "type": "paragraph",
-      "text": "Mais vale dinamizar duas redes sociais com cuidado do que cinco de forma irregular. Escolha as plataformas onde o seu público realmente está e concentre aí os seus esforços."
-     },
-     {
-      "type": "heading",
-      "text": "5. Nunca medir os resultados"
-     },
-     {
-      "type": "paragraph",
-      "text": "As estatísticas integradas nas redes sociais são gratuitas e muito úteis. Todos os meses, veja que conteúdos geram mais reações, partilhas ou mensagens e ajuste o seu plano."
-     },
-     {
-      "type": "heading",
-      "text": "Em resumo"
-     },
-     {
-      "type": "list",
-      "items": [
-       "Defina um objetivo para cada publicação",
-       "Responda à sua comunidade com regularidade",
-       "Varie os seus conteúdos e limite a promoção",
-       "Concentre-se nas redes certas",
-       "Analise as suas estatísticas todos os meses"
-      ]
-     },
-     {
-      "type": "paragraph",
-      "text": "Gostaria de ser acompanhado para estruturar a sua presença nas redes sociais? A equipa SIDEKOM pode analisar a sua situação consigo."
-     }
-    ]
-   },
-   "ar": {
-    "title": "5 أخطاء يجب تجنبها في إدارة مجتمعك على الإنترنت",
-    "excerpt": "النشر دون توجه واضح، وتجاهل التعليقات، والتركيز على البيع وحده… إليك خمسة أخطاء شائعة في إدارة المجتمعات وطرق تصحيحها.",
-    "content": [
-     {
-      "type": "paragraph",
-      "text": "لا يُبنى المجتمع على الإنترنت بالنشر من حين لآخر، بل يحتاج إلى الانتظام والإصغاء واستراتيجية حقيقية. إليك خمسة أخطاء نصادفها كثيرًا، والعادات الصحيحة لتجنبها."
-     },
-     {
-      "type": "heading",
-      "text": "1. النشر دون هدف واضح"
-     },
-     {
-      "type": "paragraph",
-      "text": "قبل النشر، اسأل نفسك عمّا تنتظره من كل محتوى: التعريف بعرض ما، أم فتح باب الحوار، أم طمأنة عملائك؟ بدون هدف يستحيل معرفة ما ينجح. حدّد أولويتين أو ثلاثًا واختر محتواك على أساسها."
-     },
-     {
-      "type": "heading",
-      "text": "2. تجاهل التعليقات والرسائل"
-     },
-     {
-      "type": "paragraph",
-      "text": "السؤال الذي يبقى بلا جواب يعطي صورة شركة غائبة. أجب بسرعة وبلباقة، حتى على الانتقادات. فالملاحظة السلبية التي تُعالَج جيدًا أمام الجميع تُظهر جديتك لكل من يقرؤها."
-     },
-     {
-      "type": "heading",
-      "text": "3. الحديث عن نفسك فقط"
-     },
-     {
-      "type": "paragraph",
-      "text": "إذا كان كل منشور إعلانًا تجاريًا، فسيفقد جمهورك اهتمامه. نوّع الأشكال: نصائح مفيدة، وكواليس نشاطك، وشهادات حقيقية، وأسئلة لمجتمعك. يأتي البيع بشكل أكثر طبيعية عندما تترسخ الثقة."
-     },
-     {
-      "type": "heading",
-      "text": "4. الحضور في كل مكان ولكن بشكل ضعيف"
-     },
-     {
-      "type": "paragraph",
-      "text": "من الأفضل إدارة شبكتين اجتماعيتين بعناية بدلًا من خمس شبكات بشكل غير منتظم. اختر المنصات التي يوجد عليها جمهورك فعلًا وركّز جهودك عليها."
-     },
-     {
-      "type": "heading",
-      "text": "5. عدم قياس النتائج أبدًا"
-     },
-     {
-      "type": "paragraph",
-      "text": "الإحصاءات المدمجة في الشبكات الاجتماعية مجانية وغنية بالدروس. راجع كل شهر المحتويات التي تحقق أكبر قدر من التفاعل والمشاركات والرسائل، ثم عدّل خطتك."
-     },
-     {
-      "type": "heading",
-      "text": "باختصار"
-     },
-     {
-      "type": "list",
-      "items": [
-       "حدّد هدفًا لكل منشور",
-       "تفاعل مع مجتمعك بانتظام",
-       "نوّع محتواك وقلّل من الترويج",
-       "ركّز على الشبكات المناسبة",
-       "حلّل إحصاءاتك كل شهر"
-      ]
-     },
-     {
-      "type": "paragraph",
-      "text": "هل ترغب في مرافقة لتنظيم حضورك على الشبكات الاجتماعية؟ يمكن لفريق SIDEKOM دراسة وضعك معك."
-     }
-    ]
-   }
+  {
+    "slug": "5-erreurs-gestion-communaute-en-ligne",
+    "date": "2026-10-27",
+    "category": "community-management",
+    "image": "",
+    "sample": true,
+    "translations": {
+      "fr": {
+        "title": "5 erreurs à éviter dans la gestion de votre communauté en ligne",
+        "excerpt": "Publier sans ligne directrice, ignorer les commentaires, tout miser sur la vente… Voici cinq erreurs fréquentes en community management, et comment les corriger.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Une communauté en ligne ne se construit pas en publiant de temps en temps. Elle demande de la régularité, de l'écoute et une vraie stratégie. Voici cinq erreurs que nous rencontrons souvent, et les bons réflexes pour les éviter."
+          },
+          {
+            "type": "heading",
+            "text": "1. Publier sans objectif clair"
+          },
+          {
+            "type": "paragraph",
+            "text": "Avant de publier, demandez-vous ce que vous attendez de chaque contenu : faire connaître une offre, créer de l'échange, rassurer vos clients ? Sans objectif, il est impossible de savoir ce qui fonctionne. Fixez deux ou trois priorités et choisissez vos contenus en conséquence."
+          },
+          {
+            "type": "heading",
+            "text": "2. Ignorer les commentaires et les messages"
+          },
+          {
+            "type": "paragraph",
+            "text": "Une question sans réponse donne l'image d'une entreprise absente. Répondez rapidement et avec courtoisie, y compris aux critiques. Une remarque négative bien traitée en public montre votre sérieux à tous ceux qui la lisent."
+          },
+          {
+            "type": "heading",
+            "text": "3. Parler uniquement de vous"
+          },
+          {
+            "type": "paragraph",
+            "text": "Si chaque publication est une annonce commerciale, votre audience décroche. Alternez les formats : conseils utiles, coulisses de votre activité, témoignages authentiques, questions à votre communauté. La vente vient plus naturellement quand la confiance est installée."
+          },
+          {
+            "type": "heading",
+            "text": "4. Être présent partout, mais mal"
+          },
+          {
+            "type": "paragraph",
+            "text": "Il vaut mieux animer deux réseaux sociaux avec soin que cinq de manière irrégulière. Choisissez les plateformes où se trouve réellement votre public et concentrez vos efforts sur celles-ci."
+          },
+          {
+            "type": "heading",
+            "text": "5. Ne jamais mesurer les résultats"
+          },
+          {
+            "type": "paragraph",
+            "text": "Les statistiques intégrées aux réseaux sociaux sont gratuites et riches d'enseignements. Chaque mois, regardez quels contenus suscitent le plus de réactions, de partages ou de messages, puis ajustez votre plan."
+          },
+          {
+            "type": "heading",
+            "text": "En résumé"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Définissez un objectif pour chaque publication",
+              "Répondez à votre communauté avec régularité",
+              "Variez vos contenus et limitez la promotion",
+              "Concentrez-vous sur les bons réseaux",
+              "Analysez vos statistiques chaque mois"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Vous souhaitez être accompagné pour structurer votre présence sur les réseaux sociaux ? L'équipe SIDEKOM peut faire le point avec vous sur votre situation."
+          }
+        ]
+      },
+      "en": {
+        "title": "5 mistakes to avoid when managing your online community",
+        "excerpt": "Posting without direction, ignoring comments, focusing only on sales… Here are five common community management mistakes, and how to fix them.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "An online community is not built by posting every now and then. It takes consistency, listening and a real strategy. Here are five mistakes we often come across, and the right habits to avoid them."
+          },
+          {
+            "type": "heading",
+            "text": "1. Posting without a clear goal"
+          },
+          {
+            "type": "paragraph",
+            "text": "Before you post, ask yourself what you expect from each piece of content: promoting an offer, starting a conversation, reassuring your customers? Without a goal, it is impossible to know what works. Set two or three priorities and choose your content accordingly."
+          },
+          {
+            "type": "heading",
+            "text": "2. Ignoring comments and messages"
+          },
+          {
+            "type": "paragraph",
+            "text": "An unanswered question makes a business look absent. Reply quickly and politely, including to criticism. A negative comment handled well in public shows everyone who reads it that you take your customers seriously."
+          },
+          {
+            "type": "heading",
+            "text": "3. Talking only about yourself"
+          },
+          {
+            "type": "paragraph",
+            "text": "If every post is a sales announcement, your audience will tune out. Mix your formats: useful tips, behind the scenes of your business, genuine testimonials, questions for your community. Sales come more naturally once trust is in place."
+          },
+          {
+            "type": "heading",
+            "text": "4. Being everywhere, but poorly"
+          },
+          {
+            "type": "paragraph",
+            "text": "It is better to run two social networks carefully than five irregularly. Choose the platforms where your audience really is, and focus your efforts there."
+          },
+          {
+            "type": "heading",
+            "text": "5. Never measuring results"
+          },
+          {
+            "type": "paragraph",
+            "text": "The statistics built into social networks are free and full of lessons. Every month, look at which posts get the most reactions, shares or messages, then adjust your plan."
+          },
+          {
+            "type": "heading",
+            "text": "In short"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Set a goal for every post",
+              "Reply to your community consistently",
+              "Vary your content and limit promotion",
+              "Focus on the right networks",
+              "Review your statistics every month"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Would you like support to structure your social media presence? The SIDEKOM team can review your situation with you."
+          }
+        ]
+      },
+      "es": {
+        "title": "5 errores que debe evitar en la gestión de su comunidad en línea",
+        "excerpt": "Publicar sin rumbo, ignorar los comentarios, centrarlo todo en la venta… Estos son cinco errores frecuentes en la gestión de comunidades y cómo corregirlos.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Una comunidad en línea no se construye publicando de vez en cuando. Requiere constancia, escucha y una verdadera estrategia. Estos son cinco errores que encontramos a menudo y los buenos hábitos para evitarlos."
+          },
+          {
+            "type": "heading",
+            "text": "1. Publicar sin un objetivo claro"
+          },
+          {
+            "type": "paragraph",
+            "text": "Antes de publicar, pregúntese qué espera de cada contenido: dar a conocer una oferta, generar conversación, tranquilizar a sus clientes. Sin objetivo, es imposible saber qué funciona. Fije dos o tres prioridades y elija sus contenidos en consecuencia."
+          },
+          {
+            "type": "heading",
+            "text": "2. Ignorar los comentarios y los mensajes"
+          },
+          {
+            "type": "paragraph",
+            "text": "Una pregunta sin respuesta da la imagen de una empresa ausente. Responda con rapidez y cortesía, también a las críticas. Un comentario negativo bien gestionado en público demuestra su seriedad a todos los que lo leen."
+          },
+          {
+            "type": "heading",
+            "text": "3. Hablar solo de usted"
+          },
+          {
+            "type": "paragraph",
+            "text": "Si cada publicación es un anuncio comercial, su audiencia se desconecta. Alterne los formatos: consejos útiles, el día a día de su actividad, testimonios auténticos, preguntas a su comunidad. La venta llega de forma más natural cuando existe confianza."
+          },
+          {
+            "type": "heading",
+            "text": "4. Estar en todas partes, pero mal"
+          },
+          {
+            "type": "paragraph",
+            "text": "Es mejor animar dos redes sociales con cuidado que cinco de forma irregular. Elija las plataformas donde realmente está su público y concentre allí sus esfuerzos."
+          },
+          {
+            "type": "heading",
+            "text": "5. No medir nunca los resultados"
+          },
+          {
+            "type": "paragraph",
+            "text": "Las estadísticas integradas en las redes sociales son gratuitas y muy instructivas. Cada mes, observe qué contenidos generan más reacciones, veces compartidos o mensajes, y ajuste su plan."
+          },
+          {
+            "type": "heading",
+            "text": "En resumen"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Defina un objetivo para cada publicación",
+              "Responda a su comunidad con regularidad",
+              "Varíe sus contenidos y limite la promoción",
+              "Concéntrese en las redes adecuadas",
+              "Analice sus estadísticas cada mes"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "¿Desea acompañamiento para estructurar su presencia en redes sociales? El equipo de SIDEKOM puede analizar su situación con usted."
+          }
+        ]
+      },
+      "pt": {
+        "title": "5 erros a evitar na gestão da sua comunidade online",
+        "excerpt": "Publicar sem rumo, ignorar os comentários, apostar tudo na venda… Eis cinco erros frequentes na gestão de comunidades e como corrigi-los.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Uma comunidade online não se constrói a publicar de vez em quando. Exige regularidade, escuta e uma verdadeira estratégia. Eis cinco erros que encontramos com frequência e os bons hábitos para os evitar."
+          },
+          {
+            "type": "heading",
+            "text": "1. Publicar sem um objetivo claro"
+          },
+          {
+            "type": "paragraph",
+            "text": "Antes de publicar, pergunte-se o que espera de cada conteúdo: dar a conhecer uma oferta, criar conversa, tranquilizar os seus clientes? Sem objetivo, é impossível saber o que funciona. Defina duas ou três prioridades e escolha os seus conteúdos em conformidade."
+          },
+          {
+            "type": "heading",
+            "text": "2. Ignorar os comentários e as mensagens"
+          },
+          {
+            "type": "paragraph",
+            "text": "Uma pergunta sem resposta dá a imagem de uma empresa ausente. Responda com rapidez e cortesia, incluindo às críticas. Um comentário negativo bem tratado em público mostra a sua seriedade a todos os que o leem."
+          },
+          {
+            "type": "heading",
+            "text": "3. Falar apenas de si"
+          },
+          {
+            "type": "paragraph",
+            "text": "Se cada publicação for um anúncio comercial, o seu público desliga. Alterne os formatos: conselhos úteis, bastidores da sua atividade, testemunhos autênticos, perguntas à sua comunidade. A venda surge com mais naturalidade quando a confiança está instalada."
+          },
+          {
+            "type": "heading",
+            "text": "4. Estar em todo o lado, mas mal"
+          },
+          {
+            "type": "paragraph",
+            "text": "Mais vale dinamizar duas redes sociais com cuidado do que cinco de forma irregular. Escolha as plataformas onde o seu público realmente está e concentre aí os seus esforços."
+          },
+          {
+            "type": "heading",
+            "text": "5. Nunca medir os resultados"
+          },
+          {
+            "type": "paragraph",
+            "text": "As estatísticas integradas nas redes sociais são gratuitas e muito úteis. Todos os meses, veja que conteúdos geram mais reações, partilhas ou mensagens e ajuste o seu plano."
+          },
+          {
+            "type": "heading",
+            "text": "Em resumo"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Defina um objetivo para cada publicação",
+              "Responda à sua comunidade com regularidade",
+              "Varie os seus conteúdos e limite a promoção",
+              "Concentre-se nas redes certas",
+              "Analise as suas estatísticas todos os meses"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Gostaria de ser acompanhado para estruturar a sua presença nas redes sociais? A equipa SIDEKOM pode analisar a sua situação consigo."
+          }
+        ]
+      },
+      "ar": {
+        "title": "5 أخطاء يجب تجنبها في إدارة مجتمعك على الإنترنت",
+        "excerpt": "النشر دون توجه واضح، وتجاهل التعليقات، والتركيز على البيع وحده… إليك خمسة أخطاء شائعة في إدارة المجتمعات وطرق تصحيحها.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "لا يُبنى المجتمع على الإنترنت بالنشر من حين لآخر، بل يحتاج إلى الانتظام والإصغاء واستراتيجية حقيقية. إليك خمسة أخطاء نصادفها كثيرًا، والعادات الصحيحة لتجنبها."
+          },
+          {
+            "type": "heading",
+            "text": "1. النشر دون هدف واضح"
+          },
+          {
+            "type": "paragraph",
+            "text": "قبل النشر، اسأل نفسك عمّا تنتظره من كل محتوى: التعريف بعرض ما، أم فتح باب الحوار، أم طمأنة عملائك؟ بدون هدف يستحيل معرفة ما ينجح. حدّد أولويتين أو ثلاثًا واختر محتواك على أساسها."
+          },
+          {
+            "type": "heading",
+            "text": "2. تجاهل التعليقات والرسائل"
+          },
+          {
+            "type": "paragraph",
+            "text": "السؤال الذي يبقى بلا جواب يعطي صورة شركة غائبة. أجب بسرعة وبلباقة، حتى على الانتقادات. فالملاحظة السلبية التي تُعالَج جيدًا أمام الجميع تُظهر جديتك لكل من يقرؤها."
+          },
+          {
+            "type": "heading",
+            "text": "3. الحديث عن نفسك فقط"
+          },
+          {
+            "type": "paragraph",
+            "text": "إذا كان كل منشور إعلانًا تجاريًا، فسيفقد جمهورك اهتمامه. نوّع الأشكال: نصائح مفيدة، وكواليس نشاطك، وشهادات حقيقية، وأسئلة لمجتمعك. يأتي البيع بشكل أكثر طبيعية عندما تترسخ الثقة."
+          },
+          {
+            "type": "heading",
+            "text": "4. الحضور في كل مكان ولكن بشكل ضعيف"
+          },
+          {
+            "type": "paragraph",
+            "text": "من الأفضل إدارة شبكتين اجتماعيتين بعناية بدلًا من خمس شبكات بشكل غير منتظم. اختر المنصات التي يوجد عليها جمهورك فعلًا وركّز جهودك عليها."
+          },
+          {
+            "type": "heading",
+            "text": "5. عدم قياس النتائج أبدًا"
+          },
+          {
+            "type": "paragraph",
+            "text": "الإحصاءات المدمجة في الشبكات الاجتماعية مجانية وغنية بالدروس. راجع كل شهر المحتويات التي تحقق أكبر قدر من التفاعل والمشاركات والرسائل، ثم عدّل خطتك."
+          },
+          {
+            "type": "heading",
+            "text": "باختصار"
+          },
+          {
+            "type": "list",
+            "items": [
+              "حدّد هدفًا لكل منشور",
+              "تفاعل مع مجتمعك بانتظام",
+              "نوّع محتواك وقلّل من الترويج",
+              "ركّز على الشبكات المناسبة",
+              "حلّل إحصاءاتك كل شهر"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "هل ترغب في مرافقة لتنظيم حضورك على الشبكات الاجتماعية؟ يمكن لفريق SIDEKOM دراسة وضعك معك."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "preparer-evenement-reussi-6-etapes",
+    "date": "2026-10-20",
+    "category": "events",
+    "image": "",
+    "sample": true,
+    "translations": {
+      "fr": {
+        "title": "Comment préparer un événement réussi : le plan en 6 étapes",
+        "excerpt": "Conférence, lancement de produit ou séminaire : un événement réussi se prépare bien en amont. Voici un plan simple en six étapes pour ne rien oublier.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Un événement d'entreprise mobilise du temps, un budget et l'image de votre marque. Pour qu'il atteigne ses objectifs, la préparation compte autant que le jour J. Voici les six étapes que nous recommandons."
+          },
+          {
+            "type": "heading",
+            "text": "1. Définir l'objectif et le public"
+          },
+          {
+            "type": "paragraph",
+            "text": "Lancer un produit, réunir vos partenaires, motiver vos équipes : chaque objectif appelle un format différent. Précisez aussi qui vous voulez réunir et combien de personnes vous attendez."
+          },
+          {
+            "type": "heading",
+            "text": "2. Fixer le budget et le calendrier"
+          },
+          {
+            "type": "paragraph",
+            "text": "Listez tous les postes de dépenses : lieu, restauration, technique, communication, prestataires. Prévoyez une marge pour les imprévus et construisez un rétroplanning avec des dates limites claires."
+          },
+          {
+            "type": "heading",
+            "text": "3. Choisir le lieu et les prestataires"
+          },
+          {
+            "type": "paragraph",
+            "text": "Vérifiez l'accessibilité, la capacité, l'équipement technique et les conditions d'annulation. Demandez plusieurs devis et confirmez chaque engagement par écrit."
+          },
+          {
+            "type": "heading",
+            "text": "4. Construire le programme"
+          },
+          {
+            "type": "paragraph",
+            "text": "Un bon programme alterne temps forts, échanges et pauses. Briefez vos intervenants à l'avance sur la durée, le message attendu et le public présent."
+          },
+          {
+            "type": "heading",
+            "text": "5. Communiquer avant l'événement"
+          },
+          {
+            "type": "paragraph",
+            "text": "Annoncez l'événement suffisamment tôt, facilitez l'inscription et relancez vos invités à l'approche de la date. Les réseaux sociaux, l'e-mail et WhatsApp sont des canaux complémentaires."
+          },
+          {
+            "type": "heading",
+            "text": "6. Prolonger l'impact après le jour J"
+          },
+          {
+            "type": "paragraph",
+            "text": "Remerciez les participants, partagez photos, vidéos et moments clés, puis faites le bilan : participation, retours, nouveaux contacts. Ces enseignements serviront pour votre prochain événement."
+          },
+          {
+            "type": "heading",
+            "text": "La check-list à garder sous la main"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Objectif et public définis",
+              "Budget validé, avec une marge",
+              "Lieu et prestataires confirmés par écrit",
+              "Programme établi et intervenants briefés",
+              "Communication prévue avant, pendant et après",
+              "Bilan rédigé dans la semaine qui suit"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Vous préparez une conférence, un séminaire ou un lancement ? SIDEKOM peut vous accompagner de la conception jusqu'au suivi."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to prepare a successful event: the 6-step plan",
+        "excerpt": "Conference, product launch or seminar: a successful event is prepared well in advance. Here is a simple six-step plan so you do not forget anything.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "A corporate event takes time, budget and your brand image. For it to reach its goals, preparation matters as much as the day itself. Here are the six steps we recommend."
+          },
+          {
+            "type": "heading",
+            "text": "1. Define the goal and the audience"
+          },
+          {
+            "type": "paragraph",
+            "text": "Launching a product, bringing your partners together, motivating your teams: each goal calls for a different format. Also be clear about who you want to bring together and how many people you expect."
+          },
+          {
+            "type": "heading",
+            "text": "2. Set the budget and the schedule"
+          },
+          {
+            "type": "paragraph",
+            "text": "List every cost item: venue, catering, technical equipment, communication, suppliers. Keep a margin for the unexpected and build a backward schedule with clear deadlines."
+          },
+          {
+            "type": "heading",
+            "text": "3. Choose the venue and suppliers"
+          },
+          {
+            "type": "paragraph",
+            "text": "Check accessibility, capacity, technical equipment and cancellation terms. Ask for several quotes and confirm every commitment in writing."
+          },
+          {
+            "type": "heading",
+            "text": "4. Build the programme"
+          },
+          {
+            "type": "paragraph",
+            "text": "A good programme alternates highlights, discussions and breaks. Brief your speakers in advance on timing, the expected message and the audience."
+          },
+          {
+            "type": "heading",
+            "text": "5. Communicate before the event"
+          },
+          {
+            "type": "paragraph",
+            "text": "Announce the event early enough, make registration easy and remind your guests as the date approaches. Social networks, email and WhatsApp work well together."
+          },
+          {
+            "type": "heading",
+            "text": "6. Extend the impact after the day"
+          },
+          {
+            "type": "paragraph",
+            "text": "Thank the participants, share photos, videos and key moments, then review: attendance, feedback, new contacts. These lessons will help with your next event."
+          },
+          {
+            "type": "heading",
+            "text": "The checklist to keep at hand"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Goal and audience defined",
+              "Budget approved, with a margin",
+              "Venue and suppliers confirmed in writing",
+              "Programme set and speakers briefed",
+              "Communication planned before, during and after",
+              "Review written within the following week"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Are you preparing a conference, a seminar or a launch? SIDEKOM can support you from the concept to the follow-up."
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo preparar un evento exitoso: el plan en 6 pasos",
+        "excerpt": "Conferencia, lanzamiento de producto o seminario: un evento exitoso se prepara con antelación. Este es un plan sencillo en seis pasos para no olvidar nada.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Un evento de empresa moviliza tiempo, presupuesto y la imagen de su marca. Para que alcance sus objetivos, la preparación cuenta tanto como el propio día. Estos son los seis pasos que recomendamos."
+          },
+          {
+            "type": "heading",
+            "text": "1. Definir el objetivo y el público"
+          },
+          {
+            "type": "paragraph",
+            "text": "Lanzar un producto, reunir a sus socios, motivar a sus equipos: cada objetivo requiere un formato distinto. Precise también a quién quiere reunir y cuántas personas espera."
+          },
+          {
+            "type": "heading",
+            "text": "2. Fijar el presupuesto y el calendario"
+          },
+          {
+            "type": "paragraph",
+            "text": "Enumere todas las partidas de gasto: lugar, catering, técnica, comunicación, proveedores. Prevea un margen para imprevistos y elabore una planificación inversa con plazos claros."
+          },
+          {
+            "type": "heading",
+            "text": "3. Elegir el lugar y los proveedores"
+          },
+          {
+            "type": "paragraph",
+            "text": "Compruebe la accesibilidad, la capacidad, el equipamiento técnico y las condiciones de cancelación. Pida varios presupuestos y confirme cada compromiso por escrito."
+          },
+          {
+            "type": "heading",
+            "text": "4. Construir el programa"
+          },
+          {
+            "type": "paragraph",
+            "text": "Un buen programa alterna momentos clave, intercambios y pausas. Informe a sus ponentes con antelación sobre la duración, el mensaje esperado y el público asistente."
+          },
+          {
+            "type": "heading",
+            "text": "5. Comunicar antes del evento"
+          },
+          {
+            "type": "paragraph",
+            "text": "Anuncie el evento con suficiente antelación, facilite la inscripción y recuerde la cita a sus invitados a medida que se acerca la fecha. Las redes sociales, el correo electrónico y WhatsApp se complementan."
+          },
+          {
+            "type": "heading",
+            "text": "6. Prolongar el impacto después del evento"
+          },
+          {
+            "type": "paragraph",
+            "text": "Agradezca a los participantes, comparta fotos, vídeos y momentos clave, y haga balance: asistencia, opiniones, nuevos contactos. Estas lecciones le servirán para su próximo evento."
+          },
+          {
+            "type": "heading",
+            "text": "La lista de control para tener a mano"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Objetivo y público definidos",
+              "Presupuesto aprobado, con un margen",
+              "Lugar y proveedores confirmados por escrito",
+              "Programa establecido y ponentes informados",
+              "Comunicación prevista antes, durante y después",
+              "Balance redactado en la semana siguiente"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "¿Prepara una conferencia, un seminario o un lanzamiento? SIDEKOM puede acompañarle desde la concepción hasta el seguimiento."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como preparar um evento de sucesso: o plano em 6 etapas",
+        "excerpt": "Conferência, lançamento de produto ou seminário: um evento de sucesso prepara-se com antecedência. Eis um plano simples em seis etapas para não esquecer nada.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Um evento empresarial mobiliza tempo, orçamento e a imagem da sua marca. Para que atinja os seus objetivos, a preparação conta tanto como o próprio dia. Eis as seis etapas que recomendamos."
+          },
+          {
+            "type": "heading",
+            "text": "1. Definir o objetivo e o público"
+          },
+          {
+            "type": "paragraph",
+            "text": "Lançar um produto, reunir os seus parceiros, motivar as suas equipas: cada objetivo pede um formato diferente. Defina também quem quer reunir e quantas pessoas espera."
+          },
+          {
+            "type": "heading",
+            "text": "2. Fixar o orçamento e o calendário"
+          },
+          {
+            "type": "paragraph",
+            "text": "Enumere todas as rubricas de despesa: local, catering, técnica, comunicação, fornecedores. Preveja uma margem para imprevistos e construa um planeamento regressivo com prazos claros."
+          },
+          {
+            "type": "heading",
+            "text": "3. Escolher o local e os fornecedores"
+          },
+          {
+            "type": "paragraph",
+            "text": "Verifique a acessibilidade, a capacidade, o equipamento técnico e as condições de cancelamento. Peça vários orçamentos e confirme cada compromisso por escrito."
+          },
+          {
+            "type": "heading",
+            "text": "4. Construir o programa"
+          },
+          {
+            "type": "paragraph",
+            "text": "Um bom programa alterna momentos fortes, trocas e pausas. Informe os seus oradores com antecedência sobre a duração, a mensagem pretendida e o público presente."
+          },
+          {
+            "type": "heading",
+            "text": "5. Comunicar antes do evento"
+          },
+          {
+            "type": "paragraph",
+            "text": "Anuncie o evento com antecedência suficiente, facilite a inscrição e relembre os seus convidados à medida que a data se aproxima. As redes sociais, o e-mail e o WhatsApp complementam-se."
+          },
+          {
+            "type": "heading",
+            "text": "6. Prolongar o impacto depois do evento"
+          },
+          {
+            "type": "paragraph",
+            "text": "Agradeça aos participantes, partilhe fotografias, vídeos e momentos-chave e faça o balanço: participação, opiniões, novos contactos. Estas lições serão úteis para o seu próximo evento."
+          },
+          {
+            "type": "heading",
+            "text": "A lista de verificação a ter à mão"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Objetivo e público definidos",
+              "Orçamento aprovado, com uma margem",
+              "Local e fornecedores confirmados por escrito",
+              "Programa definido e oradores informados",
+              "Comunicação prevista antes, durante e depois",
+              "Balanço redigido na semana seguinte"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Está a preparar uma conferência, um seminário ou um lançamento? A SIDEKOM pode acompanhá-lo desde a conceção até ao acompanhamento final."
+          }
+        ]
+      },
+      "ar": {
+        "title": "كيف تحضّر لفعالية ناجحة: خطة من 6 خطوات",
+        "excerpt": "مؤتمر أو إطلاق منتج أو ندوة: الفعالية الناجحة تُحضَّر مسبقًا. إليك خطة بسيطة من ست خطوات حتى لا تنسى شيئًا.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "تتطلب فعالية الشركة وقتًا وميزانية، وتمسّ صورة علامتك التجارية. ولكي تحقق أهدافها، فإن التحضير لا يقل أهمية عن يوم الفعالية نفسه. إليك الخطوات الست التي ننصح بها."
+          },
+          {
+            "type": "heading",
+            "text": "1. تحديد الهدف والجمهور"
+          },
+          {
+            "type": "paragraph",
+            "text": "إطلاق منتج، أو جمع شركائك، أو تحفيز فرقك: لكل هدف شكل مختلف. حدّد أيضًا من تريد جمعهم وكم شخصًا تتوقع حضوره."
+          },
+          {
+            "type": "heading",
+            "text": "2. تحديد الميزانية والجدول الزمني"
+          },
+          {
+            "type": "paragraph",
+            "text": "اذكر جميع بنود الإنفاق: المكان، والضيافة، والتجهيزات التقنية، والتواصل، والمزودين. خصّص هامشًا للطوارئ وضع جدولًا زمنيًا عكسيًا بمواعيد نهائية واضحة."
+          },
+          {
+            "type": "heading",
+            "text": "3. اختيار المكان والمزودين"
+          },
+          {
+            "type": "paragraph",
+            "text": "تحقق من سهولة الوصول والسعة والتجهيزات التقنية وشروط الإلغاء. اطلب عدة عروض أسعار وأكّد كل التزام كتابيًا."
+          },
+          {
+            "type": "heading",
+            "text": "4. إعداد البرنامج"
+          },
+          {
+            "type": "paragraph",
+            "text": "البرنامج الجيد يوازن بين اللحظات المهمة والنقاشات وفترات الاستراحة. زوّد المتحدثين مسبقًا بالمعلومات حول المدة والرسالة المنتظرة والجمهور الحاضر."
+          },
+          {
+            "type": "heading",
+            "text": "5. التواصل قبل الفعالية"
+          },
+          {
+            "type": "paragraph",
+            "text": "أعلن عن الفعالية في وقت مبكر بما يكفي، وسهّل التسجيل، وذكّر ضيوفك مع اقتراب الموعد. الشبكات الاجتماعية والبريد الإلكتروني وواتساب قنوات تكمّل بعضها."
+          },
+          {
+            "type": "heading",
+            "text": "6. إطالة الأثر بعد الفعالية"
+          },
+          {
+            "type": "paragraph",
+            "text": "اشكر المشاركين، وشارك الصور ومقاطع الفيديو واللحظات البارزة، ثم قيّم النتائج: نسبة الحضور، والآراء، والعلاقات الجديدة. ستفيدك هذه الدروس في فعاليتك القادمة."
+          },
+          {
+            "type": "heading",
+            "text": "قائمة التحقق التي يجب أن تبقى في متناولك"
+          },
+          {
+            "type": "list",
+            "items": [
+              "الهدف والجمهور محددان",
+              "الميزانية معتمدة مع هامش للطوارئ",
+              "المكان والمزودون مؤكدون كتابيًا",
+              "البرنامج جاهز والمتحدثون على علم بكل التفاصيل",
+              "التواصل مخطط له قبل الفعالية وأثناءها وبعدها",
+              "التقييم مكتوب خلال الأسبوع التالي"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "هل تحضّر لمؤتمر أو ندوة أو إطلاق منتج؟ يمكن لـ SIDEKOM مرافقتك من التصميم حتى المتابعة."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "pourquoi-calendrier-editorial",
+    "date": "2026-10-13",
+    "category": "communication",
+    "image": "",
+    "sample": true,
+    "translations": {
+      "fr": {
+        "title": "Pourquoi votre entreprise a besoin d'un calendrier éditorial",
+        "excerpt": "Publier au dernier moment, oublier une date importante, manquer d'idées… Un calendrier éditorial règle ces problèmes. Voici pourquoi, et comment le mettre en place.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Beaucoup d'entreprises publient au gré de l'inspiration. Résultat : des semaines très actives, puis plus rien. Un calendrier éditorial permet de passer d'une communication improvisée à une communication organisée."
+          },
+          {
+            "type": "heading",
+            "text": "Qu'est-ce qu'un calendrier éditorial ?"
+          },
+          {
+            "type": "paragraph",
+            "text": "C'est un planning qui indique, pour chaque période, les sujets à traiter, les formats, les canaux de diffusion et les dates de publication. Un simple tableau partagé suffit pour commencer."
+          },
+          {
+            "type": "heading",
+            "text": "Ce qu'il change pour votre entreprise"
+          },
+          {
+            "type": "list",
+            "items": [
+              "De la régularité : votre audience sait quand vous retrouver",
+              "De la cohérence : vos messages suivent vos priorités commerciales",
+              "Du temps gagné : les contenus sont préparés à l'avance, pas dans l'urgence",
+              "Une meilleure anticipation des temps forts : fêtes, salons, lancements, saisons",
+              "Un travail d'équipe plus simple : chacun sait ce qui est prévu et qui s'en charge"
+            ]
+          },
+          {
+            "type": "heading",
+            "text": "Comment le construire en quatre étapes"
+          },
+          {
+            "type": "paragraph",
+            "text": "Commencez par lister les dates importantes de votre année : lancements, événements, périodes de forte activité. Définissez ensuite trois à cinq grandes thématiques, par exemple vos conseils, vos réalisations, votre équipe et vos offres."
+          },
+          {
+            "type": "paragraph",
+            "text": "Choisissez un rythme réaliste que vous pourrez tenir dans la durée, plutôt qu'un objectif ambitieux abandonné au bout d'un mois. Enfin, répartissez vos sujets semaine par semaine et confiez chaque contenu à une personne responsable."
+          },
+          {
+            "type": "heading",
+            "text": "Garder de la souplesse"
+          },
+          {
+            "type": "paragraph",
+            "text": "Un calendrier éditorial n'est pas figé. Laissez de la place pour réagir à l'actualité, et faites le point chaque mois : quels sujets ont intéressé votre public, lesquels faut-il abandonner ou approfondir ?"
+          },
+          {
+            "type": "paragraph",
+            "text": "Besoin d'aide pour bâtir votre premier calendrier éditorial ? Parlons-en : SIDEKOM vous aide à définir vos thématiques et votre rythme de publication."
+          }
+        ]
+      },
+      "en": {
+        "title": "Why your business needs an editorial calendar",
+        "excerpt": "Posting at the last minute, forgetting an important date, running out of ideas… An editorial calendar solves these problems. Here is why, and how to set one up.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Many businesses post whenever inspiration strikes. The result: very busy weeks, then nothing at all. An editorial calendar takes you from improvised communication to organised communication."
+          },
+          {
+            "type": "heading",
+            "text": "What is an editorial calendar?"
+          },
+          {
+            "type": "paragraph",
+            "text": "It is a schedule that shows, for each period, the topics to cover, the formats, the channels and the publication dates. A simple shared spreadsheet is enough to get started."
+          },
+          {
+            "type": "heading",
+            "text": "What it changes for your business"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Consistency: your audience knows when to find you",
+              "Coherence: your messages follow your business priorities",
+              "Time saved: content is prepared in advance, not in a rush",
+              "Better planning for key moments: holidays, trade fairs, launches, seasons",
+              "Easier teamwork: everyone knows what is planned and who is in charge"
+            ]
+          },
+          {
+            "type": "heading",
+            "text": "How to build it in four steps"
+          },
+          {
+            "type": "paragraph",
+            "text": "Start by listing the important dates of your year: launches, events, busy periods. Then define three to five main themes, for example your advice, your achievements, your team and your offers."
+          },
+          {
+            "type": "paragraph",
+            "text": "Choose a realistic pace you can keep up over time, rather than an ambitious goal abandoned after a month. Finally, spread your topics week by week and give each piece of content to a person in charge."
+          },
+          {
+            "type": "heading",
+            "text": "Stay flexible"
+          },
+          {
+            "type": "paragraph",
+            "text": "An editorial calendar is not set in stone. Leave room to react to the news, and review it every month: which topics interested your audience, which ones should you drop or explore further?"
+          },
+          {
+            "type": "paragraph",
+            "text": "Need help building your first editorial calendar? Let's talk: SIDEKOM helps you define your themes and your publishing pace."
+          }
+        ]
+      },
+      "es": {
+        "title": "Por qué su empresa necesita un calendario editorial",
+        "excerpt": "Publicar a última hora, olvidar una fecha importante, quedarse sin ideas… Un calendario editorial resuelve estos problemas. Le explicamos por qué y cómo ponerlo en marcha.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Muchas empresas publican según la inspiración del momento. Resultado: semanas muy activas y después nada. Un calendario editorial permite pasar de una comunicación improvisada a una comunicación organizada."
+          },
+          {
+            "type": "heading",
+            "text": "¿Qué es un calendario editorial?"
+          },
+          {
+            "type": "paragraph",
+            "text": "Es una planificación que indica, para cada periodo, los temas que tratar, los formatos, los canales de difusión y las fechas de publicación. Para empezar basta con una sencilla hoja de cálculo compartida."
+          },
+          {
+            "type": "heading",
+            "text": "Lo que cambia para su empresa"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Regularidad: su audiencia sabe cuándo encontrarle",
+              "Coherencia: sus mensajes siguen sus prioridades comerciales",
+              "Tiempo ganado: los contenidos se preparan con antelación, no con prisas",
+              "Mejor anticipación de los momentos clave: fiestas, ferias, lanzamientos, temporadas",
+              "Trabajo en equipo más sencillo: todos saben qué está previsto y quién se encarga"
+            ]
+          },
+          {
+            "type": "heading",
+            "text": "Cómo construirlo en cuatro pasos"
+          },
+          {
+            "type": "paragraph",
+            "text": "Empiece por enumerar las fechas importantes de su año: lanzamientos, eventos, periodos de mucha actividad. Defina después de tres a cinco grandes temas, por ejemplo sus consejos, sus proyectos realizados, su equipo y sus ofertas."
+          },
+          {
+            "type": "paragraph",
+            "text": "Elija un ritmo realista que pueda mantener en el tiempo, en lugar de un objetivo ambicioso abandonado al cabo de un mes. Por último, reparta sus temas semana a semana y asigne cada contenido a una persona responsable."
+          },
+          {
+            "type": "heading",
+            "text": "Mantener la flexibilidad"
+          },
+          {
+            "type": "paragraph",
+            "text": "Un calendario editorial no es rígido. Deje espacio para reaccionar a la actualidad y haga balance cada mes: ¿qué temas han interesado a su público y cuáles conviene abandonar o profundizar?"
+          },
+          {
+            "type": "paragraph",
+            "text": "¿Necesita ayuda para crear su primer calendario editorial? Hablemos: SIDEKOM le ayuda a definir sus temas y su ritmo de publicación."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Porque é que a sua empresa precisa de um calendário editorial",
+        "excerpt": "Publicar à última hora, esquecer uma data importante, ficar sem ideias… Um calendário editorial resolve estes problemas. Saiba porquê e como o pôr em prática.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Muitas empresas publicam ao sabor da inspiração. Resultado: semanas muito ativas e depois nada. Um calendário editorial permite passar de uma comunicação improvisada para uma comunicação organizada."
+          },
+          {
+            "type": "heading",
+            "text": "O que é um calendário editorial?"
+          },
+          {
+            "type": "paragraph",
+            "text": "É um planeamento que indica, para cada período, os temas a abordar, os formatos, os canais de divulgação e as datas de publicação. Para começar, basta uma simples folha de cálculo partilhada."
+          },
+          {
+            "type": "heading",
+            "text": "O que muda para a sua empresa"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Regularidade: o seu público sabe quando o encontrar",
+              "Coerência: as suas mensagens seguem as suas prioridades comerciais",
+              "Tempo ganho: os conteúdos são preparados com antecedência, não à pressa",
+              "Melhor antecipação dos momentos fortes: festas, feiras, lançamentos, estações",
+              "Trabalho de equipa mais simples: todos sabem o que está previsto e quem é responsável"
+            ]
+          },
+          {
+            "type": "heading",
+            "text": "Como o construir em quatro etapas"
+          },
+          {
+            "type": "paragraph",
+            "text": "Comece por listar as datas importantes do seu ano: lançamentos, eventos, períodos de grande atividade. Defina depois três a cinco grandes temas, por exemplo os seus conselhos, os seus projetos, a sua equipa e as suas ofertas."
+          },
+          {
+            "type": "paragraph",
+            "text": "Escolha um ritmo realista que consiga manter ao longo do tempo, em vez de um objetivo ambicioso abandonado ao fim de um mês. Por fim, distribua os seus temas semana a semana e atribua cada conteúdo a uma pessoa responsável."
+          },
+          {
+            "type": "heading",
+            "text": "Manter a flexibilidade"
+          },
+          {
+            "type": "paragraph",
+            "text": "Um calendário editorial não é rígido. Deixe espaço para reagir à atualidade e faça o balanço todos os meses: que temas interessaram ao seu público e quais deve abandonar ou aprofundar?"
+          },
+          {
+            "type": "paragraph",
+            "text": "Precisa de ajuda para criar o seu primeiro calendário editorial? Falemos: a SIDEKOM ajuda-o a definir os seus temas e o seu ritmo de publicação."
+          }
+        ]
+      },
+      "ar": {
+        "title": "لماذا تحتاج شركتك إلى تقويم تحريري",
+        "excerpt": "النشر في اللحظة الأخيرة، ونسيان موعد مهم، ونفاد الأفكار… التقويم التحريري يحل هذه المشكلات. إليك السبب وطريقة إعداده.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "تنشر شركات كثيرة حسب ما يخطر لها. والنتيجة: أسابيع مليئة بالنشاط ثم لا شيء. يتيح لك التقويم التحريري الانتقال من تواصل مرتجل إلى تواصل منظم."
+          },
+          {
+            "type": "heading",
+            "text": "ما هو التقويم التحريري؟"
+          },
+          {
+            "type": "paragraph",
+            "text": "هو جدول يحدد لكل فترة المواضيع التي ستتناولها، والأشكال، وقنوات النشر، ومواعيد النشر. يكفي جدول بسيط مشترك للبدء."
+          },
+          {
+            "type": "heading",
+            "text": "ما الذي يغيّره لشركتك"
+          },
+          {
+            "type": "list",
+            "items": [
+              "الانتظام: يعرف جمهورك متى يجدك",
+              "الاتساق: تتبع رسائلك أولوياتك التجارية",
+              "توفير الوقت: يُحضَّر المحتوى مسبقًا وليس على عجل",
+              "استعداد أفضل للمناسبات المهمة: الأعياد والمعارض وعمليات الإطلاق والمواسم",
+              "عمل جماعي أسهل: يعرف الجميع ما هو مخطط له ومن المسؤول عنه"
+            ]
+          },
+          {
+            "type": "heading",
+            "text": "كيف تبنيه في أربع خطوات"
+          },
+          {
+            "type": "paragraph",
+            "text": "ابدأ بسرد التواريخ المهمة في سنتك: عمليات الإطلاق والفعاليات وفترات النشاط المكثف. ثم حدّد من ثلاثة إلى خمسة محاور رئيسية، مثل نصائحك وإنجازاتك وفريقك وعروضك."
+          },
+          {
+            "type": "paragraph",
+            "text": "اختر وتيرة واقعية يمكنك الحفاظ عليها على المدى الطويل، بدلًا من هدف طموح تتخلى عنه بعد شهر. وأخيرًا، وزّع مواضيعك أسبوعًا بعد أسبوع وأسند كل محتوى إلى شخص مسؤول."
+          },
+          {
+            "type": "heading",
+            "text": "الحفاظ على المرونة"
+          },
+          {
+            "type": "paragraph",
+            "text": "التقويم التحريري ليس جامدًا. اترك مجالًا للتفاعل مع المستجدات، وراجعه كل شهر: ما المواضيع التي أثارت اهتمام جمهورك، وما التي ينبغي التخلي عنها أو التعمق فيها؟"
+          },
+          {
+            "type": "paragraph",
+            "text": "هل تحتاج إلى مساعدة لإعداد أول تقويم تحريري لك؟ لنتحدث: تساعدك SIDEKOM على تحديد محاورك ووتيرة نشرك."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "how-long-does-seo-take-to-work",
+    "date": "2026-11-02",
+    "category": "seo",
+    "image": "",
+    "translations": {
+      "en": {
+        "title": "How long does SEO take to work? A realistic timeline",
+        "excerpt": "SEO doesn't deliver overnight. Here is a realistic month-by-month timeline of when to expect traffic, rankings and leads from search engine optimization.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "\"How long does SEO take to work?\" is the question almost every business owner asks before investing in search engine optimization - and it is a fair one. Nobody wants to pay for months without knowing what to expect. The honest answer: most websites see meaningful results in 4 to 12 months, with the first positive signals often appearing within 2 to 3 months. That range depends on your starting point, your competition and the quality of the work. Here is what actually happens, month by month."
+          },
+          {
+            "type": "heading",
+            "text": "SEO is a compounding investment, not a switch"
+          },
+          {
+            "type": "paragraph",
+            "text": "Search engines do not rank your site because you want them to. They rank it because, over time, it proves itself: technically sound, useful to visitors and trusted by other websites. Each improvement - faster pages, clearer titles, better content, credible links - adds a little weight to your site's authority. That weight compounds. Early on, the gains feel invisible. Then they accelerate. This is why stopping SEO after two months is the most expensive mistake you can make: you pay for the foundations and quit before the compounding kicks in."
+          },
+          {
+            "type": "heading",
+            "text": "Months 1-3: foundations and first signals"
+          },
+          {
+            "type": "paragraph",
+            "text": "The first months are mostly invisible work: a technical audit, fixing broken pages and slow loading times, writing proper titles and descriptions, and setting up search tracking. You will not reach page one in week six. What you will see: search engines crawling your site more often, a few long-tail keywords entering the top 100, and impressions rising in Google Search Console. If your site is brand new, this phase can feel quiet - that is normal."
+          },
+          {
+            "type": "heading",
+            "text": "Months 4-6: momentum builds"
+          },
+          {
+            "type": "paragraph",
+            "text": "This is when consistent work starts to show. Pages begin ranking for their target keywords, the organic traffic curve bends upward, and the first enquiries or sales from search trickle in. Businesses in niches with weak competition can see strong results by month six. In competitive markets, this is still ramp-up time: you are climbing, just not at the summit yet."
+          },
+          {
+            "type": "heading",
+            "text": "Months 6-12: results start to compound"
+          },
+          {
+            "type": "paragraph",
+            "text": "By now, your early content has aged and earned links, more pages are working for you, and search engines trust you more. Traffic growth often accelerates in this window. This is also when SEO starts to beat paid ads on cost per lead: you are no longer paying for every click. Many businesses discover that their best-performing content was published six months ago. Patience literally pays."
+          },
+          {
+            "type": "heading",
+            "text": "What speeds SEO up - and what slows it down"
+          },
+          {
+            "type": "paragraph",
+            "text": "Several factors move the timeline. A fast, mobile-friendly site ranks faster than a slow one. Publishing genuinely helpful content regularly beats publishing once a quarter. An existing domain with real authority gives you a head start. And local businesses targeting one city usually rank faster than national ones. What slows everything down: technical errors left unfixed, thin content written for robots instead of people, spammy link schemes that can earn you a penalty, and - most common of all - changing strategy every few weeks before anything has time to work."
+          },
+          {
+            "type": "heading",
+            "text": "How to know it is working before the traffic arrives"
+          },
+          {
+            "type": "paragraph",
+            "text": "Traffic is a lagging indicator. Watch the leading ones instead: impressions and average position in Google Search Console, the number of keywords you rank for, the number of pages getting indexed, and your site's loading speed. If those numbers improve month after month, the traffic is on its way. And always ask your SEO provider for these numbers - anyone who answers \"just trust me\" is a red flag."
+          },
+          {
+            "type": "paragraph",
+            "text": [
+              {
+                "text": "Want an honest read of where your site stands today - and a realistic timeline for your market? Tell us about your project on "
+              },
+              {
+                "text": "our contact page",
+                "href": "/contact.html"
+              },
+              {
+                "text": ": we will look at your site and tell you plainly what SEO can do for your business, and how long it should take."
+              }
+            ]
+          }
+        ]
+      },
+      "fr": {
+        "title": "SEO : en combien de temps obtiendrez-vous des résultats ?",
+        "excerpt": "Le SEO ne produit pas de résultats du jour au lendemain. Voici un calendrier mois par mois du trafic, des classements et des prospects à attendre.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "\"En combien de temps le SEO donne-t-il des résultats ?\" C'est la question que presque tous les chefs d'entreprise posent avant d'investir dans le référencement naturel - et elle est légitime. Personne ne veut payer pendant des mois sans savoir à quoi s'attendre. La réponse honnête : la plupart des sites obtiennent des résultats significatifs en 4 à 12 mois, avec les premiers signaux positifs souvent dès les 2 à 3 premiers mois. Cette fourchette dépend de votre point de départ, de votre concurrence et de la qualité du travail. Voici ce qui se passe réellement, mois par mois."
+          },
+          {
+            "type": "heading",
+            "text": "Le SEO est un investissement à intérêts composés, pas un interrupteur"
+          },
+          {
+            "type": "paragraph",
+            "text": "Les moteurs de recherche ne classent pas votre site parce que vous le voulez. Ils le classent parce qu'au fil du temps, il fait ses preuves : techniquement sain, utile aux visiteurs et recommandé par d'autres sites. Chaque amélioration - pages plus rapides, titres plus clairs, contenus de meilleure qualité, liens crédibles - ajoute du poids à l'autorité de votre site. Ce poids s'accumule. Au début, les gains semblent invisibles. Puis ils s'accélèrent. C'est pourquoi arrêter le SEO après deux mois est l'erreur la plus coûteuse : vous payez les fondations et vous abandonnez avant que l'effet cumulé ne se déclenche."
+          },
+          {
+            "type": "heading",
+            "text": "Mois 1 à 3 : les fondations et les premiers signaux"
+          },
+          {
+            "type": "paragraph",
+            "text": "Les premiers mois sont un travail surtout invisible : audit technique, correction des pages cassées et des temps de chargement, rédaction de titres et de descriptions adaptés, mise en place du suivi des recherches. Vous ne serez pas en première page à la sixième semaine. Ce que vous verrez : les moteurs de recherche explorent votre site plus souvent, quelques mots-clés de longue traîne entrent dans le top 100, et les impressions augmentent dans Google Search Console. Si votre site est tout nouveau, cette phase peut sembler silencieuse - c'est normal."
+          },
+          {
+            "type": "heading",
+            "text": "Mois 4 à 6 : la dynamique s'installe"
+          },
+          {
+            "type": "paragraph",
+            "text": "C'est à ce moment que le travail régulier commence à porter ses fruits. Vos pages se classent sur leurs mots-clés cibles, la courbe du trafic organique s'infléchit vers le haut, et les premières demandes ou ventes issues de la recherche arrivent. Dans les secteurs peu concurrentiels, les résultats peuvent être solides dès le sixième mois. Sur les marchés concurrentiels, c'est encore une phase de montée en puissance : vous grimpez, mais vous n'êtes pas encore au sommet."
+          },
+          {
+            "type": "heading",
+            "text": "Mois 6 à 12 : les résultats se cumulent"
+          },
+          {
+            "type": "paragraph",
+            "text": "À ce stade, vos premiers contenus ont gagné en ancienneté et en liens, davantage de pages travaillent pour vous, et les moteurs de recherche vous accordent plus de confiance. La croissance du trafic s'accélère souvent dans cette période. C'est aussi le moment où le SEO devient plus rentable que la publicité payante en coût par prospect : vous ne payez plus chaque clic. Beaucoup d'entreprises découvrent que leur contenu le plus performant a été publié six mois plus tôt. La patience rapporte, littéralement."
+          },
+          {
+            "type": "heading",
+            "text": "Ce qui accélère le SEO - et ce qui le ralentit"
+          },
+          {
+            "type": "paragraph",
+            "text": "Plusieurs facteurs influencent le calendrier. Un site rapide et adapté au mobile se classe plus vite qu'un site lent. Publier régulièrement du contenu vraiment utile bat la publication trimestrielle. Un domaine existant avec une autorité réelle vous donne une longueur d'avance. Et les entreprises locales qui ciblent une seule ville se classent généralement plus vite que les acteurs nationaux. Ce qui ralentit tout : les erreurs techniques non corrigées, le contenu pauvre écrit pour les robots plutôt que pour les humains, les stratagèmes de liens douteux qui peuvent vous valoir une pénalité, et - le plus fréquent - changer de stratégie toutes les quelques semaines avant que quoi que ce soit ait eu le temps de fonctionner."
+          },
+          {
+            "type": "heading",
+            "text": "Comment savoir que ça marche avant l'arrivée du trafic"
+          },
+          {
+            "type": "paragraph",
+            "text": "Le trafic est un indicateur en retard. Surveillez plutôt les indicateurs avancés : les impressions et la position moyenne dans Google Search Console, le nombre de mots-clés sur lesquels vous êtes classé, le nombre de pages indexées et la vitesse de chargement de votre site. Si ces chiffres progressent mois après mois, le trafic est en route. Et exigez toujours ces chiffres de votre prestataire SEO - celui qui répond \"faites-moi confiance\" est un mauvais signe."
+          },
+          {
+            "type": "paragraph",
+            "text": [
+              {
+                "text": "Vous voulez un avis honnête sur l'état actuel de votre site - et un calendrier réaliste pour votre marché ? Parlez-nous de votre projet sur "
+              },
+              {
+                "text": "notre page de contact",
+                "href": "/contact.html"
+              },
+              {
+                "text": " : nous vous dirons franchement ce que le SEO peut faire pour votre entreprise, et en combien de temps."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "fiche-google-entreprise-cameroun",
+    "date": "2026-11-04",
+    "category": "seo",
+    "image": "",
+    "translations": {
+      "fr": {
+        "title": "Fiche Google : pourquoi votre entreprise en a besoin",
+        "excerpt": "Sans fiche Google, votre entreprise est invisible dans les recherches locales. Voici pourquoi elle est indispensable — et comment bien la configurer.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Quand un client à Douala cherche un salon de coiffure, un restaurant ou un plombier, il sort son téléphone et tape sa recherche sur Google. Ce qu'il voit en premier n'est pas un site web : c'est une carte, puis une liste d'entreprises avec leurs notes, leurs horaires, leurs photos et un bouton pour appeler. Si votre entreprise n'a pas de fiche Google Business (l'ancien Google My Business), vous n'existez tout simplement pas dans ce moment décisif — et c'est un concurrent qui récupère l'appel."
+          },
+          {
+            "type": "heading",
+            "text": "Ce que vos clients voient quand vous avez une fiche"
+          },
+          {
+            "type": "paragraph",
+            "text": "Une fiche Google bien remplie, c'est un mini site vitrine gratuit, affiché directement dans les résultats de recherche. Le client y trouve votre adresse exacte avec l'itinéraire, vos horaires d'ouverture, votre numéro de téléphone cliquable, vos photos et les avis laissés par d'autres clients. Il peut même vous poser des questions publiquement. Pour une entreprise sans site web, c'est souvent la seule présence en ligne professionnelle qu'elle possède — et elle suffit largement à décrocher des appels."
+          },
+          {
+            "type": "heading",
+            "text": "Pourquoi c'est encore plus décisif au Cameroun"
+          },
+          {
+            "type": "paragraph",
+            "text": "Au Cameroun, une grande partie des clients découvrent les entreprises uniquement via leur téléphone, et très peu d'entreprises locales ont une fiche complète et à jour. C'est une excellente nouvelle pour vous : la concurrence est faible. Une fiche avec de vraies photos, des horaires exacts et quelques avis positifs vous place immédiatement au-dessus de la plupart de vos concurrents dans les recherches locales. Et tout cela est gratuit — Google ne facture rien pour la fiche elle-même."
+          },
+          {
+            "type": "heading",
+            "text": "Les 5 réglages qui changent tout"
+          },
+          {
+            "type": "paragraph",
+            "text": "Premièrement, utilisez le nom réel de votre entreprise, sans ajouter de mots-clés artificiels comme « meilleur » ou « pas cher » : Google pénalise cette pratique. Deuxièmement, choisissez la bonne catégorie principale — « Restaurant », « Salon de coiffure », « Plombier » — car c'est elle qui détermine pour quelles recherches vous apparaissez. Troisièmement, tenez vos horaires à jour, y compris les jours fériés : rien ne fait fuir un client comme une porte fermée annoncée ouverte. Quatrièmement, ajoutez de vraies photos : la devanture, l'intérieur, l'équipe, vos produits. Les fiches avec photos reçoivent nettement plus de demandes d'itinéraire et d'appels. Cinquièmement, rédigez une description claire avec les mots que vos clients utilisent vraiment."
+          },
+          {
+            "type": "heading",
+            "text": "Créer votre fiche : les étapes à suivre"
+          },
+          {
+            "type": "paragraph",
+            "text": "Rendez-vous sur business.google.com et connectez-vous avec un compte Google au nom de votre entreprise — idéalement une adresse dédiée à l'entreprise plutôt qu'un compte personnel. Ajoutez le nom exact de l'entreprise, choisissez votre catégorie, puis indiquez si les clients viennent dans vos locaux ou si c'est vous qui vous déplacez chez eux. Ajoutez ensuite l'adresse, la zone que vous desservez, le numéro de téléphone et le site web si vous en avez un. Google vérifie alors que l'entreprise existe vraiment : le plus souvent, on vous demande une courte vidéo montrant vos locaux, votre enseigne ou votre matériel. Une fois la vérification passée, votre fiche devient visible dans les résultats. Comptez en général quelques jours entre la création et la validation définitive."
+          },
+          {
+            "type": "heading",
+            "text": "Les avis clients : votre meilleure publicité gratuite"
+          },
+          {
+            "type": "paragraph",
+            "text": "La note en étoiles est souvent ce qui fait choisir entre deux entreprises. Demandez poliment à vos clients satisfaits de laisser un avis — un simple message WhatsApp après une vente suffit, et la plupart acceptent volontiers quand on le leur demande au bon moment. Répondez ensuite à chaque avis, positif comme négatif : un avis négatif bien géré rassure souvent plus qu'une note parfaite sans réponse, car il montre que vous êtes une entreprise sérieuse et à l'écoute. Et surtout, ne cédez jamais à la tentation des faux avis achetés : Google les détecte et peut suspendre votre fiche, ce qui vous fait disparaître des résultats du jour au lendemain."
+          },
+          {
+            "type": "heading",
+            "text": "Vous n'avez pas le temps de vous en occuper ?"
+          },
+          {
+            "type": "paragraph",
+            "text": [
+              {
+                "text": "Créer une fiche Google prend une heure ; la garder à jour en prend quelques minutes par semaine. Si vous préférez confier votre présence en ligne à quelqu'un qui s'en occupe pour vous, écrivez-nous via "
+              },
+              {
+                "text": "notre page contact",
+                "href": "/contact.html"
+              },
+              {
+                "text": " : nous regarderons votre visibilité actuelle et nous vous dirons franchement ce qui manque — et ce que nous pouvons faire pour vous."
+              }
+            ]
+          }
+        ]
+      },
+      "en": {
+        "title": "Why your business needs a Google Business Profile",
+        "excerpt": "Your Google Business Profile is often the first thing customers see when they search. Here is why it matters and how to set it up right.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "When a customer in Douala looks for a hair salon, a restaurant or a plumber, they pull out their phone and search on Google. What they see first is not a website: it is a map, then a list of businesses with their ratings, opening hours, photos and a button to call. If your business has no Google Business Profile (formerly Google My Business), you simply do not exist in that decisive moment — and a competitor gets the call instead."
+          },
+          {
+            "type": "heading",
+            "text": "What customers see when you have a profile"
+          },
+          {
+            "type": "paragraph",
+            "text": "A well-filled Google Business Profile is a free mini-website, displayed right inside the search results. Customers find your exact address with directions, your opening hours, a clickable phone number, your photos and reviews left by other customers. They can even ask you questions publicly. For a business with no website, it is often the only professional online presence it has — and it is more than enough to win phone calls."
+          },
+          {
+            "type": "heading",
+            "text": "Why it matters even more in Cameroon"
+          },
+          {
+            "type": "paragraph",
+            "text": "In Cameroon, most customers discover businesses only through their phones, and very few local businesses have a complete, up-to-date profile. That is good news for you: competition is low. A profile with real photos, accurate hours and a few positive reviews immediately puts you ahead of most competitors in local searches. And all of this is free — Google charges nothing for the profile itself."
+          },
+          {
+            "type": "heading",
+            "text": "The 5 settings that make all the difference"
+          },
+          {
+            "type": "paragraph",
+            "text": "First, use your business's real name, without stuffing in artificial keywords like \"best\" or \"cheap\": Google penalises that. Second, pick the right primary category — \"Restaurant\", \"Hair salon\", \"Plumber\" — because it decides which searches you appear for. Third, keep your hours up to date, including public holidays: nothing drives a customer away like a closed door advertised as open. Fourth, add real photos: the storefront, the interior, the team, your products. Profiles with photos get noticeably more direction requests and calls. Fifth, write a clear description using the words your customers actually use."
+          },
+          {
+            "type": "heading",
+            "text": "How to create your profile: step by step"
+          },
+          {
+            "type": "paragraph",
+            "text": "Go to business.google.com and sign in with a Google account in your business's name — ideally a dedicated business address rather than a personal account. Add your exact business name, choose your category, then say whether customers come to your premises or you travel to them. Next, add your address, the area you serve, your phone number and your website if you have one. Google then verifies that the business really exists: most often you will be asked for a short video showing your premises, your sign or your equipment. Once verification passes, your profile becomes visible in results. Allow a few days between creating it and final approval."
+          },
+          {
+            "type": "heading",
+            "text": "Customer reviews: your best free advertising"
+          },
+          {
+            "type": "paragraph",
+            "text": "The star rating is often what decides between two businesses. Politely ask satisfied customers to leave a review — a simple WhatsApp message after a sale is enough, and most are happy to do it when asked at the right moment. Then reply to every review, positive or negative: a well-handled negative review often reassures more than a perfect rating with no replies, because it shows you are a serious, responsive business. And never give in to the temptation of bought fake reviews: Google detects them and can suspend your profile, making you vanish from results overnight."
+          },
+          {
+            "type": "heading",
+            "text": "No time to manage it yourself?"
+          },
+          {
+            "type": "paragraph",
+            "text": [
+              {
+                "text": "Setting up a Google Business Profile takes an hour; keeping it current takes a few minutes a week. If you would rather hand your online presence to someone who looks after it for you, write to us via "
+              },
+              {
+                "text": "our contact page",
+                "href": "/contact.html"
+              },
+              {
+                "text": ": we will look at your current visibility and tell you honestly what is missing — and what we can do for you."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "why-small-businesses-lose-customers-without-google-business-profile",
+    "date": "2026-11-06",
+    "category": "seo",
+    "image": "",
+    "translations": {
+      "en": {
+        "title": "No Google Business Profile? You're losing customers",
+        "excerpt": "If your business isn't on Google Business Profile, customers searching nearby are finding your competitors instead. Here's what you're missing.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Picture this: someone in your town needs exactly what you sell. They pull out their phone and search for it. Google shows them a map with three businesses, photos, opening hours, reviews and a button to call. Your business is not among them — not because you are worse, but because you never created a Google Business Profile. That customer calls your competitor. This happens every day, quietly, to small businesses everywhere."
+          },
+          {
+            "type": "heading",
+            "text": "The map pack decides who gets the call"
+          },
+          {
+            "type": "paragraph",
+            "text": "When people search for a service near them — a plumber, a bakery, a hair salon, a repair shop — Google usually answers with a small map and a short list of businesses before any website links. That list is built almost entirely from Google Business Profiles. If you do not have one, you simply cannot appear there. It does not matter how good your website is or how long you have been in business: in that moment, for that customer, you do not exist."
+          },
+          {
+            "type": "paragraph",
+            "text": "Most of these searches come from people ready to buy. They are not researching for next month; they need someone today. The businesses in the map pack get the calls, the visits and the messages. Everyone else waits for word of mouth to do the work — and word of mouth is slow."
+          },
+          {
+            "type": "heading",
+            "text": "A profile is your free shop window on Google"
+          },
+          {
+            "type": "paragraph",
+            "text": "A Google Business Profile costs nothing, and it puts the essentials of your business right where people are already looking: your address and a map pin, your phone number, your opening hours, photos of your work, the services you offer, and a link to your website or WhatsApp. For many customers, this is the first — and sometimes the only — impression they get of you. A complete profile answers their questions before they even ask: are you open now, where exactly are you, and can I reach you?"
+          },
+          {
+            "type": "paragraph",
+            "text": "It also works while you sleep. Someone searching at 9pm can see your hours, read your reviews and decide to visit tomorrow morning. Without a profile, that same person finds your competitor instead and never learns your name."
+          },
+          {
+            "type": "heading",
+            "text": "No profile looks like no business"
+          },
+          {
+            "type": "paragraph",
+            "text": "Customers judge what they cannot verify. A business with no presence on Google raises quiet doubts: is it still open? Is it real? Can I trust it with my money? Meanwhile, a competitor with a filled-out profile, recent photos and a handful of honest reviews looks established and reliable — even if your work is better. In a side-by-side comparison, the business that looks easier to check wins, because people choose the option that feels safest."
+          },
+          {
+            "type": "paragraph",
+            "text": "This is especially true for new customers who have never heard of you. Your regulars already know where to find you. The strangers searching today do not, and they will not dig for you when three alternatives are one tap away."
+          },
+          {
+            "type": "heading",
+            "text": "Reviews are the new word of mouth"
+          },
+          {
+            "type": "paragraph",
+            "text": "A Google Business Profile is also where your customers leave reviews — and where future customers read them before deciding. A few genuine, positive reviews do more for a small business than almost any advert, because they come from real people, not from you. And when you reply to reviews, politely and promptly, you show every future reader that you care about your customers, including the unhappy ones."
+          },
+          {
+            "type": "paragraph",
+            "text": "You cannot collect Google reviews without a profile. Every month without one is a month of happy customers whose praise never reaches the people searching for you."
+          },
+          {
+            "type": "heading",
+            "text": "What a complete profile needs"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Your exact business name, address and phone number — matching everywhere else they appear online.",
+              "Correct opening hours, including holidays and special hours, so nobody arrives at a closed door.",
+              "Real photos: your premises, your team, your products or your work — not stock images.",
+              "A clear list of your services or products, written the way customers actually search for them.",
+              "Regular short posts: a new offer, a finished job, a seasonal reminder. It signals that you are active.",
+              "Answers to the questions people ask, and replies to every review, good or bad."
+            ]
+          },
+          {
+            "type": "heading",
+            "text": "It takes an afternoon, not a budget"
+          },
+          {
+            "type": "paragraph",
+            "text": "Setting up a profile is straightforward: create it, verify your business — usually by postcard, phone or email — fill in every field honestly, add good photos, and ask your first happy customers for a review. The verification step takes a few days, so the sooner you start, the sooner you appear. After that, keeping it alive takes minutes a week: one post, one reply, one updated hour."
+          },
+          {
+            "type": "paragraph",
+            "text": "A Google Business Profile will not fix a bad business, and it is not a replacement for a good website or real marketing. But it is the cheapest, fastest way to stop losing customers who are already looking for you. If people in your area are searching for what you do, the only question is whether they find you — or the business next door."
+          },
+          {
+            "type": "paragraph",
+            "text": [
+              {
+                "text": "Not sure your business is showing up the way it should on Google? Tell us about your business on "
+              },
+              {
+                "text": "our contact page",
+                "href": "/contact.html"
+              },
+              {
+                "text": " and we will take a look at your online presence and tell you plainly what is missing — starting with your Google profile."
+              }
+            ]
+          }
+        ]
+      },
+      "fr": {
+        "title": "Pas de fiche Google ? Vous perdez des clients",
+        "excerpt": "Si votre entreprise n'apparaît pas sur Google, les clients qui cherchent près de chez eux trouvent vos concurrents. Voici ce que vous perdez.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Imaginez : quelqu'un dans votre ville a besoin exactement de ce que vous vendez. Il sort son téléphone et cherche. Google lui montre une carte avec trois entreprises, photos, horaires, avis et un bouton pour appeler. Votre entreprise n'y figure pas — non pas parce que vous êtes moins bon, mais parce que vous n'avez jamais créé de fiche Google. Ce client appelle votre concurrent. Cela arrive tous les jours, discrètement, aux petites entreprises partout dans le monde."
+          },
+          {
+            "type": "heading",
+            "text": "La carte Google décide qui reçoit l'appel"
+          },
+          {
+            "type": "paragraph",
+            "text": "Quand les gens cherchent un service près de chez eux — un plombier, une boulangerie, un salon de coiffure, un réparateur — Google répond généralement avec une petite carte et une courte liste d'entreprises, avant même les liens vers les sites web. Cette liste est construite presque entièrement à partir des fiches Google. Si vous n'en avez pas, vous ne pouvez tout simplement pas y apparaître. Peu importe la qualité de votre site web ou votre ancienneté : à ce moment-là, pour ce client, vous n'existez pas."
+          },
+          {
+            "type": "paragraph",
+            "text": "La plupart de ces recherches viennent de personnes prêtes à acheter, qui ont besoin de quelqu'un aujourd'hui, pas le mois prochain. Les entreprises présentes sur la carte reçoivent les appels, les visites et les messages. Les autres attendent que le bouche-à-oreille fasse le travail — et le bouche-à-oreille est lent."
+          },
+          {
+            "type": "heading",
+            "text": "Une fiche, c'est votre vitrine gratuite sur Google"
+          },
+          {
+            "type": "paragraph",
+            "text": "Une fiche Google ne coûte rien, et elle place l'essentiel de votre entreprise là où les gens cherchent déjà : votre adresse et un repère sur la carte, votre numéro de téléphone, vos horaires d'ouverture, des photos de votre travail, les services que vous proposez, et un lien vers votre site web ou WhatsApp. Pour beaucoup de clients, c'est la première impression qu'ils ont de vous. Une fiche complète répond à leurs questions avant même qu'ils les posent : êtes-vous ouvert maintenant, où êtes-vous exactement, et puis-je vous joindre ?"
+          },
+          {
+            "type": "paragraph",
+            "text": "Elle travaille aussi pendant que vous dormez : quelqu'un qui cherche à 21h peut voir vos horaires, lire vos avis et décider de venir demain matin. Sans fiche, cette même personne trouve votre concurrent et n'apprend jamais votre nom."
+          },
+          {
+            "type": "heading",
+            "text": "Pas de fiche, c'est comme pas d'entreprise"
+          },
+          {
+            "type": "paragraph",
+            "text": "Les clients se méfient de ce qu'ils ne peuvent pas vérifier. Une entreprise absente de Google suscite des doutes silencieux : est-elle toujours ouverte ? Est-elle réelle ? Puis-je lui confier mon argent ? Pendant ce temps, un concurrent avec une fiche bien remplie, des photos récentes et quelques avis honnêtes paraît établi et fiable — même si votre travail est meilleur. Dans une comparaison directe, l'entreprise qui semble la plus facile à vérifier l'emporte, parce que les gens choisissent l'option qui leur semble la plus sûre."
+          },
+          {
+            "type": "paragraph",
+            "text": "C'est particulièrement vrai pour les nouveaux clients. Vos habitués savent déjà où vous trouver. Les inconnus qui cherchent aujourd'hui ne le savent pas, et ils ne vont pas vous chercher longtemps quand trois alternatives sont à un clic."
+          },
+          {
+            "type": "heading",
+            "text": "Les avis sont le nouveau bouche-à-oreille"
+          },
+          {
+            "type": "paragraph",
+            "text": "Une fiche Google est aussi l'endroit où vos clients laissent des avis — et où les futurs clients les lisent avant de décider. Quelques avis positifs et authentiques font plus pour une petite entreprise que presque n'importe quelle publicité, parce qu'ils viennent de vraies personnes, pas de vous. Et quand vous répondez aux avis, poliment et rapidement, vous montrez à chaque futur lecteur que vous vous souciez de vos clients, y compris des mécontents."
+          },
+          {
+            "type": "paragraph",
+            "text": "Sans fiche, pas d'avis Google. Chaque mois sans fiche est un mois de clients satisfaits dont les éloges n'atteignent jamais ceux qui vous cherchent."
+          },
+          {
+            "type": "heading",
+            "text": "Ce qu'une fiche complète doit contenir"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Le nom exact de votre entreprise, votre adresse et votre numéro de téléphone — identiques partout où ils apparaissent en ligne.",
+              "Des horaires d'ouverture corrects, y compris les jours fériés et les horaires spéciaux, pour que personne n'arrive devant une porte fermée.",
+              "De vraies photos : vos locaux, votre équipe, vos produits ou votre travail — pas des images de banque d'images.",
+              "Une liste claire de vos services ou produits, rédigée comme les clients les recherchent réellement.",
+              "Des publications courtes et régulières : une nouvelle offre, un travail terminé, un rappel saisonnier. Cela montre que vous êtes actif.",
+              "Des réponses aux questions que les gens posent, et une réponse à chaque avis, bon ou mauvais."
+            ]
+          },
+          {
+            "type": "heading",
+            "text": "Cela prend un après-midi, pas un budget"
+          },
+          {
+            "type": "paragraph",
+            "text": "Créer une fiche est simple : vérifiez votre entreprise — par courrier, téléphone ou e-mail — remplissez chaque champ honnêtement, ajoutez de bonnes photos, et demandez à vos premiers clients satisfaits un avis. L'étape de vérification prend quelques jours, donc plus vous commencez tôt, plus vite vous apparaissez. Ensuite, la maintenir en vie prend quelques minutes par semaine : une publication, une réponse, un horaire mis à jour."
+          },
+          {
+            "type": "paragraph",
+            "text": "Une fiche Google ne sauvera pas une mauvaise entreprise et ne remplace ni un bon site ni un vrai marketing. Mais c'est le moyen le moins cher et le plus rapide d'arrêter de perdre des clients qui vous cherchent déjà. Si les gens de votre région cherchent ce que vous faites, la seule question est de savoir s'ils vous trouvent — ou l'entreprise d'à côté."
+          },
+          {
+            "type": "paragraph",
+            "text": [
+              {
+                "text": "Vous n'êtes pas sûr que votre entreprise s'affiche comme il faut sur Google ? Parlez-nous de votre entreprise sur "
+              },
+              {
+                "text": "notre page de contact",
+                "href": "/contact.html"
+              },
+              {
+                "text": " et nous examinerons votre présence en ligne pour vous dire clairement ce qui manque — en commençant par votre fiche Google."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "etre-trouve-sur-google-a-douala",
+    "date": "2026-11-08",
+    "category": "seo",
+    "image": "",
+    "translations": {
+      "fr": {
+        "title": "Être trouvé sur Google à Douala : 7 étapes",
+        "excerpt": "Un client à Douala cherche ce que vous vendez. Google décide qui il appelle. Voici sept étapes concrètes pour apparaître — sans gros budget.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Un client à Douala a besoin d'un plombier, d'un traiteur, d'une coiffeuse ou d'un réparateur de téléphones. Il sort son téléphone, tape quelques mots dans Google, et en quelques secondes, il a une liste d'entreprises à appeler. Votre entreprise y figure-t-elle ? Si la réponse est non, ce client appelle quelqu'un d'autre — et cela se répète chaque jour, avec chaque recherche. Être trouvé sur Google n'est pas un luxe réservé aux grandes entreprises. C'est devenu la première vitrine de toute entreprise locale, et cela se construit étape par étape."
+          },
+          {
+            "type": "heading",
+            "text": "1. Créez votre fiche Google, c'est gratuit"
+          },
+          {
+            "type": "paragraph",
+            "text": "La fiche Google (Google Business Profile) est la première chose à mettre en place. Elle est gratuite et c'est elle qui vous fait apparaître sur la carte quand quelqu'un cherche un service près de lui. Remplissez-la entièrement : nom exact de votre entreprise, adresse avec le quartier (Bonanjo, Akwa, Deïdo, Bonabéri…), numéro de téléphone, horaires d'ouverture et photos réelles de vos locaux ou de votre travail. Une fiche incomplète inspire moins confiance qu'une fiche complète — et Google la montre moins souvent."
+          },
+          {
+            "type": "heading",
+            "text": "2. Dites clairement ce que vous faites, et où"
+          },
+          {
+            "type": "paragraph",
+            "text": "Google ne devine pas votre activité : il lit ce que vous écrivez. Dans votre fiche, votre site web et vos pages sur les réseaux sociaux, utilisez les mots que vos clients tapent réellement : « plombier à Douala », « traiteur à Bonanjo », « salon de coiffure à Akwa ». Mentionnez vos quartiers et les services précis que vous proposez. Plus vos descriptions correspondent aux recherches réelles, plus Google vous propose quand ces recherches arrivent."
+          },
+          {
+            "type": "heading",
+            "text": "3. Les avis : la confiance se construit en public"
+          },
+          {
+            "type": "paragraph",
+            "text": "Quand deux entreprises apparaissent côte à côte, le client choisit presque toujours celle qui a des avis. Demandez à vos clients satisfaits de laisser un avis Google — un simple message WhatsApp après une prestation suffit. Répondez à chaque avis, y compris aux critiques, avec courtoisie : vos réponses sont lues par tous les futurs clients. Quelques avis honnêtes valent mieux qu'une publicité, parce qu'ils viennent de vraies personnes."
+          },
+          {
+            "type": "heading",
+            "text": "4. Un site web simple, qui répond aux questions"
+          },
+          {
+            "type": "paragraph",
+            "text": "Vous n'avez pas besoin d'un site compliqué. Une page claire suffit : ce que vous faites, où vous êtes, comment vous joindre, et des photos de votre travail. L'essentiel est que le site se charge vite sur un téléphone et que le numéro de téléphone et le bouton WhatsApp soient visibles immédiatement. Un client qui ne trouve pas votre numéro en dix secondes passe au suivant."
+          },
+          {
+            "type": "heading",
+            "text": "5. Soyez cohérent partout en ligne"
+          },
+          {
+            "type": "paragraph",
+            "text": "Google se méfie des informations contradictoires. Votre nom, votre adresse et votre numéro de téléphone doivent être exactement les mêmes sur votre fiche Google, votre site web, votre page Facebook et vos annuaires en ligne. Une différence — un numéro ancien sur Facebook, un quartier mal écrit — suffit à semer le doute, chez Google comme chez le client."
+          },
+          {
+            "type": "heading",
+            "text": "6. Publiez, même un peu"
+          },
+          {
+            "type": "paragraph",
+            "text": "Une entreprise qui publie régulièrement a l'air vivante, et Google le remarque. Une photo d'un travail terminé, une offre du moment, un conseil utile : une publication par semaine sur votre fiche Google ou votre page Facebook suffit pour commencer. L'objectif n'est pas de devenir influenceur, mais de montrer que votre entreprise est active et qu'elle travaille."
+          },
+          {
+            "type": "heading",
+            "text": "7. WhatsApp : le raccourci que vos clients utilisent déjà"
+          },
+          {
+            "type": "paragraph",
+            "text": "À Douala, beaucoup de clients préfèrent WhatsApp à l'appel ou au formulaire. Mettez votre numéro WhatsApp bien en évidence sur votre fiche Google et votre site web, et répondez vite : un message sans réponse en quelques heures, c'est un client perdu. WhatsApp Business, gratuit, permet en plus d'afficher vos horaires, un catalogue et des réponses rapides."
+          },
+          {
+            "type": "heading",
+            "text": "Par où commencer ?"
+          },
+          {
+            "type": "paragraph",
+            "text": "Commencez par la fiche Google : créez-la aujourd'hui, complétez-la cette semaine, demandez vos trois premiers avis. Ensuite, vérifiez que vos informations sont identiques partout et ajoutez votre numéro WhatsApp là où on peut vous trouver. Ces sept étapes ne demandent pas de gros budget, seulement de la régularité. Les clients qui cherchent déjà ce que vous vendez sont là : il ne reste qu'à vous rendre visible."
+          },
+          {
+            "type": "paragraph",
+            "text": [
+              {
+                "text": "Vous voulez qu'on regarde ensemble comment votre entreprise apparaît sur Google ? Parlez-nous de votre activité sur "
+              },
+              {
+                "text": "notre page de contact",
+                "href": "/contact.html"
+              },
+              {
+                "text": " et nous vous dirons ce qui manque pour être trouvé à Douala."
+              }
+            ]
+          }
+        ]
+      },
+      "en": {
+        "title": "Get found on Google in Douala: 7 steps",
+        "excerpt": "A customer in Douala is searching for what you sell. Google decides who they call. Seven practical steps to get your business found — without a big budget.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "A customer in Douala needs a plumber, a caterer, a hairdresser or a phone repairer. They pull out their phone, type a few words into Google, and within seconds they have a list of businesses to call. Is your business on it? If not, that customer calls someone else — and it repeats every day, with every search. Being found on Google is not a luxury for big companies. It has become the first shop window of every local business, and it is built step by step."
+          },
+          {
+            "type": "heading",
+            "text": "1. Create your Google Business Profile — it's free"
+          },
+          {
+            "type": "paragraph",
+            "text": "A Google Business Profile is the first thing to set up. It is free, and it is what puts you on the map when someone searches for a service near them. Fill it in completely: your exact business name, your address with the neighbourhood (Bonanjo, Akwa, Deïdo, Bonabéri…), your phone number, your opening hours, and real photos of your premises or your work. An incomplete profile inspires less trust than a complete one — and Google shows it less often."
+          },
+          {
+            "type": "heading",
+            "text": "2. Say clearly what you do, and where"
+          },
+          {
+            "type": "paragraph",
+            "text": "Google cannot guess what your business does: it reads what you write. In your profile, your website and your social media pages, use the words your customers actually type: “plumber in Douala”, “caterer in Bonanjo”, “hair salon in Akwa”. Mention your neighbourhoods and the exact services you offer. The closer your descriptions match real searches, the more often Google suggests you when those searches happen."
+          },
+          {
+            "type": "heading",
+            "text": "3. Reviews: trust is built in public"
+          },
+          {
+            "type": "paragraph",
+            "text": "When two businesses appear side by side, the customer almost always picks the one with reviews. Ask your happy customers to leave a Google review — a simple WhatsApp message after a job is enough. Reply to every review, including critical ones, politely: your replies are read by every future customer. A few honest reviews are worth more than an advert, because they come from real people."
+          },
+          {
+            "type": "heading",
+            "text": "4. A simple website that answers the questions"
+          },
+          {
+            "type": "paragraph",
+            "text": "You do not need a complicated website. One clear page is enough: what you do, where you are, how to reach you, and photos of your work. What matters is that the site loads fast on a phone and that your phone number and WhatsApp button are visible immediately. A customer who cannot find your number in ten seconds moves on to the next business."
+          },
+          {
+            "type": "heading",
+            "text": "5. Be consistent everywhere online"
+          },
+          {
+            "type": "paragraph",
+            "text": "Google distrusts contradictory information. Your name, address and phone number must be exactly the same on your Google profile, your website, your Facebook page and any online directories. One difference — an old number on Facebook, a misspelled neighbourhood — is enough to sow doubt, with Google as well as with the customer."
+          },
+          {
+            "type": "heading",
+            "text": "6. Post, even a little"
+          },
+          {
+            "type": "paragraph",
+            "text": "A business that posts regularly looks alive, and Google notices. A photo of a finished job, a current offer, a useful tip: one post a week on your Google profile or Facebook page is enough to start. The goal is not to become an influencer, but to show that your business is active and working."
+          },
+          {
+            "type": "heading",
+            "text": "7. WhatsApp: the shortcut your customers already use"
+          },
+          {
+            "type": "paragraph",
+            "text": "In Douala, many customers prefer WhatsApp to a phone call or a contact form. Put your WhatsApp number prominently on your Google profile and your website, and reply quickly: a message left unanswered for a few hours is a lost customer. WhatsApp Business, which is free, also lets you show your hours, a catalogue and quick replies."
+          },
+          {
+            "type": "heading",
+            "text": "Where to start?"
+          },
+          {
+            "type": "paragraph",
+            "text": "Start with your Google profile: create it today, complete it this week, ask for your first three reviews. Then check that your details are identical everywhere and add your WhatsApp number wherever people can find you. These seven steps do not need a big budget, only consistency. The customers who are already searching for what you sell are out there: all that remains is to make yourself visible."
+          },
+          {
+            "type": "paragraph",
+            "text": [
+              {
+                "text": "Want us to look together at how your business appears on Google? Tell us about your business on "
+              },
+              {
+                "text": "our contact page",
+                "href": "/contact.html"
+              },
+              {
+                "text": " and we will tell you what is missing to be found in Douala."
+              }
+            ]
+          }
+        ]
+      }
+    }
   }
- },
- {
-  "slug": "preparer-evenement-reussi-6-etapes",
-  "date": "2026-10-20",
-  "category": "events",
-  "image": "",
-  "sample": true,
-  "translations": {
-   "fr": {
-    "title": "Comment préparer un événement réussi : le plan en 6 étapes",
-    "excerpt": "Conférence, lancement de produit ou séminaire : un événement réussi se prépare bien en amont. Voici un plan simple en six étapes pour ne rien oublier.",
-    "content": [
-     {
-      "type": "paragraph",
-      "text": "Un événement d'entreprise mobilise du temps, un budget et l'image de votre marque. Pour qu'il atteigne ses objectifs, la préparation compte autant que le jour J. Voici les six étapes que nous recommandons."
-     },
-     {
-      "type": "heading",
-      "text": "1. Définir l'objectif et le public"
-     },
-     {
-      "type": "paragraph",
-      "text": "Lancer un produit, réunir vos partenaires, motiver vos équipes : chaque objectif appelle un format différent. Précisez aussi qui vous voulez réunir et combien de personnes vous attendez."
-     },
-     {
-      "type": "heading",
-      "text": "2. Fixer le budget et le calendrier"
-     },
-     {
-      "type": "paragraph",
-      "text": "Listez tous les postes de dépenses : lieu, restauration, technique, communication, prestataires. Prévoyez une marge pour les imprévus et construisez un rétroplanning avec des dates limites claires."
-     },
-     {
-      "type": "heading",
-      "text": "3. Choisir le lieu et les prestataires"
-     },
-     {
-      "type": "paragraph",
-      "text": "Vérifiez l'accessibilité, la capacité, l'équipement technique et les conditions d'annulation. Demandez plusieurs devis et confirmez chaque engagement par écrit."
-     },
-     {
-      "type": "heading",
-      "text": "4. Construire le programme"
-     },
-     {
-      "type": "paragraph",
-      "text": "Un bon programme alterne temps forts, échanges et pauses. Briefez vos intervenants à l'avance sur la durée, le message attendu et le public présent."
-     },
-     {
-      "type": "heading",
-      "text": "5. Communiquer avant l'événement"
-     },
-     {
-      "type": "paragraph",
-      "text": "Annoncez l'événement suffisamment tôt, facilitez l'inscription et relancez vos invités à l'approche de la date. Les réseaux sociaux, l'e-mail et WhatsApp sont des canaux complémentaires."
-     },
-     {
-      "type": "heading",
-      "text": "6. Prolonger l'impact après le jour J"
-     },
-     {
-      "type": "paragraph",
-      "text": "Remerciez les participants, partagez photos, vidéos et moments clés, puis faites le bilan : participation, retours, nouveaux contacts. Ces enseignements serviront pour votre prochain événement."
-     },
-     {
-      "type": "heading",
-      "text": "La check-list à garder sous la main"
-     },
-     {
-      "type": "list",
-      "items": [
-       "Objectif et public définis",
-       "Budget validé, avec une marge",
-       "Lieu et prestataires confirmés par écrit",
-       "Programme établi et intervenants briefés",
-       "Communication prévue avant, pendant et après",
-       "Bilan rédigé dans la semaine qui suit"
-      ]
-     },
-     {
-      "type": "paragraph",
-      "text": "Vous préparez une conférence, un séminaire ou un lancement ? SIDEKOM peut vous accompagner de la conception jusqu'au suivi."
-     }
-    ]
-   },
-   "en": {
-    "title": "How to prepare a successful event: the 6-step plan",
-    "excerpt": "Conference, product launch or seminar: a successful event is prepared well in advance. Here is a simple six-step plan so you do not forget anything.",
-    "content": [
-     {
-      "type": "paragraph",
-      "text": "A corporate event takes time, budget and your brand image. For it to reach its goals, preparation matters as much as the day itself. Here are the six steps we recommend."
-     },
-     {
-      "type": "heading",
-      "text": "1. Define the goal and the audience"
-     },
-     {
-      "type": "paragraph",
-      "text": "Launching a product, bringing your partners together, motivating your teams: each goal calls for a different format. Also be clear about who you want to bring together and how many people you expect."
-     },
-     {
-      "type": "heading",
-      "text": "2. Set the budget and the schedule"
-     },
-     {
-      "type": "paragraph",
-      "text": "List every cost item: venue, catering, technical equipment, communication, suppliers. Keep a margin for the unexpected and build a backward schedule with clear deadlines."
-     },
-     {
-      "type": "heading",
-      "text": "3. Choose the venue and suppliers"
-     },
-     {
-      "type": "paragraph",
-      "text": "Check accessibility, capacity, technical equipment and cancellation terms. Ask for several quotes and confirm every commitment in writing."
-     },
-     {
-      "type": "heading",
-      "text": "4. Build the programme"
-     },
-     {
-      "type": "paragraph",
-      "text": "A good programme alternates highlights, discussions and breaks. Brief your speakers in advance on timing, the expected message and the audience."
-     },
-     {
-      "type": "heading",
-      "text": "5. Communicate before the event"
-     },
-     {
-      "type": "paragraph",
-      "text": "Announce the event early enough, make registration easy and remind your guests as the date approaches. Social networks, email and WhatsApp work well together."
-     },
-     {
-      "type": "heading",
-      "text": "6. Extend the impact after the day"
-     },
-     {
-      "type": "paragraph",
-      "text": "Thank the participants, share photos, videos and key moments, then review: attendance, feedback, new contacts. These lessons will help with your next event."
-     },
-     {
-      "type": "heading",
-      "text": "The checklist to keep at hand"
-     },
-     {
-      "type": "list",
-      "items": [
-       "Goal and audience defined",
-       "Budget approved, with a margin",
-       "Venue and suppliers confirmed in writing",
-       "Programme set and speakers briefed",
-       "Communication planned before, during and after",
-       "Review written within the following week"
-      ]
-     },
-     {
-      "type": "paragraph",
-      "text": "Are you preparing a conference, a seminar or a launch? SIDEKOM can support you from the concept to the follow-up."
-     }
-    ]
-   },
-   "es": {
-    "title": "Cómo preparar un evento exitoso: el plan en 6 pasos",
-    "excerpt": "Conferencia, lanzamiento de producto o seminario: un evento exitoso se prepara con antelación. Este es un plan sencillo en seis pasos para no olvidar nada.",
-    "content": [
-     {
-      "type": "paragraph",
-      "text": "Un evento de empresa moviliza tiempo, presupuesto y la imagen de su marca. Para que alcance sus objetivos, la preparación cuenta tanto como el propio día. Estos son los seis pasos que recomendamos."
-     },
-     {
-      "type": "heading",
-      "text": "1. Definir el objetivo y el público"
-     },
-     {
-      "type": "paragraph",
-      "text": "Lanzar un producto, reunir a sus socios, motivar a sus equipos: cada objetivo requiere un formato distinto. Precise también a quién quiere reunir y cuántas personas espera."
-     },
-     {
-      "type": "heading",
-      "text": "2. Fijar el presupuesto y el calendario"
-     },
-     {
-      "type": "paragraph",
-      "text": "Enumere todas las partidas de gasto: lugar, catering, técnica, comunicación, proveedores. Prevea un margen para imprevistos y elabore una planificación inversa con plazos claros."
-     },
-     {
-      "type": "heading",
-      "text": "3. Elegir el lugar y los proveedores"
-     },
-     {
-      "type": "paragraph",
-      "text": "Compruebe la accesibilidad, la capacidad, el equipamiento técnico y las condiciones de cancelación. Pida varios presupuestos y confirme cada compromiso por escrito."
-     },
-     {
-      "type": "heading",
-      "text": "4. Construir el programa"
-     },
-     {
-      "type": "paragraph",
-      "text": "Un buen programa alterna momentos clave, intercambios y pausas. Informe a sus ponentes con antelación sobre la duración, el mensaje esperado y el público asistente."
-     },
-     {
-      "type": "heading",
-      "text": "5. Comunicar antes del evento"
-     },
-     {
-      "type": "paragraph",
-      "text": "Anuncie el evento con suficiente antelación, facilite la inscripción y recuerde la cita a sus invitados a medida que se acerca la fecha. Las redes sociales, el correo electrónico y WhatsApp se complementan."
-     },
-     {
-      "type": "heading",
-      "text": "6. Prolongar el impacto después del evento"
-     },
-     {
-      "type": "paragraph",
-      "text": "Agradezca a los participantes, comparta fotos, vídeos y momentos clave, y haga balance: asistencia, opiniones, nuevos contactos. Estas lecciones le servirán para su próximo evento."
-     },
-     {
-      "type": "heading",
-      "text": "La lista de control para tener a mano"
-     },
-     {
-      "type": "list",
-      "items": [
-       "Objetivo y público definidos",
-       "Presupuesto aprobado, con un margen",
-       "Lugar y proveedores confirmados por escrito",
-       "Programa establecido y ponentes informados",
-       "Comunicación prevista antes, durante y después",
-       "Balance redactado en la semana siguiente"
-      ]
-     },
-     {
-      "type": "paragraph",
-      "text": "¿Prepara una conferencia, un seminario o un lanzamiento? SIDEKOM puede acompañarle desde la concepción hasta el seguimiento."
-     }
-    ]
-   },
-   "pt": {
-    "title": "Como preparar um evento de sucesso: o plano em 6 etapas",
-    "excerpt": "Conferência, lançamento de produto ou seminário: um evento de sucesso prepara-se com antecedência. Eis um plano simples em seis etapas para não esquecer nada.",
-    "content": [
-     {
-      "type": "paragraph",
-      "text": "Um evento empresarial mobiliza tempo, orçamento e a imagem da sua marca. Para que atinja os seus objetivos, a preparação conta tanto como o próprio dia. Eis as seis etapas que recomendamos."
-     },
-     {
-      "type": "heading",
-      "text": "1. Definir o objetivo e o público"
-     },
-     {
-      "type": "paragraph",
-      "text": "Lançar um produto, reunir os seus parceiros, motivar as suas equipas: cada objetivo pede um formato diferente. Defina também quem quer reunir e quantas pessoas espera."
-     },
-     {
-      "type": "heading",
-      "text": "2. Fixar o orçamento e o calendário"
-     },
-     {
-      "type": "paragraph",
-      "text": "Enumere todas as rubricas de despesa: local, catering, técnica, comunicação, fornecedores. Preveja uma margem para imprevistos e construa um planeamento regressivo com prazos claros."
-     },
-     {
-      "type": "heading",
-      "text": "3. Escolher o local e os fornecedores"
-     },
-     {
-      "type": "paragraph",
-      "text": "Verifique a acessibilidade, a capacidade, o equipamento técnico e as condições de cancelamento. Peça vários orçamentos e confirme cada compromisso por escrito."
-     },
-     {
-      "type": "heading",
-      "text": "4. Construir o programa"
-     },
-     {
-      "type": "paragraph",
-      "text": "Um bom programa alterna momentos fortes, trocas e pausas. Informe os seus oradores com antecedência sobre a duração, a mensagem pretendida e o público presente."
-     },
-     {
-      "type": "heading",
-      "text": "5. Comunicar antes do evento"
-     },
-     {
-      "type": "paragraph",
-      "text": "Anuncie o evento com antecedência suficiente, facilite a inscrição e relembre os seus convidados à medida que a data se aproxima. As redes sociais, o e-mail e o WhatsApp complementam-se."
-     },
-     {
-      "type": "heading",
-      "text": "6. Prolongar o impacto depois do evento"
-     },
-     {
-      "type": "paragraph",
-      "text": "Agradeça aos participantes, partilhe fotografias, vídeos e momentos-chave e faça o balanço: participação, opiniões, novos contactos. Estas lições serão úteis para o seu próximo evento."
-     },
-     {
-      "type": "heading",
-      "text": "A lista de verificação a ter à mão"
-     },
-     {
-      "type": "list",
-      "items": [
-       "Objetivo e público definidos",
-       "Orçamento aprovado, com uma margem",
-       "Local e fornecedores confirmados por escrito",
-       "Programa definido e oradores informados",
-       "Comunicação prevista antes, durante e depois",
-       "Balanço redigido na semana seguinte"
-      ]
-     },
-     {
-      "type": "paragraph",
-      "text": "Está a preparar uma conferência, um seminário ou um lançamento? A SIDEKOM pode acompanhá-lo desde a conceção até ao acompanhamento final."
-     }
-    ]
-   },
-   "ar": {
-    "title": "كيف تحضّر لفعالية ناجحة: خطة من 6 خطوات",
-    "excerpt": "مؤتمر أو إطلاق منتج أو ندوة: الفعالية الناجحة تُحضَّر مسبقًا. إليك خطة بسيطة من ست خطوات حتى لا تنسى شيئًا.",
-    "content": [
-     {
-      "type": "paragraph",
-      "text": "تتطلب فعالية الشركة وقتًا وميزانية، وتمسّ صورة علامتك التجارية. ولكي تحقق أهدافها، فإن التحضير لا يقل أهمية عن يوم الفعالية نفسه. إليك الخطوات الست التي ننصح بها."
-     },
-     {
-      "type": "heading",
-      "text": "1. تحديد الهدف والجمهور"
-     },
-     {
-      "type": "paragraph",
-      "text": "إطلاق منتج، أو جمع شركائك، أو تحفيز فرقك: لكل هدف شكل مختلف. حدّد أيضًا من تريد جمعهم وكم شخصًا تتوقع حضوره."
-     },
-     {
-      "type": "heading",
-      "text": "2. تحديد الميزانية والجدول الزمني"
-     },
-     {
-      "type": "paragraph",
-      "text": "اذكر جميع بنود الإنفاق: المكان، والضيافة، والتجهيزات التقنية، والتواصل، والمزودين. خصّص هامشًا للطوارئ وضع جدولًا زمنيًا عكسيًا بمواعيد نهائية واضحة."
-     },
-     {
-      "type": "heading",
-      "text": "3. اختيار المكان والمزودين"
-     },
-     {
-      "type": "paragraph",
-      "text": "تحقق من سهولة الوصول والسعة والتجهيزات التقنية وشروط الإلغاء. اطلب عدة عروض أسعار وأكّد كل التزام كتابيًا."
-     },
-     {
-      "type": "heading",
-      "text": "4. إعداد البرنامج"
-     },
-     {
-      "type": "paragraph",
-      "text": "البرنامج الجيد يوازن بين اللحظات المهمة والنقاشات وفترات الاستراحة. زوّد المتحدثين مسبقًا بالمعلومات حول المدة والرسالة المنتظرة والجمهور الحاضر."
-     },
-     {
-      "type": "heading",
-      "text": "5. التواصل قبل الفعالية"
-     },
-     {
-      "type": "paragraph",
-      "text": "أعلن عن الفعالية في وقت مبكر بما يكفي، وسهّل التسجيل، وذكّر ضيوفك مع اقتراب الموعد. الشبكات الاجتماعية والبريد الإلكتروني وواتساب قنوات تكمّل بعضها."
-     },
-     {
-      "type": "heading",
-      "text": "6. إطالة الأثر بعد الفعالية"
-     },
-     {
-      "type": "paragraph",
-      "text": "اشكر المشاركين، وشارك الصور ومقاطع الفيديو واللحظات البارزة، ثم قيّم النتائج: نسبة الحضور، والآراء، والعلاقات الجديدة. ستفيدك هذه الدروس في فعاليتك القادمة."
-     },
-     {
-      "type": "heading",
-      "text": "قائمة التحقق التي يجب أن تبقى في متناولك"
-     },
-     {
-      "type": "list",
-      "items": [
-       "الهدف والجمهور محددان",
-       "الميزانية معتمدة مع هامش للطوارئ",
-       "المكان والمزودون مؤكدون كتابيًا",
-       "البرنامج جاهز والمتحدثون على علم بكل التفاصيل",
-       "التواصل مخطط له قبل الفعالية وأثناءها وبعدها",
-       "التقييم مكتوب خلال الأسبوع التالي"
-      ]
-     },
-     {
-      "type": "paragraph",
-      "text": "هل تحضّر لمؤتمر أو ندوة أو إطلاق منتج؟ يمكن لـ SIDEKOM مرافقتك من التصميم حتى المتابعة."
-     }
-    ]
-   }
-  }
- },
- {
-  "slug": "pourquoi-calendrier-editorial",
-  "date": "2026-10-13",
-  "category": "communication",
-  "image": "",
-  "sample": true,
-  "translations": {
-   "fr": {
-    "title": "Pourquoi votre entreprise a besoin d'un calendrier éditorial",
-    "excerpt": "Publier au dernier moment, oublier une date importante, manquer d'idées… Un calendrier éditorial règle ces problèmes. Voici pourquoi, et comment le mettre en place.",
-    "content": [
-     {
-      "type": "paragraph",
-      "text": "Beaucoup d'entreprises publient au gré de l'inspiration. Résultat : des semaines très actives, puis plus rien. Un calendrier éditorial permet de passer d'une communication improvisée à une communication organisée."
-     },
-     {
-      "type": "heading",
-      "text": "Qu'est-ce qu'un calendrier éditorial ?"
-     },
-     {
-      "type": "paragraph",
-      "text": "C'est un planning qui indique, pour chaque période, les sujets à traiter, les formats, les canaux de diffusion et les dates de publication. Un simple tableau partagé suffit pour commencer."
-     },
-     {
-      "type": "heading",
-      "text": "Ce qu'il change pour votre entreprise"
-     },
-     {
-      "type": "list",
-      "items": [
-       "De la régularité : votre audience sait quand vous retrouver",
-       "De la cohérence : vos messages suivent vos priorités commerciales",
-       "Du temps gagné : les contenus sont préparés à l'avance, pas dans l'urgence",
-       "Une meilleure anticipation des temps forts : fêtes, salons, lancements, saisons",
-       "Un travail d'équipe plus simple : chacun sait ce qui est prévu et qui s'en charge"
-      ]
-     },
-     {
-      "type": "heading",
-      "text": "Comment le construire en quatre étapes"
-     },
-     {
-      "type": "paragraph",
-      "text": "Commencez par lister les dates importantes de votre année : lancements, événements, périodes de forte activité. Définissez ensuite trois à cinq grandes thématiques, par exemple vos conseils, vos réalisations, votre équipe et vos offres."
-     },
-     {
-      "type": "paragraph",
-      "text": "Choisissez un rythme réaliste que vous pourrez tenir dans la durée, plutôt qu'un objectif ambitieux abandonné au bout d'un mois. Enfin, répartissez vos sujets semaine par semaine et confiez chaque contenu à une personne responsable."
-     },
-     {
-      "type": "heading",
-      "text": "Garder de la souplesse"
-     },
-     {
-      "type": "paragraph",
-      "text": "Un calendrier éditorial n'est pas figé. Laissez de la place pour réagir à l'actualité, et faites le point chaque mois : quels sujets ont intéressé votre public, lesquels faut-il abandonner ou approfondir ?"
-     },
-     {
-      "type": "paragraph",
-      "text": "Besoin d'aide pour bâtir votre premier calendrier éditorial ? Parlons-en : SIDEKOM vous aide à définir vos thématiques et votre rythme de publication."
-     }
-    ]
-   },
-   "en": {
-    "title": "Why your business needs an editorial calendar",
-    "excerpt": "Posting at the last minute, forgetting an important date, running out of ideas… An editorial calendar solves these problems. Here is why, and how to set one up.",
-    "content": [
-     {
-      "type": "paragraph",
-      "text": "Many businesses post whenever inspiration strikes. The result: very busy weeks, then nothing at all. An editorial calendar takes you from improvised communication to organised communication."
-     },
-     {
-      "type": "heading",
-      "text": "What is an editorial calendar?"
-     },
-     {
-      "type": "paragraph",
-      "text": "It is a schedule that shows, for each period, the topics to cover, the formats, the channels and the publication dates. A simple shared spreadsheet is enough to get started."
-     },
-     {
-      "type": "heading",
-      "text": "What it changes for your business"
-     },
-     {
-      "type": "list",
-      "items": [
-       "Consistency: your audience knows when to find you",
-       "Coherence: your messages follow your business priorities",
-       "Time saved: content is prepared in advance, not in a rush",
-       "Better planning for key moments: holidays, trade fairs, launches, seasons",
-       "Easier teamwork: everyone knows what is planned and who is in charge"
-      ]
-     },
-     {
-      "type": "heading",
-      "text": "How to build it in four steps"
-     },
-     {
-      "type": "paragraph",
-      "text": "Start by listing the important dates of your year: launches, events, busy periods. Then define three to five main themes, for example your advice, your achievements, your team and your offers."
-     },
-     {
-      "type": "paragraph",
-      "text": "Choose a realistic pace you can keep up over time, rather than an ambitious goal abandoned after a month. Finally, spread your topics week by week and give each piece of content to a person in charge."
-     },
-     {
-      "type": "heading",
-      "text": "Stay flexible"
-     },
-     {
-      "type": "paragraph",
-      "text": "An editorial calendar is not set in stone. Leave room to react to the news, and review it every month: which topics interested your audience, which ones should you drop or explore further?"
-     },
-     {
-      "type": "paragraph",
-      "text": "Need help building your first editorial calendar? Let's talk: SIDEKOM helps you define your themes and your publishing pace."
-     }
-    ]
-   },
-   "es": {
-    "title": "Por qué su empresa necesita un calendario editorial",
-    "excerpt": "Publicar a última hora, olvidar una fecha importante, quedarse sin ideas… Un calendario editorial resuelve estos problemas. Le explicamos por qué y cómo ponerlo en marcha.",
-    "content": [
-     {
-      "type": "paragraph",
-      "text": "Muchas empresas publican según la inspiración del momento. Resultado: semanas muy activas y después nada. Un calendario editorial permite pasar de una comunicación improvisada a una comunicación organizada."
-     },
-     {
-      "type": "heading",
-      "text": "¿Qué es un calendario editorial?"
-     },
-     {
-      "type": "paragraph",
-      "text": "Es una planificación que indica, para cada periodo, los temas que tratar, los formatos, los canales de difusión y las fechas de publicación. Para empezar basta con una sencilla hoja de cálculo compartida."
-     },
-     {
-      "type": "heading",
-      "text": "Lo que cambia para su empresa"
-     },
-     {
-      "type": "list",
-      "items": [
-       "Regularidad: su audiencia sabe cuándo encontrarle",
-       "Coherencia: sus mensajes siguen sus prioridades comerciales",
-       "Tiempo ganado: los contenidos se preparan con antelación, no con prisas",
-       "Mejor anticipación de los momentos clave: fiestas, ferias, lanzamientos, temporadas",
-       "Trabajo en equipo más sencillo: todos saben qué está previsto y quién se encarga"
-      ]
-     },
-     {
-      "type": "heading",
-      "text": "Cómo construirlo en cuatro pasos"
-     },
-     {
-      "type": "paragraph",
-      "text": "Empiece por enumerar las fechas importantes de su año: lanzamientos, eventos, periodos de mucha actividad. Defina después de tres a cinco grandes temas, por ejemplo sus consejos, sus proyectos realizados, su equipo y sus ofertas."
-     },
-     {
-      "type": "paragraph",
-      "text": "Elija un ritmo realista que pueda mantener en el tiempo, en lugar de un objetivo ambicioso abandonado al cabo de un mes. Por último, reparta sus temas semana a semana y asigne cada contenido a una persona responsable."
-     },
-     {
-      "type": "heading",
-      "text": "Mantener la flexibilidad"
-     },
-     {
-      "type": "paragraph",
-      "text": "Un calendario editorial no es rígido. Deje espacio para reaccionar a la actualidad y haga balance cada mes: ¿qué temas han interesado a su público y cuáles conviene abandonar o profundizar?"
-     },
-     {
-      "type": "paragraph",
-      "text": "¿Necesita ayuda para crear su primer calendario editorial? Hablemos: SIDEKOM le ayuda a definir sus temas y su ritmo de publicación."
-     }
-    ]
-   },
-   "pt": {
-    "title": "Porque é que a sua empresa precisa de um calendário editorial",
-    "excerpt": "Publicar à última hora, esquecer uma data importante, ficar sem ideias… Um calendário editorial resolve estes problemas. Saiba porquê e como o pôr em prática.",
-    "content": [
-     {
-      "type": "paragraph",
-      "text": "Muitas empresas publicam ao sabor da inspiração. Resultado: semanas muito ativas e depois nada. Um calendário editorial permite passar de uma comunicação improvisada para uma comunicação organizada."
-     },
-     {
-      "type": "heading",
-      "text": "O que é um calendário editorial?"
-     },
-     {
-      "type": "paragraph",
-      "text": "É um planeamento que indica, para cada período, os temas a abordar, os formatos, os canais de divulgação e as datas de publicação. Para começar, basta uma simples folha de cálculo partilhada."
-     },
-     {
-      "type": "heading",
-      "text": "O que muda para a sua empresa"
-     },
-     {
-      "type": "list",
-      "items": [
-       "Regularidade: o seu público sabe quando o encontrar",
-       "Coerência: as suas mensagens seguem as suas prioridades comerciais",
-       "Tempo ganho: os conteúdos são preparados com antecedência, não à pressa",
-       "Melhor antecipação dos momentos fortes: festas, feiras, lançamentos, estações",
-       "Trabalho de equipa mais simples: todos sabem o que está previsto e quem é responsável"
-      ]
-     },
-     {
-      "type": "heading",
-      "text": "Como o construir em quatro etapas"
-     },
-     {
-      "type": "paragraph",
-      "text": "Comece por listar as datas importantes do seu ano: lançamentos, eventos, períodos de grande atividade. Defina depois três a cinco grandes temas, por exemplo os seus conselhos, os seus projetos, a sua equipa e as suas ofertas."
-     },
-     {
-      "type": "paragraph",
-      "text": "Escolha um ritmo realista que consiga manter ao longo do tempo, em vez de um objetivo ambicioso abandonado ao fim de um mês. Por fim, distribua os seus temas semana a semana e atribua cada conteúdo a uma pessoa responsável."
-     },
-     {
-      "type": "heading",
-      "text": "Manter a flexibilidade"
-     },
-     {
-      "type": "paragraph",
-      "text": "Um calendário editorial não é rígido. Deixe espaço para reagir à atualidade e faça o balanço todos os meses: que temas interessaram ao seu público e quais deve abandonar ou aprofundar?"
-     },
-     {
-      "type": "paragraph",
-      "text": "Precisa de ajuda para criar o seu primeiro calendário editorial? Falemos: a SIDEKOM ajuda-o a definir os seus temas e o seu ritmo de publicação."
-     }
-    ]
-   },
-   "ar": {
-    "title": "لماذا تحتاج شركتك إلى تقويم تحريري",
-    "excerpt": "النشر في اللحظة الأخيرة، ونسيان موعد مهم، ونفاد الأفكار… التقويم التحريري يحل هذه المشكلات. إليك السبب وطريقة إعداده.",
-    "content": [
-     {
-      "type": "paragraph",
-      "text": "تنشر شركات كثيرة حسب ما يخطر لها. والنتيجة: أسابيع مليئة بالنشاط ثم لا شيء. يتيح لك التقويم التحريري الانتقال من تواصل مرتجل إلى تواصل منظم."
-     },
-     {
-      "type": "heading",
-      "text": "ما هو التقويم التحريري؟"
-     },
-     {
-      "type": "paragraph",
-      "text": "هو جدول يحدد لكل فترة المواضيع التي ستتناولها، والأشكال، وقنوات النشر، ومواعيد النشر. يكفي جدول بسيط مشترك للبدء."
-     },
-     {
-      "type": "heading",
-      "text": "ما الذي يغيّره لشركتك"
-     },
-     {
-      "type": "list",
-      "items": [
-       "الانتظام: يعرف جمهورك متى يجدك",
-       "الاتساق: تتبع رسائلك أولوياتك التجارية",
-       "توفير الوقت: يُحضَّر المحتوى مسبقًا وليس على عجل",
-       "استعداد أفضل للمناسبات المهمة: الأعياد والمعارض وعمليات الإطلاق والمواسم",
-       "عمل جماعي أسهل: يعرف الجميع ما هو مخطط له ومن المسؤول عنه"
-      ]
-     },
-     {
-      "type": "heading",
-      "text": "كيف تبنيه في أربع خطوات"
-     },
-     {
-      "type": "paragraph",
-      "text": "ابدأ بسرد التواريخ المهمة في سنتك: عمليات الإطلاق والفعاليات وفترات النشاط المكثف. ثم حدّد من ثلاثة إلى خمسة محاور رئيسية، مثل نصائحك وإنجازاتك وفريقك وعروضك."
-     },
-     {
-      "type": "paragraph",
-      "text": "اختر وتيرة واقعية يمكنك الحفاظ عليها على المدى الطويل، بدلًا من هدف طموح تتخلى عنه بعد شهر. وأخيرًا، وزّع مواضيعك أسبوعًا بعد أسبوع وأسند كل محتوى إلى شخص مسؤول."
-     },
-     {
-      "type": "heading",
-      "text": "الحفاظ على المرونة"
-     },
-     {
-      "type": "paragraph",
-      "text": "التقويم التحريري ليس جامدًا. اترك مجالًا للتفاعل مع المستجدات، وراجعه كل شهر: ما المواضيع التي أثارت اهتمام جمهورك، وما التي ينبغي التخلي عنها أو التعمق فيها؟"
-     },
-     {
-      "type": "paragraph",
-      "text": "هل تحتاج إلى مساعدة لإعداد أول تقويم تحريري لك؟ لنتحدث: تساعدك SIDEKOM على تحديد محاورك ووتيرة نشرك."
-     }
-    ]
-   }
-  }
- },
- {
-  "slug": "how-long-does-seo-take-to-work",
-  "date": "2026-11-02",
-  "category": "seo",
-  "image": "",
-  "translations": {
-   "en": {
-    "title": "How long does SEO take to work? A realistic timeline",
-    "excerpt": "SEO doesn't deliver overnight. Here is a realistic month-by-month timeline of when to expect traffic, rankings and leads from search engine optimization.",
-    "content": [
-     {
-      "type": "paragraph",
-      "text": "\"How long does SEO take to work?\" is the question almost every business owner asks before investing in search engine optimization - and it is a fair one. Nobody wants to pay for months without knowing what to expect. The honest answer: most websites see meaningful results in 4 to 12 months, with the first positive signals often appearing within 2 to 3 months. That range depends on your starting point, your competition and the quality of the work. Here is what actually happens, month by month."
-     },
-     {
-      "type": "heading",
-      "text": "SEO is a compounding investment, not a switch"
-     },
-     {
-      "type": "paragraph",
-      "text": "Search engines do not rank your site because you want them to. They rank it because, over time, it proves itself: technically sound, useful to visitors and trusted by other websites. Each improvement - faster pages, clearer titles, better content, credible links - adds a little weight to your site's authority. That weight compounds. Early on, the gains feel invisible. Then they accelerate. This is why stopping SEO after two months is the most expensive mistake you can make: you pay for the foundations and quit before the compounding kicks in."
-     },
-     {
-      "type": "heading",
-      "text": "Months 1-3: foundations and first signals"
-     },
-     {
-      "type": "paragraph",
-      "text": "The first months are mostly invisible work: a technical audit, fixing broken pages and slow loading times, writing proper titles and descriptions, and setting up search tracking. You will not reach page one in week six. What you will see: search engines crawling your site more often, a few long-tail keywords entering the top 100, and impressions rising in Google Search Console. If your site is brand new, this phase can feel quiet - that is normal."
-     },
-     {
-      "type": "heading",
-      "text": "Months 4-6: momentum builds"
-     },
-     {
-      "type": "paragraph",
-      "text": "This is when consistent work starts to show. Pages begin ranking for their target keywords, the organic traffic curve bends upward, and the first enquiries or sales from search trickle in. Businesses in niches with weak competition can see strong results by month six. In competitive markets, this is still ramp-up time: you are climbing, just not at the summit yet."
-     },
-     {
-      "type": "heading",
-      "text": "Months 6-12: results start to compound"
-     },
-     {
-      "type": "paragraph",
-      "text": "By now, your early content has aged and earned links, more pages are working for you, and search engines trust you more. Traffic growth often accelerates in this window. This is also when SEO starts to beat paid ads on cost per lead: you are no longer paying for every click. Many businesses discover that their best-performing content was published six months ago. Patience literally pays."
-     },
-     {
-      "type": "heading",
-      "text": "What speeds SEO up - and what slows it down"
-     },
-     {
-      "type": "paragraph",
-      "text": "Several factors move the timeline. A fast, mobile-friendly site ranks faster than a slow one. Publishing genuinely helpful content regularly beats publishing once a quarter. An existing domain with real authority gives you a head start. And local businesses targeting one city usually rank faster than national ones. What slows everything down: technical errors left unfixed, thin content written for robots instead of people, spammy link schemes that can earn you a penalty, and - most common of all - changing strategy every few weeks before anything has time to work."
-     },
-     {
-      "type": "heading",
-      "text": "How to know it is working before the traffic arrives"
-     },
-     {
-      "type": "paragraph",
-      "text": "Traffic is a lagging indicator. Watch the leading ones instead: impressions and average position in Google Search Console, the number of keywords you rank for, the number of pages getting indexed, and your site's loading speed. If those numbers improve month after month, the traffic is on its way. And always ask your SEO provider for these numbers - anyone who answers \"just trust me\" is a red flag."
-     },
-     {
-      "type": "paragraph",
-      "text": [
-       {
-        "text": "Want an honest read of where your site stands today - and a realistic timeline for your market? Tell us about your project on "
-       },
-       {
-        "text": "our contact page",
-        "href": "/contact.html"
-       },
-       {
-        "text": ": we will look at your site and tell you plainly what SEO can do for your business, and how long it should take."
-       }
-      ]
-     }
-    ]
-   },
-   "fr": {
-    "title": "SEO : en combien de temps obtiendrez-vous des résultats ?",
-    "excerpt": "Le SEO ne produit pas de résultats du jour au lendemain. Voici un calendrier mois par mois du trafic, des classements et des prospects à attendre.",
-    "content": [
-     {
-      "type": "paragraph",
-      "text": "\"En combien de temps le SEO donne-t-il des résultats ?\" C'est la question que presque tous les chefs d'entreprise posent avant d'investir dans le référencement naturel - et elle est légitime. Personne ne veut payer pendant des mois sans savoir à quoi s'attendre. La réponse honnête : la plupart des sites obtiennent des résultats significatifs en 4 à 12 mois, avec les premiers signaux positifs souvent dès les 2 à 3 premiers mois. Cette fourchette dépend de votre point de départ, de votre concurrence et de la qualité du travail. Voici ce qui se passe réellement, mois par mois."
-     },
-     {
-      "type": "heading",
-      "text": "Le SEO est un investissement à intérêts composés, pas un interrupteur"
-     },
-     {
-      "type": "paragraph",
-      "text": "Les moteurs de recherche ne classent pas votre site parce que vous le voulez. Ils le classent parce qu'au fil du temps, il fait ses preuves : techniquement sain, utile aux visiteurs et recommandé par d'autres sites. Chaque amélioration - pages plus rapides, titres plus clairs, contenus de meilleure qualité, liens crédibles - ajoute du poids à l'autorité de votre site. Ce poids s'accumule. Au début, les gains semblent invisibles. Puis ils s'accélèrent. C'est pourquoi arrêter le SEO après deux mois est l'erreur la plus coûteuse : vous payez les fondations et vous abandonnez avant que l'effet cumulé ne se déclenche."
-     },
-     {
-      "type": "heading",
-      "text": "Mois 1 à 3 : les fondations et les premiers signaux"
-     },
-     {
-      "type": "paragraph",
-      "text": "Les premiers mois sont un travail surtout invisible : audit technique, correction des pages cassées et des temps de chargement, rédaction de titres et de descriptions adaptés, mise en place du suivi des recherches. Vous ne serez pas en première page à la sixième semaine. Ce que vous verrez : les moteurs de recherche explorent votre site plus souvent, quelques mots-clés de longue traîne entrent dans le top 100, et les impressions augmentent dans Google Search Console. Si votre site est tout nouveau, cette phase peut sembler silencieuse - c'est normal."
-     },
-     {
-      "type": "heading",
-      "text": "Mois 4 à 6 : la dynamique s'installe"
-     },
-     {
-      "type": "paragraph",
-      "text": "C'est à ce moment que le travail régulier commence à porter ses fruits. Vos pages se classent sur leurs mots-clés cibles, la courbe du trafic organique s'infléchit vers le haut, et les premières demandes ou ventes issues de la recherche arrivent. Dans les secteurs peu concurrentiels, les résultats peuvent être solides dès le sixième mois. Sur les marchés concurrentiels, c'est encore une phase de montée en puissance : vous grimpez, mais vous n'êtes pas encore au sommet."
-     },
-     {
-      "type": "heading",
-      "text": "Mois 6 à 12 : les résultats se cumulent"
-     },
-     {
-      "type": "paragraph",
-      "text": "À ce stade, vos premiers contenus ont gagné en ancienneté et en liens, davantage de pages travaillent pour vous, et les moteurs de recherche vous accordent plus de confiance. La croissance du trafic s'accélère souvent dans cette période. C'est aussi le moment où le SEO devient plus rentable que la publicité payante en coût par prospect : vous ne payez plus chaque clic. Beaucoup d'entreprises découvrent que leur contenu le plus performant a été publié six mois plus tôt. La patience rapporte, littéralement."
-     },
-     {
-      "type": "heading",
-      "text": "Ce qui accélère le SEO - et ce qui le ralentit"
-     },
-     {
-      "type": "paragraph",
-      "text": "Plusieurs facteurs influencent le calendrier. Un site rapide et adapté au mobile se classe plus vite qu'un site lent. Publier régulièrement du contenu vraiment utile bat la publication trimestrielle. Un domaine existant avec une autorité réelle vous donne une longueur d'avance. Et les entreprises locales qui ciblent une seule ville se classent généralement plus vite que les acteurs nationaux. Ce qui ralentit tout : les erreurs techniques non corrigées, le contenu pauvre écrit pour les robots plutôt que pour les humains, les stratagèmes de liens douteux qui peuvent vous valoir une pénalité, et - le plus fréquent - changer de stratégie toutes les quelques semaines avant que quoi que ce soit ait eu le temps de fonctionner."
-     },
-     {
-      "type": "heading",
-      "text": "Comment savoir que ça marche avant l'arrivée du trafic"
-     },
-     {
-      "type": "paragraph",
-      "text": "Le trafic est un indicateur en retard. Surveillez plutôt les indicateurs avancés : les impressions et la position moyenne dans Google Search Console, le nombre de mots-clés sur lesquels vous êtes classé, le nombre de pages indexées et la vitesse de chargement de votre site. Si ces chiffres progressent mois après mois, le trafic est en route. Et exigez toujours ces chiffres de votre prestataire SEO - celui qui répond \"faites-moi confiance\" est un mauvais signe."
-     },
-     {
-      "type": "paragraph",
-      "text": [
-       {
-        "text": "Vous voulez un avis honnête sur l'état actuel de votre site - et un calendrier réaliste pour votre marché ? Parlez-nous de votre projet sur "
-       },
-       {
-        "text": "notre page de contact",
-        "href": "/contact.html"
-       },
-       {
-        "text": " : nous vous dirons franchement ce que le SEO peut faire pour votre entreprise, et en combien de temps."
-       }
-      ]
-     }
-    ]
-   }
-  }
- },
- {
-  "slug": "fiche-google-entreprise-cameroun",
-  "date": "2026-11-04",
-  "category": "seo",
-  "image": "",
-  "translations": {
-   "fr": {
-    "title": "Fiche Google : pourquoi votre entreprise en a besoin",
-    "excerpt": "Sans fiche Google, votre entreprise est invisible dans les recherches locales. Voici pourquoi elle est indispensable — et comment bien la configurer.",
-    "content": [
-     {
-      "type": "paragraph",
-      "text": "Quand un client à Douala cherche un salon de coiffure, un restaurant ou un plombier, il sort son téléphone et tape sa recherche sur Google. Ce qu'il voit en premier n'est pas un site web : c'est une carte, puis une liste d'entreprises avec leurs notes, leurs horaires, leurs photos et un bouton pour appeler. Si votre entreprise n'a pas de fiche Google Business (l'ancien Google My Business), vous n'existez tout simplement pas dans ce moment décisif — et c'est un concurrent qui récupère l'appel."
-     },
-     {
-      "type": "heading",
-      "text": "Ce que vos clients voient quand vous avez une fiche"
-     },
-     {
-      "type": "paragraph",
-      "text": "Une fiche Google bien remplie, c'est un mini site vitrine gratuit, affiché directement dans les résultats de recherche. Le client y trouve votre adresse exacte avec l'itinéraire, vos horaires d'ouverture, votre numéro de téléphone cliquable, vos photos et les avis laissés par d'autres clients. Il peut même vous poser des questions publiquement. Pour une entreprise sans site web, c'est souvent la seule présence en ligne professionnelle qu'elle possède — et elle suffit largement à décrocher des appels."
-     },
-     {
-      "type": "heading",
-      "text": "Pourquoi c'est encore plus décisif au Cameroun"
-     },
-     {
-      "type": "paragraph",
-      "text": "Au Cameroun, une grande partie des clients découvrent les entreprises uniquement via leur téléphone, et très peu d'entreprises locales ont une fiche complète et à jour. C'est une excellente nouvelle pour vous : la concurrence est faible. Une fiche avec de vraies photos, des horaires exacts et quelques avis positifs vous place immédiatement au-dessus de la plupart de vos concurrents dans les recherches locales. Et tout cela est gratuit — Google ne facture rien pour la fiche elle-même."
-     },
-     {
-      "type": "heading",
-      "text": "Les 5 réglages qui changent tout"
-     },
-     {
-      "type": "paragraph",
-      "text": "Premièrement, utilisez le nom réel de votre entreprise, sans ajouter de mots-clés artificiels comme « meilleur » ou « pas cher » : Google pénalise cette pratique. Deuxièmement, choisissez la bonne catégorie principale — « Restaurant », « Salon de coiffure », « Plombier » — car c'est elle qui détermine pour quelles recherches vous apparaissez. Troisièmement, tenez vos horaires à jour, y compris les jours fériés : rien ne fait fuir un client comme une porte fermée annoncée ouverte. Quatrièmement, ajoutez de vraies photos : la devanture, l'intérieur, l'équipe, vos produits. Les fiches avec photos reçoivent nettement plus de demandes d'itinéraire et d'appels. Cinquièmement, rédigez une description claire avec les mots que vos clients utilisent vraiment."
-     },
-     {
-      "type": "heading",
-      "text": "Créer votre fiche : les étapes à suivre"
-     },
-     {
-      "type": "paragraph",
-      "text": "Rendez-vous sur business.google.com et connectez-vous avec un compte Google au nom de votre entreprise — idéalement une adresse dédiée à l'entreprise plutôt qu'un compte personnel. Ajoutez le nom exact de l'entreprise, choisissez votre catégorie, puis indiquez si les clients viennent dans vos locaux ou si c'est vous qui vous déplacez chez eux. Ajoutez ensuite l'adresse, la zone que vous desservez, le numéro de téléphone et le site web si vous en avez un. Google vérifie alors que l'entreprise existe vraiment : le plus souvent, on vous demande une courte vidéo montrant vos locaux, votre enseigne ou votre matériel. Une fois la vérification passée, votre fiche devient visible dans les résultats. Comptez en général quelques jours entre la création et la validation définitive."
-     },
-     {
-      "type": "heading",
-      "text": "Les avis clients : votre meilleure publicité gratuite"
-     },
-     {
-      "type": "paragraph",
-      "text": "La note en étoiles est souvent ce qui fait choisir entre deux entreprises. Demandez poliment à vos clients satisfaits de laisser un avis — un simple message WhatsApp après une vente suffit, et la plupart acceptent volontiers quand on le leur demande au bon moment. Répondez ensuite à chaque avis, positif comme négatif : un avis négatif bien géré rassure souvent plus qu'une note parfaite sans réponse, car il montre que vous êtes une entreprise sérieuse et à l'écoute. Et surtout, ne cédez jamais à la tentation des faux avis achetés : Google les détecte et peut suspendre votre fiche, ce qui vous fait disparaître des résultats du jour au lendemain."
-     },
-     {
-      "type": "heading",
-      "text": "Vous n'avez pas le temps de vous en occuper ?"
-     },
-     {
-      "type": "paragraph",
-      "text": [
-       {
-        "text": "Créer une fiche Google prend une heure ; la garder à jour en prend quelques minutes par semaine. Si vous préférez confier votre présence en ligne à quelqu'un qui s'en occupe pour vous, écrivez-nous via "
-       },
-       {
-        "text": "notre page contact",
-        "href": "/contact.html"
-       },
-       {
-        "text": " : nous regarderons votre visibilité actuelle et nous vous dirons franchement ce qui manque — et ce que nous pouvons faire pour vous."
-       }
-      ]
-     }
-    ]
-   },
-   "en": {
-    "title": "Why your business needs a Google Business Profile",
-    "excerpt": "Your Google Business Profile is often the first thing customers see when they search. Here is why it matters and how to set it up right.",
-    "content": [
-     {
-      "type": "paragraph",
-      "text": "When a customer in Douala looks for a hair salon, a restaurant or a plumber, they pull out their phone and search on Google. What they see first is not a website: it is a map, then a list of businesses with their ratings, opening hours, photos and a button to call. If your business has no Google Business Profile (formerly Google My Business), you simply do not exist in that decisive moment — and a competitor gets the call instead."
-     },
-     {
-      "type": "heading",
-      "text": "What customers see when you have a profile"
-     },
-     {
-      "type": "paragraph",
-      "text": "A well-filled Google Business Profile is a free mini-website, displayed right inside the search results. Customers find your exact address with directions, your opening hours, a clickable phone number, your photos and reviews left by other customers. They can even ask you questions publicly. For a business with no website, it is often the only professional online presence it has — and it is more than enough to win phone calls."
-     },
-     {
-      "type": "heading",
-      "text": "Why it matters even more in Cameroon"
-     },
-     {
-      "type": "paragraph",
-      "text": "In Cameroon, most customers discover businesses only through their phones, and very few local businesses have a complete, up-to-date profile. That is good news for you: competition is low. A profile with real photos, accurate hours and a few positive reviews immediately puts you ahead of most competitors in local searches. And all of this is free — Google charges nothing for the profile itself."
-     },
-     {
-      "type": "heading",
-      "text": "The 5 settings that make all the difference"
-     },
-     {
-      "type": "paragraph",
-      "text": "First, use your business's real name, without stuffing in artificial keywords like \"best\" or \"cheap\": Google penalises that. Second, pick the right primary category — \"Restaurant\", \"Hair salon\", \"Plumber\" — because it decides which searches you appear for. Third, keep your hours up to date, including public holidays: nothing drives a customer away like a closed door advertised as open. Fourth, add real photos: the storefront, the interior, the team, your products. Profiles with photos get noticeably more direction requests and calls. Fifth, write a clear description using the words your customers actually use."
-     },
-     {
-      "type": "heading",
-      "text": "How to create your profile: step by step"
-     },
-     {
-      "type": "paragraph",
-      "text": "Go to business.google.com and sign in with a Google account in your business's name — ideally a dedicated business address rather than a personal account. Add your exact business name, choose your category, then say whether customers come to your premises or you travel to them. Next, add your address, the area you serve, your phone number and your website if you have one. Google then verifies that the business really exists: most often you will be asked for a short video showing your premises, your sign or your equipment. Once verification passes, your profile becomes visible in results. Allow a few days between creating it and final approval."
-     },
-     {
-      "type": "heading",
-      "text": "Customer reviews: your best free advertising"
-     },
-     {
-      "type": "paragraph",
-      "text": "The star rating is often what decides between two businesses. Politely ask satisfied customers to leave a review — a simple WhatsApp message after a sale is enough, and most are happy to do it when asked at the right moment. Then reply to every review, positive or negative: a well-handled negative review often reassures more than a perfect rating with no replies, because it shows you are a serious, responsive business. And never give in to the temptation of bought fake reviews: Google detects them and can suspend your profile, making you vanish from results overnight."
-     },
-     {
-      "type": "heading",
-      "text": "No time to manage it yourself?"
-     },
-     {
-      "type": "paragraph",
-      "text": [
-       {
-        "text": "Setting up a Google Business Profile takes an hour; keeping it current takes a few minutes a week. If you would rather hand your online presence to someone who looks after it for you, write to us via "
-       },
-       {
-        "text": "our contact page",
-        "href": "/contact.html"
-       },
-       {
-        "text": ": we will look at your current visibility and tell you honestly what is missing — and what we can do for you."
-       }
-      ]
-     }
-    ]
-   }
-  }
- },
- {
-  "slug": "why-small-businesses-lose-customers-without-google-business-profile",
-  "date": "2026-11-06",
-  "category": "seo",
-  "image": "",
-  "translations": {
-   "en": {
-    "title": "No Google Business Profile? You're losing customers",
-    "excerpt": "If your business isn't on Google Business Profile, customers searching nearby are finding your competitors instead. Here's what you're missing.",
-    "content": [
-     {
-      "type": "paragraph",
-      "text": "Picture this: someone in your town needs exactly what you sell. They pull out their phone and search for it. Google shows them a map with three businesses, photos, opening hours, reviews and a button to call. Your business is not among them — not because you are worse, but because you never created a Google Business Profile. That customer calls your competitor. This happens every day, quietly, to small businesses everywhere."
-     },
-     {
-      "type": "heading",
-      "text": "The map pack decides who gets the call"
-     },
-     {
-      "type": "paragraph",
-      "text": "When people search for a service near them — a plumber, a bakery, a hair salon, a repair shop — Google usually answers with a small map and a short list of businesses before any website links. That list is built almost entirely from Google Business Profiles. If you do not have one, you simply cannot appear there. It does not matter how good your website is or how long you have been in business: in that moment, for that customer, you do not exist."
-     },
-     {
-      "type": "paragraph",
-      "text": "Most of these searches come from people ready to buy. They are not researching for next month; they need someone today. The businesses in the map pack get the calls, the visits and the messages. Everyone else waits for word of mouth to do the work — and word of mouth is slow."
-     },
-     {
-      "type": "heading",
-      "text": "A profile is your free shop window on Google"
-     },
-     {
-      "type": "paragraph",
-      "text": "A Google Business Profile costs nothing, and it puts the essentials of your business right where people are already looking: your address and a map pin, your phone number, your opening hours, photos of your work, the services you offer, and a link to your website or WhatsApp. For many customers, this is the first — and sometimes the only — impression they get of you. A complete profile answers their questions before they even ask: are you open now, where exactly are you, and can I reach you?"
-     },
-     {
-      "type": "paragraph",
-      "text": "It also works while you sleep. Someone searching at 9pm can see your hours, read your reviews and decide to visit tomorrow morning. Without a profile, that same person finds your competitor instead and never learns your name."
-     },
-     {
-      "type": "heading",
-      "text": "No profile looks like no business"
-     },
-     {
-      "type": "paragraph",
-      "text": "Customers judge what they cannot verify. A business with no presence on Google raises quiet doubts: is it still open? Is it real? Can I trust it with my money? Meanwhile, a competitor with a filled-out profile, recent photos and a handful of honest reviews looks established and reliable — even if your work is better. In a side-by-side comparison, the business that looks easier to check wins, because people choose the option that feels safest."
-     },
-     {
-      "type": "paragraph",
-      "text": "This is especially true for new customers who have never heard of you. Your regulars already know where to find you. The strangers searching today do not, and they will not dig for you when three alternatives are one tap away."
-     },
-     {
-      "type": "heading",
-      "text": "Reviews are the new word of mouth"
-     },
-     {
-      "type": "paragraph",
-      "text": "A Google Business Profile is also where your customers leave reviews — and where future customers read them before deciding. A few genuine, positive reviews do more for a small business than almost any advert, because they come from real people, not from you. And when you reply to reviews, politely and promptly, you show every future reader that you care about your customers, including the unhappy ones."
-     },
-     {
-      "type": "paragraph",
-      "text": "You cannot collect Google reviews without a profile. Every month without one is a month of happy customers whose praise never reaches the people searching for you."
-     },
-     {
-      "type": "heading",
-      "text": "What a complete profile needs"
-     },
-     {
-      "type": "list",
-      "items": [
-       "Your exact business name, address and phone number — matching everywhere else they appear online.",
-       "Correct opening hours, including holidays and special hours, so nobody arrives at a closed door.",
-       "Real photos: your premises, your team, your products or your work — not stock images.",
-       "A clear list of your services or products, written the way customers actually search for them.",
-       "Regular short posts: a new offer, a finished job, a seasonal reminder. It signals that you are active.",
-       "Answers to the questions people ask, and replies to every review, good or bad."
-      ]
-     },
-     {
-      "type": "heading",
-      "text": "It takes an afternoon, not a budget"
-     },
-     {
-      "type": "paragraph",
-      "text": "Setting up a profile is straightforward: create it, verify your business — usually by postcard, phone or email — fill in every field honestly, add good photos, and ask your first happy customers for a review. The verification step takes a few days, so the sooner you start, the sooner you appear. After that, keeping it alive takes minutes a week: one post, one reply, one updated hour."
-     },
-     {
-      "type": "paragraph",
-      "text": "A Google Business Profile will not fix a bad business, and it is not a replacement for a good website or real marketing. But it is the cheapest, fastest way to stop losing customers who are already looking for you. If people in your area are searching for what you do, the only question is whether they find you — or the business next door."
-     },
-     {
-      "type": "paragraph",
-      "text": [
-       {
-        "text": "Not sure your business is showing up the way it should on Google? Tell us about your business on "
-       },
-       {
-        "text": "our contact page",
-        "href": "/contact.html"
-       },
-       {
-        "text": " and we will take a look at your online presence and tell you plainly what is missing — starting with your Google profile."
-       }
-      ]
-     }
-    ]
-   },
-   "fr": {
-    "title": "Pas de fiche Google ? Vous perdez des clients",
-    "excerpt": "Si votre entreprise n'apparaît pas sur Google, les clients qui cherchent près de chez eux trouvent vos concurrents. Voici ce que vous perdez.",
-    "content": [
-     {
-      "type": "paragraph",
-      "text": "Imaginez : quelqu'un dans votre ville a besoin exactement de ce que vous vendez. Il sort son téléphone et cherche. Google lui montre une carte avec trois entreprises, photos, horaires, avis et un bouton pour appeler. Votre entreprise n'y figure pas — non pas parce que vous êtes moins bon, mais parce que vous n'avez jamais créé de fiche Google. Ce client appelle votre concurrent. Cela arrive tous les jours, discrètement, aux petites entreprises partout dans le monde."
-     },
-     {
-      "type": "heading",
-      "text": "La carte Google décide qui reçoit l'appel"
-     },
-     {
-      "type": "paragraph",
-      "text": "Quand les gens cherchent un service près de chez eux — un plombier, une boulangerie, un salon de coiffure, un réparateur — Google répond généralement avec une petite carte et une courte liste d'entreprises, avant même les liens vers les sites web. Cette liste est construite presque entièrement à partir des fiches Google. Si vous n'en avez pas, vous ne pouvez tout simplement pas y apparaître. Peu importe la qualité de votre site web ou votre ancienneté : à ce moment-là, pour ce client, vous n'existez pas."
-     },
-     {
-      "type": "paragraph",
-      "text": "La plupart de ces recherches viennent de personnes prêtes à acheter, qui ont besoin de quelqu'un aujourd'hui, pas le mois prochain. Les entreprises présentes sur la carte reçoivent les appels, les visites et les messages. Les autres attendent que le bouche-à-oreille fasse le travail — et le bouche-à-oreille est lent."
-     },
-     {
-      "type": "heading",
-      "text": "Une fiche, c'est votre vitrine gratuite sur Google"
-     },
-     {
-      "type": "paragraph",
-      "text": "Une fiche Google ne coûte rien, et elle place l'essentiel de votre entreprise là où les gens cherchent déjà : votre adresse et un repère sur la carte, votre numéro de téléphone, vos horaires d'ouverture, des photos de votre travail, les services que vous proposez, et un lien vers votre site web ou WhatsApp. Pour beaucoup de clients, c'est la première impression qu'ils ont de vous. Une fiche complète répond à leurs questions avant même qu'ils les posent : êtes-vous ouvert maintenant, où êtes-vous exactement, et puis-je vous joindre ?"
-     },
-     {
-      "type": "paragraph",
-      "text": "Elle travaille aussi pendant que vous dormez : quelqu'un qui cherche à 21h peut voir vos horaires, lire vos avis et décider de venir demain matin. Sans fiche, cette même personne trouve votre concurrent et n'apprend jamais votre nom."
-     },
-     {
-      "type": "heading",
-      "text": "Pas de fiche, c'est comme pas d'entreprise"
-     },
-     {
-      "type": "paragraph",
-      "text": "Les clients se méfient de ce qu'ils ne peuvent pas vérifier. Une entreprise absente de Google suscite des doutes silencieux : est-elle toujours ouverte ? Est-elle réelle ? Puis-je lui confier mon argent ? Pendant ce temps, un concurrent avec une fiche bien remplie, des photos récentes et quelques avis honnêtes paraît établi et fiable — même si votre travail est meilleur. Dans une comparaison directe, l'entreprise qui semble la plus facile à vérifier l'emporte, parce que les gens choisissent l'option qui leur semble la plus sûre."
-     },
-     {
-      "type": "paragraph",
-      "text": "C'est particulièrement vrai pour les nouveaux clients. Vos habitués savent déjà où vous trouver. Les inconnus qui cherchent aujourd'hui ne le savent pas, et ils ne vont pas vous chercher longtemps quand trois alternatives sont à un clic."
-     },
-     {
-      "type": "heading",
-      "text": "Les avis sont le nouveau bouche-à-oreille"
-     },
-     {
-      "type": "paragraph",
-      "text": "Une fiche Google est aussi l'endroit où vos clients laissent des avis — et où les futurs clients les lisent avant de décider. Quelques avis positifs et authentiques font plus pour une petite entreprise que presque n'importe quelle publicité, parce qu'ils viennent de vraies personnes, pas de vous. Et quand vous répondez aux avis, poliment et rapidement, vous montrez à chaque futur lecteur que vous vous souciez de vos clients, y compris des mécontents."
-     },
-     {
-      "type": "paragraph",
-      "text": "Sans fiche, pas d'avis Google. Chaque mois sans fiche est un mois de clients satisfaits dont les éloges n'atteignent jamais ceux qui vous cherchent."
-     },
-     {
-      "type": "heading",
-      "text": "Ce qu'une fiche complète doit contenir"
-     },
-     {
-      "type": "list",
-      "items": [
-       "Le nom exact de votre entreprise, votre adresse et votre numéro de téléphone — identiques partout où ils apparaissent en ligne.",
-       "Des horaires d'ouverture corrects, y compris les jours fériés et les horaires spéciaux, pour que personne n'arrive devant une porte fermée.",
-       "De vraies photos : vos locaux, votre équipe, vos produits ou votre travail — pas des images de banque d'images.",
-       "Une liste claire de vos services ou produits, rédigée comme les clients les recherchent réellement.",
-       "Des publications courtes et régulières : une nouvelle offre, un travail terminé, un rappel saisonnier. Cela montre que vous êtes actif.",
-       "Des réponses aux questions que les gens posent, et une réponse à chaque avis, bon ou mauvais."
-      ]
-     },
-     {
-      "type": "heading",
-      "text": "Cela prend un après-midi, pas un budget"
-     },
-     {
-      "type": "paragraph",
-      "text": "Créer une fiche est simple : vérifiez votre entreprise — par courrier, téléphone ou e-mail — remplissez chaque champ honnêtement, ajoutez de bonnes photos, et demandez à vos premiers clients satisfaits un avis. L'étape de vérification prend quelques jours, donc plus vous commencez tôt, plus vite vous apparaissez. Ensuite, la maintenir en vie prend quelques minutes par semaine : une publication, une réponse, un horaire mis à jour."
-     },
-     {
-      "type": "paragraph",
-      "text": "Une fiche Google ne sauvera pas une mauvaise entreprise et ne remplace ni un bon site ni un vrai marketing. Mais c'est le moyen le moins cher et le plus rapide d'arrêter de perdre des clients qui vous cherchent déjà. Si les gens de votre région cherchent ce que vous faites, la seule question est de savoir s'ils vous trouvent — ou l'entreprise d'à côté."
-     },
-     {
-      "type": "paragraph",
-      "text": [
-       {
-        "text": "Vous n'êtes pas sûr que votre entreprise s'affiche comme il faut sur Google ? Parlez-nous de votre entreprise sur "
-       },
-       {
-        "text": "notre page de contact",
-        "href": "/contact.html"
-       },
-       {
-        "text": " et nous examinerons votre présence en ligne pour vous dire clairement ce qui manque — en commençant par votre fiche Google."
-       }
-      ]
-     }
-    ]
-   }
-  }
- }
 ]
