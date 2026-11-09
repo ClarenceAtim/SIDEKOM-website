@@ -1724,5 +1724,167 @@
         ]
       }
     }
+  },
+  {
+    "slug": "seo-vs-meta-ads-small-budget",
+    "date": "2026-11-09",
+    "category": "seo",
+    "image": "",
+    "translations": {
+      "en": {
+        "title": "SEO vs Meta ads: where should a small budget go?",
+        "excerpt": "SEO builds traffic that keeps coming; Meta ads buy attention that stops when the budget does. Here is how to decide where a small budget works hardest.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "If you run a small business, the marketing question is rarely “which channel is best?” It is “where does my next dollar work hardest?” SEO and Meta ads — Facebook and Instagram — are the two options most small businesses weigh first, and they work in opposite ways. One is slow and compounding; the other is fast and temporary. The right choice depends less on fashion than on how soon you need customers and how long you can wait."
+          },
+          {
+            "type": "heading",
+            "text": "What SEO actually buys you"
+          },
+          {
+            "type": "paragraph",
+            "text": "SEO — search engine optimisation — is the work of making your business show up when someone searches for what you sell. That means a clear website, pages written around the words customers actually type, a complete Google Business Profile, and other websites linking to yours. The payoff is traffic you do not pay for per click: once a page ranks, it can bring enquiries for months or years with only basic maintenance. The cost is time. A new website typically takes three to six months before organic search becomes a reliable source of customers, and results depend on how competitive your market is. SEO also has no off switch you control: rankings rise and fall with Google’s updates and your competitors’ efforts."
+          },
+          {
+            "type": "heading",
+            "text": "What Meta ads actually buy you"
+          },
+          {
+            "type": "paragraph",
+            "text": "Meta ads put your offer in front of people who match an audience you define — by location, age, interests or behaviour — whether or not they were searching for you. That makes them fast: a campaign can start bringing messages, calls or orders the same day it launches. They are also precise and testable. You can run two versions of an ad on a small budget, see which one people respond to, and put the rest behind the winner. The catch is that the traffic stops the moment you stop paying. There is no asset left behind. And costs rise as more advertisers compete for the same audience, so an ad that worked last year can quietly become expensive this year."
+          },
+          {
+            "type": "heading",
+            "text": "The honest trade-off"
+          },
+          {
+            "type": "paragraph",
+            "text": "SEO is an investment: slow to start, but it builds an asset that keeps working. Meta ads are rent: immediate and flexible, but gone when the money stops. Neither is free — SEO costs time and expertise, ads cost money per result — and neither works well on its own if the basics are missing. An ad that sends people to a slow, confusing website wastes the click. A well-optimised page that nobody links to or visits still sits invisible. The real question is not which one wins, but which one your business needs first."
+          },
+          {
+            "type": "list",
+            "items": [
+              "Choose SEO first if you can wait a few months, want enquiries that do not depend on ad spend, and sell something people actively search for.",
+              "Choose Meta ads first if you need customers this month, have a specific offer or season to promote, or sell something people discover rather than search for.",
+              "Choose both, in a split, if you can afford a small test budget for ads while your SEO work builds in the background."
+            ]
+          },
+          {
+            "type": "heading",
+            "text": "How to split a small budget"
+          },
+          {
+            "type": "paragraph",
+            "text": "With a small budget, most small businesses do best with a split, not a bet on one channel. A practical starting point: put the larger share into the channel that matches your urgency, and keep a smaller share testing the other. If you need customers this month — a new shop, a seasonal offer, an empty diary — start with Meta ads, and use what you learn about which messages and audiences respond to shape your website content. If you can wait and want enquiries that do not depend on ad spend, start with SEO: fix your website, claim and complete your Google Business Profile, and publish pages that answer the questions your customers actually ask. Review the split every month. If ads bring sales at a cost you can afford, keep them running. If search starts bringing enquiries, shift more effort there."
+          },
+          {
+            "type": "heading",
+            "text": "What to do first — whichever you choose"
+          },
+          {
+            "type": "paragraph",
+            "text": "Before spending on either channel, fix the foundations, because both punish the same weaknesses: a website that loads slowly or looks broken on a phone, no clear way to contact you, and no Google Business Profile. These cost little or nothing to fix, and they make every dollar spent on ads or SEO work harder. Then track one number that matters — enquiries, calls or orders — not likes or clicks. The channel that produces real customers at a cost you can sustain is the right one for your business right now."
+          },
+          {
+            "type": "paragraph",
+            "text": "There is no universal answer to SEO versus Meta ads, only the answer that fits your timing, your market and your budget. The businesses that waste money are the ones that pick a channel because someone told them to, then never measure what it returned. Start small, measure honestly, and let the results — not the hype — decide where the next part of your budget goes."
+          },
+          {
+            "type": "paragraph",
+            "text": [
+              {
+                "text": "Not sure whether SEO or ads fit your business better? Tell us about your business on "
+              },
+              {
+                "text": "our contact page",
+                "href": "/contact.html"
+              },
+              {
+                "text": " and we will look at your online presence and give you a plain, honest recommendation — no jargon, no pressure."
+              }
+            ]
+          }
+        ]
+      },
+      "fr": {
+        "title": "SEO ou publicités Meta : où investir un petit budget ?",
+        "excerpt": "Le SEO construit un trafic durable ; les publicités Meta achètent une attention qui s’arrête avec le budget. Voici comment choisir.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Quand on dirige une petite entreprise, la vraie question n’est pas « quel canal est le meilleur ? », mais « où mon prochain euro travaille-t-il le plus ? » Le SEO et les publicités Meta — Facebook et Instagram — sont les deux options comparées en premier, et elles fonctionnent à l’opposé. L’une est lente et cumulative ; l’autre est rapide et temporaire. Le bon choix dépend du délai dans lequel vous avez besoin de clients."
+          },
+          {
+            "type": "heading",
+            "text": "Ce que le SEO vous apporte vraiment"
+          },
+          {
+            "type": "paragraph",
+            "text": "Le SEO — référencement naturel — consiste à faire apparaître votre entreprise quand quelqu’un recherche ce que vous vendez : un site clair, des pages rédigées autour des mots tapés par vos clients, une fiche Google complète et des liens d’autres sites. Le bénéfice : un trafic que vous ne payez pas au clic. Une fois bien classée, une page peut apporter des demandes pendant des mois, avec un simple entretien. Le coût, c’est le temps : un nouveau site met généralement trois à six mois avant que la recherche organique devienne fiable, selon la concurrence. Et le SEO n’a pas d’interrupteur : les positions fluctuent avec les mises à jour de Google et les efforts de vos concurrents."
+          },
+          {
+            "type": "heading",
+            "text": "Ce que les publicités Meta vous apportent vraiment"
+          },
+          {
+            "type": "paragraph",
+            "text": "Les publicités Meta placent votre offre devant une audience que vous définissez — lieu, âge, centres d’intérêt, comportement — même si ces personnes ne vous cherchaient pas. Résultat : une campagne peut apporter messages, appels ou commandes dès son premier jour. Elles sont précises et testables : diffusez deux versions avec un petit budget, puis misez le reste sur la gagnante. Le revers, c’est que le trafic s’arrête dès que vous cessez de payer, sans laisser d’actif derrière. Et les coûts augmentent à mesure que les annonceurs se disputent la même audience : une publicité efficace l’an dernier peut devenir coûteuse cette année."
+          },
+          {
+            "type": "heading",
+            "text": "Le vrai arbitrage"
+          },
+          {
+            "type": "paragraph",
+            "text": "Le SEO est un investissement : lent à démarrer, mais il construit un actif qui continue de travailler. Les publicités Meta sont un loyer : immédiates et flexibles, mais elles disparaissent quand l’argent s’arrête. Aucun des deux n’est gratuit — le SEO coûte du temps et de l’expertise, les publicités coûtent de l’argent par résultat — et aucun des deux ne fonctionne bien seul si les bases manquent. Une publicité qui envoie les gens vers un site lent et confus gaspille le clic, et une page bien optimisée que personne ne visite reste invisible. La vraie question n’est pas de savoir lequel gagne, mais lequel votre entreprise doit privilégier en premier."
+          },
+          {
+            "type": "list",
+            "items": [
+              "Choisissez le SEO en premier si vous pouvez attendre quelques mois et si vous vendez quelque chose que les gens recherchent activement.",
+              "Choisissez les publicités Meta en premier si vous avez besoin de clients ce mois-ci, ou si vous vendez quelque chose que les gens découvrent plutôt qu’ils ne recherchent.",
+              "Choisissez les deux si vous pouvez tester les publicités pendant que votre SEO se construit en arrière-plan."
+            ]
+          },
+          {
+            "type": "heading",
+            "text": "Comment répartir un petit budget"
+          },
+          {
+            "type": "paragraph",
+            "text": "Avec un petit budget, mieux vaut répartir que parier sur un seul canal. Mettez la plus grande part dans le canal qui correspond à votre urgence, et gardez une plus petite part pour tester l’autre. Besoin de clients ce mois-ci — boutique qui ouvre, offre saisonnière, agenda vide ? Commencez par les publicités Meta, et servez-vous de ce que vous apprenez sur les messages et les audiences pour améliorer votre site. Si vous pouvez attendre et que vous voulez des demandes indépendantes des dépenses publicitaires, commencez par le SEO : corrigez votre site, complétez votre fiche Google Business Profile, et publiez des pages qui répondent aux questions de vos clients. Revoyez la répartition chaque mois : si les publicités apportent des ventes à un coût acceptable, continuez ; si la recherche apporte des demandes, déplacez davantage d’efforts vers elle."
+          },
+          {
+            "type": "heading",
+            "text": "Ce qu’il faut faire d’abord — quel que soit votre choix"
+          },
+          {
+            "type": "paragraph",
+            "text": "Avant de dépenser sur l’un ou l’autre canal, corrigez les fondations, car les deux sanctionnent les mêmes faiblesses : un site qui charge lentement ou qui s’affiche mal sur téléphone, aucun moyen clair de vous contacter, et pas de fiche Google Business Profile. Ces corrections coûtent peu ou rien, et elles rendent chaque euro dépensé plus efficace. Suivez ensuite un seul chiffre qui compte — les demandes, les appels ou les commandes — et non les mentions « j’aime » ou les clics. Le canal qui produit de vrais clients à un coût soutenable est le bon pour votre entreprise, ici et maintenant."
+          },
+          {
+            "type": "paragraph",
+            "text": "Il n’y a pas de réponse universelle à la question du SEO contre les publicités Meta, seulement la réponse qui convient à votre calendrier, à votre marché et à votre budget. Les entreprises qui gaspillent de l’argent choisissent un canal parce qu’on le leur a conseillé, puis ne mesurent jamais ce qu’il leur a rapporté. Commencez petit, mesurez honnêtement, et laissez les résultats — pas le battage médiatique — décider où ira la prochaine partie de votre budget."
+          },
+          {
+            "type": "paragraph",
+            "text": [
+              {
+                "text": "Vous ne savez pas si le SEO ou les publicités conviennent mieux à votre entreprise ? Parlez-nous de votre activité sur "
+              },
+              {
+                "text": "notre page de contact",
+                "href": "/contact.html"
+              },
+              {
+                "text": " et nous examinerons votre présence en ligne pour vous donner une recommandation simple et honnête — sans jargon, sans pression."
+              }
+            ]
+          }
+        ]
+      }
+    }
   }
 ]
