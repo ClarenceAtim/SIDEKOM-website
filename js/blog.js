@@ -1,8 +1,8 @@
 // Blog cards: the list on blog.html (with category filter) and "Latest articles" on the home page.
 
-import { getLanguage, translate } from "./translator.js?v=0dce298e";
-import { categories, formatDate, loadPosts, localize, postUrl } from "./blog-data.js?v=0dce298e";
-import { whenNear } from "./scroll-effects.js?v=0dce298e";
+import { getLanguage, translate } from "./translator.js?v=8d60b6a2";
+import { categories, formatDate, loadPosts, localize, postUrl } from "./blog-data.js?v=8d60b6a2";
+import { whenNear } from "./scroll-effects.js?v=8d60b6a2";
 
 const categoryIcons = {
   "community-management": "users",
