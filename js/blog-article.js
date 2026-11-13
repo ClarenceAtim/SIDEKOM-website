@@ -1,8 +1,8 @@
 // Article page: /article.html?slug=<slug> shows one blog post in the visitor's language.
 
-import { getLanguage, translate } from "./translator.js?v=0dce298e";
-import { findPost, localize } from "./blog-data.js?v=0dce298e";
-import { el, postMeta, textLanguage } from "./blog.js?v=0dce298e";
+import { getLanguage, translate } from "./translator.js?v=8d60b6a2";
+import { findPost, localize } from "./blog-data.js?v=8d60b6a2";
+import { el, postMeta, textLanguage } from "./blog.js?v=8d60b6a2";
 
 function setMeta(selector, value) {
   const tag = document.querySelector(selector);

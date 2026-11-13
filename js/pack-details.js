@@ -1,7 +1,7 @@
 // Packs page: /packs.html?pack=growth shows only that pack. Without ?pack= (or with an unknown value)
 // all packs are compared; on small screens css/packs.css turns them into short cards.
 
-import { translate } from "./translator.js?v=0dce298e";
+import { translate } from "./translator.js?v=8d60b6a2";
 
 export function setupPackDetails() {
   const list = document.querySelector("[data-pack-list]");
