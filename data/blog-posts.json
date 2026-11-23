@@ -3060,5 +3060,143 @@
         ]
       }
     }
+  },
+  {
+    "slug": "5-signs-your-website-is-losing-you-customers",
+    "date": "2026-11-23",
+    "category": "web",
+    "image": "",
+    "translations": {
+      "en": {
+        "title": "5 Signs Your Website Is Losing You Customers",
+        "excerpt": "A slow site, a confusing homepage, or no way to contact you — five warning signs your website is quietly sending customers to your competitors.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Your website works around the clock: it greets visitors while you sleep, answers their questions, and either convinces them to get in touch or quietly sends them to a competitor. Most business owners only notice a problem when the phone stops ringing — but the warning signs are usually visible much earlier. If any of the five signs below sound familiar, your website may be costing you customers every single day."
+          },
+          {
+            "type": "heading",
+            "text": "1. It takes too long to load"
+          },
+          {
+            "type": "paragraph",
+            "text": "People decide in seconds. If your homepage takes more than three or four seconds to appear, a large share of visitors will leave before they ever see what you offer — and many will not come back. Slow loading is often caused by oversized photos, outdated plugins, or cheap hosting, and it hurts twice: visitors leave, and Google ranks slow sites lower. Test your site on a phone with a normal mobile connection, not just on your office Wi-Fi. If you would not wait for it yourself, your customers will not either."
+          },
+          {
+            "type": "heading",
+            "text": "2. Visitors cannot tell what you do in five seconds"
+          },
+          {
+            "type": "paragraph",
+            "text": "Open your homepage and imagine you have never seen your business before. Within five seconds, can you say what the business offers, who it is for, and what to do next? If the answer is no, the page is doing the opposite of its job. Vague slogans, stock photos, and walls of text about the company push visitors away. Say clearly, in plain words, what you sell and who it helps, and put one clear action — call, message, or get a quote — where nobody can miss it."
+          },
+          {
+            "type": "heading",
+            "text": "3. It looks broken on a phone"
+          },
+          {
+            "type": "paragraph",
+            "text": "Most of your visitors now arrive on a phone, and they judge your business by what they see there. Text that is too small to read, buttons that are hard to tap, images that overflow the screen, or a menu that will not open all send the same message: this business does not pay attention to detail. Worse, Google ranks the mobile version of your site first, so a site that fails on phones also falls in search results. Check every important page on a real phone, not only on a computer screen."
+          },
+          {
+            "type": "heading",
+            "text": "4. There is no easy way to contact you"
+          },
+          {
+            "type": "paragraph",
+            "text": "A visitor who is ready to buy should never have to hunt for your phone number or email address. If your contact details are buried at the bottom of one page, if your contact form returns an error, or if nobody answers the WhatsApp number listed, that customer is gone — and they will rarely tell you why. Put your phone number and WhatsApp button where visitors can see them on every page, test your contact form yourself once a month, and answer new messages the same day. Speed of reply is often what wins the sale."
+          },
+          {
+            "type": "heading",
+            "text": "5. Nothing on the site has changed in months"
+          },
+          {
+            "type": "paragraph",
+            "text": "A website that never changes quietly tells visitors — and Google — that the business has gone quiet too. Old opening hours, last year's prices, a blog that stopped in 2023, or photos of products you no longer sell all damage trust. A customer who spots one outdated detail starts wondering what else is out of date. You do not need to redesign your site every year, but you do need to keep it alive: update your hours, your prices, and your photos, and publish something useful every month or two so visitors — and search engines — can see the business is active."
+          },
+          {
+            "type": "paragraph",
+            "text": [
+              {
+                "text": "If your website shows two or more of these signs, it is not a lost cause — each one is fixable, and fixing them usually costs far less than the customers they are already costing you. Tell us about your business on "
+              },
+              {
+                "text": "our contact page",
+                "href": "/contact.html"
+              },
+              {
+                "text": " and we will look at your site together and tell you what to fix first."
+              }
+            ]
+          }
+        ]
+      },
+      "fr": {
+        "title": "5 signes que votre site web vous fait perdre des clients",
+        "excerpt": "Un site lent, une page d'accueil confuse ou aucun moyen de vous contacter : cinq signes que votre site envoie vos clients chez vos concurrents.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Votre site web travaille jour et nuit : il accueille vos visiteurs pendant que vous dormez, répond à leurs questions et les convainc de vous contacter — ou les envoie discrètement chez un concurrent. La plupart des chefs d'entreprise ne remarquent le problème que lorsque le téléphone cesse de sonner, alors que les signes avant-coureurs sont visibles bien plus tôt. Si l'un des cinq signes ci-dessous vous semble familier, votre site web vous fait peut-être perdre des clients chaque jour."
+          },
+          {
+            "type": "heading",
+            "text": "1. Il met trop de temps à charger"
+          },
+          {
+            "type": "paragraph",
+            "text": "Les visiteurs décident en quelques secondes. Si votre page d'accueil met plus de trois ou quatre secondes à s'afficher, une grande partie des visiteurs partira avant même de voir ce que vous proposez — et beaucoup ne reviendront pas. Un chargement lent est souvent causé par des photos trop lourdes, des extensions dépassées ou un hébergement bon marché, et il fait double mal : les visiteurs partent, et Google classe moins bien les sites lents. Testez votre site sur un téléphone avec une connexion mobile normale, pas seulement sur le Wi-Fi de votre bureau. Si vous n'attendriez pas vous-même, vos clients n'attendront pas non plus."
+          },
+          {
+            "type": "heading",
+            "text": "2. On ne comprend pas ce que vous faites en cinq secondes"
+          },
+          {
+            "type": "paragraph",
+            "text": "Ouvrez votre page d'accueil et imaginez que vous ne connaissez pas votre entreprise. En cinq secondes, pouvez-vous dire ce qu'elle propose, à qui cela s'adresse et ce qu'il faut faire ensuite ? Si la réponse est non, la page fait l'inverse de son travail. Les slogans vagues, les photos génériques et les longs textes sur l'entreprise font fuir les visiteurs. Dites clairement, avec des mots simples, ce que vous vendez et à qui cela sert, et placez une action claire — appeler, envoyer un message ou demander un devis — là où personne ne peut la manquer."
+          },
+          {
+            "type": "heading",
+            "text": "3. Il s'affiche mal sur téléphone"
+          },
+          {
+            "type": "paragraph",
+            "text": "La plupart de vos visiteurs arrivent aujourd'hui sur un téléphone, et ils jugent votre entreprise à ce qu'ils y voient. Un texte trop petit pour être lu, des boutons difficiles à toucher, des images qui dépassent de l'écran ou un menu qui ne s'ouvre pas envoient tous le même message : cette entreprise ne fait pas attention aux détails. Pire encore, Google classe d'abord la version mobile de votre site, donc un site qui échoue sur téléphone chute aussi dans les résultats de recherche. Vérifiez chaque page importante sur un vrai téléphone, pas seulement sur un écran d'ordinateur."
+          },
+          {
+            "type": "heading",
+            "text": "4. Il n'y a pas de moyen simple de vous contacter"
+          },
+          {
+            "type": "paragraph",
+            "text": "Un visiteur prêt à acheter ne devrait jamais avoir à chercher votre numéro de téléphone ou votre adresse e-mail. Si vos coordonnées sont cachées en bas d'une seule page, si votre formulaire de contact renvoie une erreur, ou si personne ne répond au numéro WhatsApp indiqué, ce client est perdu — et il vous dira rarement pourquoi. Mettez votre numéro de téléphone et votre bouton WhatsApp bien visibles sur chaque page, testez vous-même votre formulaire de contact une fois par mois, et répondez aux nouveaux messages le jour même. La rapidité de la réponse est souvent ce qui fait gagner la vente."
+          },
+          {
+            "type": "heading",
+            "text": "5. Rien n'a changé sur le site depuis des mois"
+          },
+          {
+            "type": "paragraph",
+            "text": "Un site web qui ne change jamais dit discrètement aux visiteurs — et à Google — que l'entreprise s'est endormie. Des horaires dépassés, des prix de l'année dernière, un blog arrêté en 2023 ou des photos de produits que vous ne vendez plus nuisent à la confiance. Un client qui repère un détail périmé commence à se demander quoi d'autre est périmé. Inutile de refaire votre site chaque année, mais il faut le garder vivant : mettez à jour vos horaires, vos prix et vos photos, et publiez quelque chose d'utile tous les mois ou tous les deux mois, pour que les visiteurs — et les moteurs de recherche — voient que l'entreprise est active."
+          },
+          {
+            "type": "paragraph",
+            "text": [
+              {
+                "text": "Si votre site web présente au moins deux de ces signes, tout n'est pas perdu : chacun se corrige, et les corriger coûte en général bien moins cher que les clients qu'ils vous font déjà perdre. Parlez-nous de votre entreprise sur "
+              },
+              {
+                "text": "notre page de contact",
+                "href": "/contact.html"
+              },
+              {
+                "text": " et nous regarderons votre site ensemble pour vous dire quoi corriger en premier."
+              }
+            ]
+          }
+        ]
+      }
+    }
   }
 ]
