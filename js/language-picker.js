@@ -1,7 +1,7 @@
 // The language dropdown in the header (accessible listbox, works with mouse, touch and keyboard).
 
 import { settings } from "./settings.js";
-import { getLanguage, setLanguage } from "./translator.js?v=8d60b6a2";
+import { getLanguage, setLanguage } from "./translator.js?v=50f422cc";
 
 export function setupLanguagePicker() {
   const picker = document.querySelector("[data-language-picker]");
