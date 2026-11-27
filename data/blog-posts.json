@@ -3368,5 +3368,183 @@
         ]
       }
     }
+  },
+  {
+    "slug": "what-a-good-landing-page-needs-to-convert",
+    "date": "2026-11-27",
+    "category": "web",
+    "image": "",
+    "translations": {
+      "en": {
+        "title": "What a Good Landing Page Needs to Convert",
+        "excerpt": "One promise, one action, visible proof and a fast page: what a landing page needs so visitors become enquiries instead of leaving.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "A landing page has one job: turn a visitor who just clicked an ad, a search result or a social media post into an enquiry, a booking or a sale. Unlike your homepage, which has to serve everyone, a landing page serves one offer and one audience. When it works, the visitor understands within seconds what you offer, why it is credible and what to do next. When it does not, the visitor leaves, and the money spent bringing them there leaves too. Here is what a good landing page needs."
+          },
+          {
+            "type": "heading",
+            "text": "One page, one promise"
+          },
+          {
+            "type": "paragraph",
+            "text": "The most common landing page mistake is asking for everything at once: buy this, read that, follow us, join the newsletter. Every extra goal dilutes the main one. A converting page makes a single promise — a free quote, a booked call, a product at a clear price — and every section supports it. If a block of text does not help the visitor decide, it is decoration, and decoration is where conversions die. Before writing anything, finish this sentence: after reading this page, the visitor will do one thing, and that thing is..."
+          },
+          {
+            "type": "heading",
+            "text": "A headline that says what the visitor gets"
+          },
+          {
+            "type": "paragraph",
+            "text": "Your headline is not a slogan. It should state the outcome in the visitor's language: what they get, for whom, and ideally how quickly or how easily. Compare 'Welcome to our company' with 'Get a free quote for your shop's website within one working day'. The second headline answers the only question the visitor arrived with. Keep it short, put the benefit first, and add one sub-headline sentence with a concrete detail: who it is for, what is included, or what happens next."
+          },
+          {
+            "type": "heading",
+            "text": "One clear action, repeated"
+          },
+          {
+            "type": "paragraph",
+            "text": "The call to action should be impossible to miss and identical everywhere it appears. Use one action verb — 'Request my quote', 'Book my call', 'Order now' — on a button that stands out from the rest of the page, and repeat that same button after each major section so the visitor never has to scroll back up to act. Vague labels like 'Submit' or 'Click here' tell the visitor nothing about what happens next. A good button names the reward, and the text just under it removes the last hesitation: how long it takes, whether it is free, and that there is no obligation."
+          },
+          {
+            "type": "heading",
+            "text": "Proof before the ask"
+          },
+          {
+            "type": "paragraph",
+            "text": "Visitors do not distrust your offer; they distrust claims they cannot check. Proof is what closes that gap. Real customer reviews with names, photos of actual work, numbers you can stand behind, logos of partners you genuinely work with, and a short 'how it works' section all do the same job: they make the promise believable before you ask for anything. Place your strongest proof near the top and keep it specific: 'trusted by many clients' says nothing, while a named review describing a concrete result says a great deal."
+          },
+          {
+            "type": "heading",
+            "text": "A short form and honest expectations"
+          },
+          {
+            "type": "paragraph",
+            "text": "Every field you add to a form costs you responses. Ask only for what you need to start the conversation — usually a name, a way to reply and one line about the request. You can collect the rest later, once the visitor has become a customer. Just as important, say exactly what happens after the form is sent: who replies, how fast, and what the next step looks like. A visitor who knows 'we reply within one working day with a price and a timeline' is far more likely to write than one staring at a silent form with no promise attached."
+          },
+          {
+            "type": "heading",
+            "text": "Fast and readable on a phone"
+          },
+          {
+            "type": "paragraph",
+            "text": "Most landing page traffic now arrives on a phone, often on a slow connection. A page that takes several seconds to load, squeezes text into tiny columns or hides the button below three screens of images loses visitors before your headline is read. Keep images light, use large readable text, make buttons easy to tap, and test on a mid-range phone, not only your office computer. Speed and readability are not technical extras; they are the difference between a click that converts and one that evaporates."
+          },
+          {
+            "type": "heading",
+            "text": "Match the message that sent them there"
+          },
+          {
+            "type": "paragraph",
+            "text": "A landing page cannot convert visitors it confuses. If your ad promises a free consultation and the page opens with a general company presentation, the visitor assumes they landed in the wrong place and leaves. The headline, the offer and even the wording on the page should echo the ad, post or search result that brought the visitor in. That match is also why one generic page rarely works for every campaign: a page built for one offer will always outperform a homepage asked to speak to everyone at once."
+          },
+          {
+            "type": "paragraph",
+            "text": "None of this needs a big budget or a full website redesign. One focused page, one honest promise, visible proof and a single clear action usually outperform a beautiful page that tries to do everything. Start with the offer customers ask about most, and watch what visitors do before adding anything else."
+          },
+          {
+            "type": "paragraph",
+            "text": [
+              {
+                "text": "Want a landing page that turns your clicks into enquiries? Describe your offer on "
+              },
+              {
+                "text": "our contact page",
+                "href": "/contact.html"
+              },
+              {
+                "text": " and we will tell you what the page needs and discuss the price for that scope, with no obligation."
+              }
+            ]
+          }
+        ]
+      },
+      "fr": {
+        "title": "Ce qu'une bonne page d'atterrissage doit contenir",
+        "excerpt": "Une promesse, une action, des preuves visibles et une page rapide : ce qu'il faut pour transformer les visiteurs en demandes.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Une page d'atterrissage a un seul rôle : transformer un visiteur qui vient de cliquer sur une publicité ou un résultat de recherche en demande, en réservation ou en vente. Contrairement à votre page d'accueil, qui sert tout le monde, elle sert une seule offre et un seul public. Quand elle fonctionne, le visiteur comprend en quelques secondes ce que vous proposez et quoi faire ensuite. Quand elle ne fonctionne pas, le visiteur repart, et l'argent dépensé pour l'amener aussi. Voici ce qu'une bonne page d'atterrissage doit contenir."
+          },
+          {
+            "type": "heading",
+            "text": "Une page, une promesse"
+          },
+          {
+            "type": "paragraph",
+            "text": "L'erreur la plus fréquente sur une page d'atterrissage est de tout demander à la fois : achetez ceci, lisez cela, suivez-nous, inscrivez-vous à la newsletter. Chaque objectif supplémentaire dilue l'objectif principal. Une page qui convertit fait une seule promesse — un devis gratuit, un appel réservé, un produit à un prix clair — et chaque section la soutient. Si un bloc de texte n'aide pas le visiteur à décider, c'est de la décoration, et c'est là que les conversions meurent. Avant d'écrire, terminez cette phrase : après cette page, le visiteur fera une seule chose, et cette chose est..."
+          },
+          {
+            "type": "heading",
+            "text": "Un titre qui dit ce que le visiteur obtient"
+          },
+          {
+            "type": "paragraph",
+            "text": "Votre titre n'est pas un slogan. Il doit énoncer le résultat dans la langue du visiteur : ce qu'il obtient, pour qui, et si possible en combien de temps. Comparez « Bienvenue dans notre entreprise » avec « Recevez un devis gratuit pour le site de votre boutique sous un jour ouvré ». Le second répond à la question avec laquelle le visiteur est arrivé. Gardez-le court, placez le bénéfice en premier, et ajoutez une phrase de sous-titre avec un détail concret : à qui cela s'adresse, ce qui est inclus, ou ce qui se passe ensuite."
+          },
+          {
+            "type": "heading",
+            "text": "Une action claire, répétée"
+          },
+          {
+            "type": "paragraph",
+            "text": "L'appel à l'action doit être impossible à manquer et identique partout. Utilisez un seul verbe d'action — « Demander mon devis », « Réserver mon appel » — sur un bouton qui se détache du reste de la page, et répétez-le après chaque grande section. Des libellés vagues comme « Envoyer » ne disent rien sur ce qui se passe ensuite. Un bon bouton nomme le bénéfice, et le texte en dessous lève la dernière hésitation : combien de temps cela prend, si c'est gratuit, et que c'est sans engagement."
+          },
+          {
+            "type": "heading",
+            "text": "La preuve avant la demande"
+          },
+          {
+            "type": "paragraph",
+            "text": "Les visiteurs se méfient des affirmations qu'ils ne peuvent pas vérifier. La preuve comble cet écart : de vrais avis clients avec des noms, des photos de travaux réels, des chiffres que vous pouvez assumer et une courte section « comment ça marche » rendent la promesse crédible avant de demander quoi que ce soit. Placez votre preuve la plus forte près du haut et gardez-la précise : « de nombreux clients nous font confiance » ne dit rien, tandis qu'un avis signé décrivant un résultat concret dit beaucoup."
+          },
+          {
+            "type": "heading",
+            "text": "Un formulaire court et des attentes honnêtes"
+          },
+          {
+            "type": "paragraph",
+            "text": "Chaque champ ajouté à un formulaire vous coûte des réponses. Demandez uniquement l'essentiel pour commencer : un nom, un moyen de répondre et une ligne sur la demande. Le reste viendra plus tard, une fois le visiteur devenu client. Dites aussi ce qui se passe après l'envoi : qui répond, en combien de temps, et quelle est l'étape suivante. Un visiteur qui sait « nous répondons sous un jour ouvré avec un prix et un délai » écrira bien plus volontiers."
+          },
+          {
+            "type": "heading",
+            "text": "Rapide et lisible sur un téléphone"
+          },
+          {
+            "type": "paragraph",
+            "text": "La plupart des visites arrivent aujourd'hui par téléphone, souvent avec une connexion lente. Une page qui met plusieurs secondes à charger, écrase le texte en minuscules colonnes ou cache le bouton sous trois écrans d'images perd ses visiteurs avant même que votre titre soit lu. Gardez des images légères, un texte grand et lisible, des boutons faciles à toucher, et testez sur un téléphone milieu de gamme, pas seulement sur l'ordinateur du bureau. La vitesse et la lisibilité ne sont pas des extras techniques ; ce sont elles qui font la différence entre un clic qui convertit et un clic qui s'évapore."
+          },
+          {
+            "type": "heading",
+            "text": "Correspondre au message qui les a amenés"
+          },
+          {
+            "type": "paragraph",
+            "text": "Une page d'atterrissage ne convertit pas des visiteurs qu'elle déroute. Si votre publicité promet une consultation gratuite et que la page s'ouvre sur une présentation générale, le visiteur suppose qu'il est au mauvais endroit et repart. Le titre et l'offre doivent faire écho à la publicité ou à la publication qui l'a amené. C'est aussi pour cela qu'une page générique fonctionne rarement : une page construite pour une seule offre surpassera toujours une page d'accueil sommée de parler à tout le monde."
+          },
+          {
+            "type": "paragraph",
+            "text": "Rien de tout cela n'exige un gros budget ni la refonte de tout votre site. Une page ciblée, une promesse honnête, une preuve visible et une seule action claire surpassent en général une belle page qui essaie de tout faire. Commencez par l'offre que vos clients demandent le plus, et observez ce que les visiteurs font avant d'ajouter quoi que ce soit."
+          },
+          {
+            "type": "paragraph",
+            "text": [
+              {
+                "text": "Vous voulez une page d'atterrissage qui transforme vos clics en demandes ? Décrivez votre offre sur "
+              },
+              {
+                "text": "notre page de contact",
+                "href": "/contact.html"
+              },
+              {
+                "text": " : nous vous dirons ce que la page doit contenir et discuterons du prix selon ce périmètre, sans engagement."
+              }
+            ]
+          }
+        ]
+      }
+    }
   }
 ]
