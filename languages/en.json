@@ -120,9 +120,12 @@
         "SEO — audits and monthly optimization to get found on Google",
         "Websites — showcase sites, landing pages and e-commerce stores",
         "WhatsApp chatbot & automation — auto-replies, catalogs, bookings",
-        "Data cleaning — messy files turned into clean, usable data",
-        "Data analysis — turn your sales, customer and campaign data into clear decisions",
-        "Business dashboards — your sales and stock at a glance",
+        "Data cleaning & automation — messy Excel and CSV files cleaned, merged and turned into reliable data",
+        "Data analysis & reports — sales, stock, customer and campaign analysis with clear recommendations",
+        "Business dashboards — sales, stock and KPI dashboards you can check at a glance",
+        "Forecasting & ML prediction — demand and sales forecasts, churn and risk scores",
+        "Anomaly & fraud detection — unusual transactions and errors flagged early",
+        "AI assistants & model deployment — document chatbots and prediction models put online as tools or APIs",
         "Email & SMS campaigns — setup and automation"
       ]
     },
