@@ -2,11 +2,11 @@
 // - home page: "Témoignages" ([data-testimonials])
 // - events.html: "Nos événements", upcoming first, then past ([data-events-list])
 
-import { getLanguage, translate } from "./translator.js?v=8d60b6a2";
-import { pickLanguage, sanityImage, sanityQuery } from "./sanity.js?v=8d60b6a2";
-import { el, icon } from "./blog.js?v=8d60b6a2";
-import { formatDate } from "./blog-data.js?v=8d60b6a2";
-import { whenNear } from "./scroll-effects.js?v=8d60b6a2";
+import { getLanguage, translate } from "./translator.js?v=50f422cc";
+import { pickLanguage, sanityImage, sanityQuery } from "./sanity.js?v=50f422cc";
+import { el, icon } from "./blog.js?v=50f422cc";
+import { formatDate } from "./blog-data.js?v=50f422cc";
+import { whenNear } from "./scroll-effects.js?v=50f422cc";
 
 const TESTIMONIALS_QUERY = `*[_type == "testimonial" && defined(name) && defined(quote.fr)]
   | order(_createdAt desc)[0...6] { _id, name, role, company, quote, photo }`;
