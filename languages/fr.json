@@ -120,9 +120,12 @@
         "SEO — audits et optimisation mensuelle pour être trouvé sur Google",
         "Sites web — sites vitrines, pages de destination et boutiques en ligne",
         "Chatbot WhatsApp & automatisation — réponses auto, catalogues, réservations",
-        "Nettoyage de données — vos fichiers en désordre transformés en données propres et exploitables",
-        "Analyse de données — transformez vos données de ventes, clients et campagnes en décisions claires",
-        "Tableaux de bord — vos ventes et stocks en un coup d'œil",
+        "Nettoyage et automatisation des données — fichiers Excel et CSV désorganisés nettoyés, fusionnés et rendus fiables",
+        "Analyse de données et rapports — analyse des ventes, stocks, clients et campagnes avec des recommandations claires",
+        "Tableaux de bord — ventes, stocks et indicateurs clés en un coup d'œil",
+        "Prévision et prédiction ML — prévisions de demande et de ventes, scores de risque et d'attrition",
+        "Détection d'anomalies et de fraude — transactions inhabituelles et erreurs signalées tôt",
+        "Assistants IA et déploiement de modèles — chatbots documentaires et modèles de prédiction mis en ligne comme outils ou API",
         "Campagnes e-mail & SMS — création et automatisation"
       ]
     },
